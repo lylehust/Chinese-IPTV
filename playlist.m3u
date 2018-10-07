@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-1 HD
+http://ipv6.bjtu.edu.cn/hls/cctv1hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-2 HD
+http://ipv6.bjtu.edu.cn/hls/cctv2hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-3 HD
+http://ipv6.bjtu.edu.cn/hls/cctv3hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-4 HD
+http://ipv6.bjtu.edu.cn/hls/cctv4hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-5 HD
+http://ipv6.bjtu.edu.cn/hls/cctv5hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-5+ HD
+http://ipv6.bjtu.edu.cn/hls/cctv5phd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-6 HD
+http://ipv6.bjtu.edu.cn/hls/cctv6hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-7 HD
+http://ipv6.bjtu.edu.cn/hls/cctv7hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-8 HD
+http://ipv6.bjtu.edu.cn/hls/cctv8hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-9 HD
+http://ipv6.bjtu.edu.cn/hls/cctv9hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-10 HD
+http://ipv6.bjtu.edu.cn/hls/cctv10hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-12 HD
+http://ipv6.bjtu.edu.cn/hls/cctv12hd.m3u8
+
+#EXTINF:-1 group-title="CCTV-HD",CCTV-14 HD
+http://ipv6.bjtu.edu.cn/hls/cctv14hd.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-1
+http://ipv6.bjtu.edu.cn/hls/cctv1.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-2
+http://ipv6.bjtu.edu.cn/hls/cctv2.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-3
+http://ipv6.bjtu.edu.cn/hls/cctv3.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-4
+http://ipv6.bjtu.edu.cn/hls/cctv4.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-5
+http://ipv6.bjtu.edu.cn/hls/cctv5.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-6
+http://ipv6.bjtu.edu.cn/hls/cctv6.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-7
+http://ipv6.bjtu.edu.cn/hls/cctv7.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-8
+http://ipv6.bjtu.edu.cn/hls/cctv8.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-9
+http://ipv6.bjtu.edu.cn/hls/cctv9.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-10
+http://ipv6.bjtu.edu.cn/hls/cctv10.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-11
+http://ipv6.bjtu.edu.cn/hls/cctv11.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-12
+http://ipv6.bjtu.edu.cn/hls/cctv12.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-13 News
+http://ipv6.bjtu.edu.cn/hls/cctv13.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-14
+http://ipv6.bjtu.edu.cn/hls/cctv14.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="CCTV",CCTV-15 Music
+http://ipv6.bjtu.edu.cn/hls/cctv15.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="Other",Beijing Movie
+http://ipv6.bjtu.edu.cn/hls/btv4hd.m3u8
+
+#EXTINF:-1 aspect-ratio="4:3" group-title="Other",Hunan
+http://ipv6.bjtu.edu.cn/hls/hunanhd.m3u8
