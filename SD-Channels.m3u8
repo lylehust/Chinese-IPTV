@@ -1,0 +1,198 @@
+#EXTINF:-1 group-title="标清频道",CCTV-1综合 SD
+http://ipv6.bjtu.edu.cn/hls/cctv1.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-2财经 SD
+http://ipv6.bjtu.edu.cn/hls/cctv2.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-3综艺 SD
+http://ipv6.bjtu.edu.cn/hls/cctv3.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-4中文国际 SD
+http://ipv6.bjtu.edu.cn/hls/cctv4.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-5体育 SD
+http://ipv6.bjtu.edu.cn/hls/cctv5.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-6电影 SD
+http://ipv6.bjtu.edu.cn/hls/cctv6.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-7军事农业 SD
+http://ipv6.bjtu.edu.cn/hls/cctv7.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-8电视剧 SD
+http://ipv6.bjtu.edu.cn/hls/cctv8.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-9纪录 SD
+http://ipv6.bjtu.edu.cn/hls/cctv9.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-10科教 SD
+http://ipv6.bjtu.edu.cn/hls/cctv10.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-11戏曲 SD
+http://ipv6.bjtu.edu.cn/hls/cctv11.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-12社会与法 SD
+http://ipv6.bjtu.edu.cn/hls/cctv12.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-13新闻 SD
+http://ipv6.bjtu.edu.cn/hls/cctv13.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-14少儿 SD
+http://ipv6.bjtu.edu.cn/hls/cctv14.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-15音乐 SD
+http://ipv6.bjtu.edu.cn/hls/cctv15.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-NEWS SD
+http://ipv6.bjtu.edu.cn/hls/cctv16.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-第一剧场 SD
+http://ipv6.bjtu.edu.cn/hls/dyjctv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-世界地理 SD
+http://ipv6.bjtu.edu.cn/hls/sjdltv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-风云剧场 SD
+http://ipv6.bjtu.edu.cn/hls/fyjctv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-风云足球 SD
+http://ipv6.bjtu.edu.cn/hls/fyzqtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-国防军事 SD
+http://ipv6.bjtu.edu.cn/hls/gfjstv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",CCTV-怀旧剧场 SD
+http://ipv6.bjtu.edu.cn/hls/hjjctv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",北京文艺 SD
+http://ipv6.bjtu.edu.cn/hls/btv2.m3u8 
+
+#EXTINF:-1 group-title="标清频道",北京科教 SD
+http://ipv6.bjtu.edu.cn/hls/btv3.m3u8 
+
+#EXTINF:-1 group-title="标清频道",北京影视 SD
+http://ipv6.bjtu.edu.cn/hls/btv4.m3u8 
+
+#EXTINF:-1 group-title="标清频道",北京体育 SD
+http://ipv6.bjtu.edu.cn/hls/btv6.m3u8 
+
+#EXTINF:-1 group-title="标清频道",北京卫视 SD
+http://ipv6.bjtu.edu.cn/hls/btv1.m3u8 
+
+#EXTINF:-1 group-title="标清频道",北京财经 SD
+http://ipv6.bjtu.edu.cn/hls/btv5.m3u8 
+
+#EXTINF:-1 group-title="标清频道",北京生活 SD
+http://ipv6.bjtu.edu.cn/hls/btv7.m3u8 
+
+#EXTINF:-1 group-title="标清频道",北京青年 SD
+http://ipv6.bjtu.edu.cn/hls/btv8.m3u8 
+
+#EXTINF:-1 group-title="标清频道",卡酷少儿 SD
+http://ipv6.bjtu.edu.cn/hls/btv10.m3u8 
+
+#EXTINF:-1 group-title="标清频道",北京新闻 SD
+http://ipv6.bjtu.edu.cn/hls/btv9.m3u8 
+
+#EXTINF:-1 group-title="标清频道",深圳卫视 SD
+http://ipv6.bjtu.edu.cn/hls/sztv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",安徽卫视 SD
+http://ipv6.bjtu.edu.cn/hls/ahtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",河南卫视 SD
+http://ipv6.bjtu.edu.cn/hls/hntv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",陕西卫视 SD
+http://ipv6.bjtu.edu.cn/hls/sxtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",广东卫视 SD
+http://ipv6.bjtu.edu.cn/hls/gdtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",山东卫视 SD
+http://ipv6.bjtu.edu.cn/hls/sdtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",湖北卫视 SD
+http://ipv6.bjtu.edu.cn/hls/hbtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",河北卫视 SD
+http://ipv6.bjtu.edu.cn/hls/hebtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",西藏卫视 SD
+http://ipv6.bjtu.edu.cn/hls/xztv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",内蒙古卫视 SD
+http://ipv6.bjtu.edu.cn/hls/nmtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",四川卫视 SD
+http://ipv6.bjtu.edu.cn/hls/sctv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",江苏卫视 SD
+http://ipv6.bjtu.edu.cn/hls/jstv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",天津卫视 SD
+http://ipv6.bjtu.edu.cn/hls/tjtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",辽宁卫视 SD
+http://ipv6.bjtu.edu.cn/hls/lntv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",厦门卫视 SD
+http://ipv6.bjtu.edu.cn/hls/xmtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",新疆卫视 SD
+http://ipv6.bjtu.edu.cn/hls/xjtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",黑龙江卫视 SD
+http://ipv6.bjtu.edu.cn/hls/hljtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",湖南卫视 SD
+http://ipv6.bjtu.edu.cn/hls/hunantv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",云南卫视 SD
+http://ipv6.bjtu.edu.cn/hls/yntv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",福建东南卫视 SD
+http://ipv6.bjtu.edu.cn/hls/dntv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",浙江卫视 SD
+http://ipv6.bjtu.edu.cn/hls/zjtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",贵州卫视 SD
+http://ipv6.bjtu.edu.cn/hls/gztv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",甘肃卫视 SD
+http://ipv6.bjtu.edu.cn/hls/gstv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",重庆卫视 SD
+http://ipv6.bjtu.edu.cn/hls/cqtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",吉林卫视 SD
+http://ipv6.bjtu.edu.cn/hls/jltv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",广西卫视 SD
+http://ipv6.bjtu.edu.cn/hls/gxtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",青海卫视 SD
+http://ipv6.bjtu.edu.cn/hls/qhtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",山西卫视 SD
+http://ipv6.bjtu.edu.cn/hls/sxrtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",东方卫视 SD
+http://ipv6.bjtu.edu.cn/hls/dftv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",江西卫视 SD
+http://ipv6.bjtu.edu.cn/hls/jxtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",宁夏卫视 SD
+http://ipv6.bjtu.edu.cn/hls/nxtv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",旅游卫视 SD
+http://ipv6.bjtu.edu.cn/hls/lytv.m3u8 
+
+#EXTINF:-1 group-title="标清频道",探索频道 SD
+http://ipv6.bjtu.edu.cn/hls/discovery.m3u8 
+
+#EXTINF:-1 group-title="标清频道",国家地理 SD
+http://ipv6.bjtu.edu.cn/hls/natlgeo.m3u8 
+
