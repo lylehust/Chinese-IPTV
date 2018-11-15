@@ -11,7 +11,7 @@ WebGrab+Plus, http://webgrabplus.com/)
 
 If IPTV app supports remote path, such as PVR IPTV simple client in KODI, you could use both files here, playlist.m3u and
 guide.xml. If your time zone is Eastern Time Zone (UTC-5), EPG time shift is -5
-because time in guid.xml is UTC-0. Others, you can change EPG time shift number
+because time in guide.xml is UTC-0. Otherwise, you can change EPG time shift number
 according to your time zone.
 
 Channel list:
