@@ -29,27 +29,27 @@ http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
 http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
 #EXTINF:-1 tvg-id="cctv15",CCTV-15音乐
 http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="hunan",湖南卫视高清
+#EXTINF:-1 tvg-id="hunan",湖南卫视
 http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
-#EXTINF:-1 tvg-id="jiangsu,江苏卫视高清
+#EXTINF:-1 tvg-id="jiangsu,江苏卫视
 http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
-#EXTINF:-1 tvg-id="dongfang",东方卫视高清
+#EXTINF:-1 tvg-id="dongfang",东方卫视
 http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
-#EXTINF:-1 tvg-id="btv1",北京卫视高清
+#EXTINF:-1 tvg-id="btv1",北京卫视
 http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
-#EXTINF:-1 tvg-id="guangdong",广东卫视高清
+#EXTINF:-1 tvg-id="guangdong",广东卫视
 http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
-#EXTINF:-1 tvg-id="shenzhen",深圳卫视高清
+#EXTINF:-1 tvg-id="shenzhen",深圳卫视
 http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
-#EXTINF:-1 tvg-id="tianjin",天津卫视高清
+#EXTINF:-1 tvg-id="tianjin",天津卫视
 http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8
-#EXTINF:-1 tvg-id="shandong",山东卫视高清
+#EXTINF:-1 tvg-id="shandong",山东卫视
 http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8
-#EXTINF:-1 tvg-id="chongqing",重庆卫视高清
+#EXTINF:-1 tvg-id="chongqing",重庆卫视
 http://223.110.243.138/PLTV/3/224/3221227421/index.m3u8
-#EXTINF:-1 tvg-id="jiangxi",江西卫视高清
+#EXTINF:-1 tvg-id="jiangxi",江西卫视
 http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8
-#EXTINF:-1 tvg-id="heilongjiang",黑龙江卫视高清
+#EXTINF:-1 tvg-id="heilongjiang",黑龙江卫视
 http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
 #EXTINF:-1 tvg-id="sichuan",四川卫视
 http://ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
