@@ -15,7 +15,7 @@ because time in guide.xml is UTC-0. Otherwise, you can change EPG time shift num
 according to your time zone.
 
 Channel list:
-https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/playlist.m3u
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-IPV6-BJTU.m3u
 
 Guide file (EPG):
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/guide.xml
