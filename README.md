@@ -25,3 +25,5 @@ guide.xml will be refreshed at 3:00am every day.
 
 # Thank bjtu.edu a lot. 
 http://ipv6.bjtu.edu.cn/
+
+BJTU doesn't work any more, and added AHAU.
