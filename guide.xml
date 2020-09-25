@@ -280,224 +280,35 @@
     <display-name lang="zh">CETV-3</display-name>
     <url>http://www.tv.cntv.cn</url>
   </channel>
-  <programme start="20200924043500 +0000" stop="20200924051600 +0000" channel="cctv1">
-    <title lang="zh">今日说法-2020-268</title>
-  </programme>
-  <programme start="20200924051600 +0000" stop="20200924060600 +0000" channel="cctv1">
-    <title lang="zh">湾区儿女第33集</title>
-  </programme>
-  <programme start="20200924060600 +0000" stop="20200924065700 +0000" channel="cctv1">
-    <title lang="zh">湾区儿女第34集</title>
-  </programme>
-  <programme start="20200924065700 +0000" stop="20200924075000 +0000" channel="cctv1">
-    <title lang="zh">月是故乡明第1集</title>
-  </programme>
-  <programme start="20200924075000 +0000" stop="20200924084300 +0000" channel="cctv1">
-    <title lang="zh">月是故乡明第2集</title>
-  </programme>
-  <programme start="20200924084300 +0000" stop="20200924092100 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-820</title>
-  </programme>
-  <programme start="20200924092100 +0000" stop="20200924094800 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-821</title>
-  </programme>
-  <programme start="20200924094800 +0000" stop="20200924095900 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-822</title>
-  </programme>
-  <programme start="20200924095900 +0000" stop="20200924104500 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-823</title>
-  </programme>
-  <programme start="20200924104500 +0000" stop="20200924105200 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-730</title>
-  </programme>
-  <programme start="20200924105200 +0000" stop="20200924110000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-258</title>
-  </programme>
-  <programme start="20200924110000 +0000" stop="20200924114000 +0000" channel="cctv1">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924114000 +0000" stop="20200924120100 +0000" channel="cctv1">
-    <title lang="zh">焦点访谈</title>
-  </programme>
-  <programme start="20200924120100 +0000" stop="20200924120600 +0000" channel="cctv1">
-    <title lang="zh">前情提要- 《最美逆行者》第11集</title>
-  </programme>
-  <programme start="20200924120600 +0000" stop="20200924125700 +0000" channel="cctv1">
-    <title lang="zh">最美逆行者第11集</title>
-  </programme>
-  <programme start="20200924125700 +0000" stop="20200924130200 +0000" channel="cctv1">
-    <title lang="zh">前情提要- 《最美逆行者》第12集</title>
-  </programme>
-  <programme start="20200924130200 +0000" stop="20200924135400 +0000" channel="cctv1">
-    <title lang="zh">最美逆行者第12集</title>
-  </programme>
-  <programme start="20200924135400 +0000" stop="20200924140000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-109</title>
-  </programme>
-  <programme start="20200924140000 +0000" stop="20200924143700 +0000" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
-  </programme>
-  <programme start="20200924143700 +0000" stop="20200924153500 +0000" channel="cctv1">
-    <title lang="zh">故事中国2020-256  大工告成2</title>
-  </programme>
-  <programme start="20200924153500 +0000" stop="20200924172000 +0000" channel="cctv1">
-    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播2</title>
-  </programme>
-  <programme start="20200924172000 +0000" stop="20200924175200 +0000" channel="cctv1">
-    <title lang="zh">动物世界-2020-147</title>
-  </programme>
-  <programme start="20200924175200 +0000" stop="20200924175800 +0000" channel="cctv1">
-    <title lang="zh">生活提示</title>
-  </programme>
-  <programme start="20200924175800 +0000" stop="20200924183000 +0000" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
-  </programme>
-  <programme start="20200924183000 +0000" stop="20200924184100 +0000" channel="cctv1">
-    <title lang="zh">精彩一刻-2020-67航拍中国第三季安徽村庄11分</title>
-  </programme>
-  <programme start="20200924184100 +0000" stop="20200924185600 +0000" channel="cctv1">
-    <title lang="zh">精彩一刻-2020-171新航拍中国第三季天津城建</title>
-  </programme>
-  <programme start="20200924185600 +0000" stop="20200924202900 +0000" channel="cctv1">
-    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播4</title>
-  </programme>
-  <programme start="20200924202900 +0000" stop="20200924205700 +0000" channel="cctv1">
-    <title lang="zh">今日说法-2020-268</title>
-  </programme>
-  <programme start="20200924205700 +0000" stop="20200924212700 +0000" channel="cctv1">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924212700 +0000" stop="20200924220000 +0000" channel="cctv1">
-    <title lang="zh">人与自然-204</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200925003800 +0000" channel="cctv1">
-    <title lang="zh">朝闻天下</title>
-  </programme>
-  <programme start="20200925003800 +0000" stop="20200925012400 +0000" channel="cctv1">
-    <title lang="zh">生活早参考-特别节目（生活圈）2020-93</title>
-  </programme>
-  <programme start="20200925012400 +0000" stop="20200925021200 +0000" channel="cctv1">
-    <title lang="zh">誓盟第18集</title>
-  </programme>
-  <programme start="20200925021200 +0000" stop="20200925030600 +0000" channel="cctv1">
-    <title lang="zh">誓盟第19集</title>
-  </programme>
-  <programme start="20200925030600 +0000" stop="20200925035400 +0000" channel="cctv1">
-    <title lang="zh">誓盟第20集</title>
-  </programme>
-  <programme start="20200925035400 +0000" stop="20200925040000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-110</title>
-  </programme>
-  <programme start="20200925040000 +0000" stop="20200925043500 +0000" channel="cctv1">
-    <title lang="zh">新闻30分</title>
-  </programme>
-  <programme start="20200925043500 +0000" stop="20200925043500 +0000" channel="cctv1">
-    <title lang="zh">今日说法-2020-269</title>
-  </programme>
-  <programme start="20200925043500 +0000" stop="20200925051600 +0000" channel="cctv1">
-    <title lang="zh">今日说法-2020-268</title>
-  </programme>
-  <programme start="20200925043500 +0000" stop="20200925051600 +0000" channel="cctv1">
-    <title lang="zh">今日说法-2020-268</title>
-  </programme>
-  <programme start="20200925043500 +0000" stop="20200925051600 +0000" channel="cctv1">
-    <title lang="zh">今日说法-2020-268</title>
-  </programme>
   <programme start="20200925051600 +0000" stop="20200925060600 +0000" channel="cctv1">
-    <title lang="zh">湾区儿女第33集</title>
-  </programme>
-  <programme start="20200925051600 +0000" stop="20200925060600 +0000" channel="cctv1">
-    <title lang="zh">湾区儿女第33集</title>
-  </programme>
-  <programme start="20200925051600 +0000" stop="20200925060600 +0000" channel="cctv1">
-    <title lang="zh">湾区儿女第33集</title>
+    <title lang="zh">月是故乡明第3集</title>
   </programme>
   <programme start="20200925060600 +0000" stop="20200925065700 +0000" channel="cctv1">
-    <title lang="zh">湾区儿女第34集</title>
-  </programme>
-  <programme start="20200925060600 +0000" stop="20200925065700 +0000" channel="cctv1">
-    <title lang="zh">湾区儿女第34集</title>
-  </programme>
-  <programme start="20200925060600 +0000" stop="20200925065700 +0000" channel="cctv1">
-    <title lang="zh">湾区儿女第34集</title>
+    <title lang="zh">月是故乡明第4集</title>
   </programme>
   <programme start="20200925065700 +0000" stop="20200925075000 +0000" channel="cctv1">
-    <title lang="zh">月是故乡明第1集</title>
-  </programme>
-  <programme start="20200925065700 +0000" stop="20200925075000 +0000" channel="cctv1">
-    <title lang="zh">月是故乡明第1集</title>
-  </programme>
-  <programme start="20200925065700 +0000" stop="20200925075000 +0000" channel="cctv1">
-    <title lang="zh">月是故乡明第1集</title>
+    <title lang="zh">月是故乡明第5集</title>
   </programme>
   <programme start="20200925075000 +0000" stop="20200925084300 +0000" channel="cctv1">
-    <title lang="zh">月是故乡明第2集</title>
+    <title lang="zh">月是故乡明第6集</title>
   </programme>
-  <programme start="20200925075000 +0000" stop="20200925084300 +0000" channel="cctv1">
-    <title lang="zh">月是故乡明第2集</title>
+  <programme start="20200925084300 +0000" stop="20200925092800 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-824</title>
   </programme>
-  <programme start="20200925075000 +0000" stop="20200925084300 +0000" channel="cctv1">
-    <title lang="zh">月是故乡明第2集</title>
+  <programme start="20200925092800 +0000" stop="20200925094900 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-825</title>
   </programme>
-  <programme start="20200925084300 +0000" stop="20200925092100 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-820</title>
+  <programme start="20200925094900 +0000" stop="20200925100200 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-826</title>
   </programme>
-  <programme start="20200925084300 +0000" stop="20200925092100 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-820</title>
-  </programme>
-  <programme start="20200925084300 +0000" stop="20200925092100 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-820</title>
-  </programme>
-  <programme start="20200925092100 +0000" stop="20200925094800 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-821</title>
-  </programme>
-  <programme start="20200925092100 +0000" stop="20200925094800 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-821</title>
-  </programme>
-  <programme start="20200925092100 +0000" stop="20200925094800 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-821</title>
-  </programme>
-  <programme start="20200925094800 +0000" stop="20200925095900 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-822</title>
-  </programme>
-  <programme start="20200925094800 +0000" stop="20200925095900 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-822</title>
-  </programme>
-  <programme start="20200925094800 +0000" stop="20200925095900 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-822</title>
-  </programme>
-  <programme start="20200925095900 +0000" stop="20200925104500 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-823</title>
-  </programme>
-  <programme start="20200925095900 +0000" stop="20200925104500 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-823</title>
-  </programme>
-  <programme start="20200925095900 +0000" stop="20200925104500 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-823</title>
-  </programme>
-  <programme start="20200925104500 +0000" stop="20200925105200 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-730</title>
-  </programme>
-  <programme start="20200925104500 +0000" stop="20200925105200 +0000" channel="cctv1">
-    <title lang="zh">第一动画乐园-2020-730</title>
+  <programme start="20200925100200 +0000" stop="20200925104500 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-827</title>
   </programme>
   <programme start="20200925104500 +0000" stop="20200925105200 +0000" channel="cctv1">
     <title lang="zh">第一动画乐园-2020-730</title>
   </programme>
   <programme start="20200925105200 +0000" stop="20200925110000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-258</title>
-  </programme>
-  <programme start="20200925105200 +0000" stop="20200925110000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-258</title>
-  </programme>
-  <programme start="20200925105200 +0000" stop="20200925110000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-258</title>
-  </programme>
-  <programme start="20200925110000 +0000" stop="20200925114000 +0000" channel="cctv1">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200925110000 +0000" stop="20200925114000 +0000" channel="cctv1">
-    <title lang="zh">新闻联播</title>
+    <title lang="zh">2020秘境之眼-259</title>
   </programme>
   <programme start="20200925110000 +0000" stop="20200925114000 +0000" channel="cctv1">
     <title lang="zh">新闻联播</title>
@@ -505,533 +316,422 @@
   <programme start="20200925114000 +0000" stop="20200925120100 +0000" channel="cctv1">
     <title lang="zh">焦点访谈</title>
   </programme>
-  <programme start="20200925114000 +0000" stop="20200925120100 +0000" channel="cctv1">
-    <title lang="zh">焦点访谈</title>
-  </programme>
-  <programme start="20200925114000 +0000" stop="20200925120100 +0000" channel="cctv1">
-    <title lang="zh">焦点访谈</title>
-  </programme>
   <programme start="20200925120100 +0000" stop="20200925120600 +0000" channel="cctv1">
-    <title lang="zh">前情提要- 《最美逆行者》第11集</title>
+    <title lang="zh">前情提要- 《最美逆行者》第13集</title>
   </programme>
-  <programme start="20200925120100 +0000" stop="20200925120600 +0000" channel="cctv1">
-    <title lang="zh">前情提要- 《最美逆行者》第11集</title>
+  <programme start="20200925120600 +0000" stop="20200925125600 +0000" channel="cctv1">
+    <title lang="zh">最美逆行者第13集</title>
   </programme>
-  <programme start="20200925120100 +0000" stop="20200925120600 +0000" channel="cctv1">
-    <title lang="zh">前情提要- 《最美逆行者》第11集</title>
+  <programme start="20200925125600 +0000" stop="20200925130100 +0000" channel="cctv1">
+    <title lang="zh">前情提要- 《最美逆行者》第14集</title>
   </programme>
-  <programme start="20200925120600 +0000" stop="20200925125700 +0000" channel="cctv1">
-    <title lang="zh">最美逆行者第11集</title>
-  </programme>
-  <programme start="20200925120600 +0000" stop="20200925125700 +0000" channel="cctv1">
-    <title lang="zh">最美逆行者第11集</title>
-  </programme>
-  <programme start="20200925120600 +0000" stop="20200925125700 +0000" channel="cctv1">
-    <title lang="zh">最美逆行者第11集</title>
-  </programme>
-  <programme start="20200925125700 +0000" stop="20200925130200 +0000" channel="cctv1">
-    <title lang="zh">前情提要- 《最美逆行者》第12集</title>
-  </programme>
-  <programme start="20200925125700 +0000" stop="20200925130200 +0000" channel="cctv1">
-    <title lang="zh">前情提要- 《最美逆行者》第12集</title>
-  </programme>
-  <programme start="20200925125700 +0000" stop="20200925130200 +0000" channel="cctv1">
-    <title lang="zh">前情提要- 《最美逆行者》第12集</title>
-  </programme>
-  <programme start="20200925130200 +0000" stop="20200925135400 +0000" channel="cctv1">
-    <title lang="zh">最美逆行者第12集</title>
-  </programme>
-  <programme start="20200925130200 +0000" stop="20200925135400 +0000" channel="cctv1">
-    <title lang="zh">最美逆行者第12集</title>
-  </programme>
-  <programme start="20200925130200 +0000" stop="20200925135400 +0000" channel="cctv1">
-    <title lang="zh">最美逆行者第12集</title>
+  <programme start="20200925130100 +0000" stop="20200925135400 +0000" channel="cctv1">
+    <title lang="zh">最美逆行者第14集</title>
   </programme>
   <programme start="20200925135400 +0000" stop="20200925140000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-109</title>
-  </programme>
-  <programme start="20200925135400 +0000" stop="20200925140000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-109</title>
-  </programme>
-  <programme start="20200925135400 +0000" stop="20200925140000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-109</title>
-  </programme>
-  <programme start="20200925140000 +0000" stop="20200925143700 +0000" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
-  </programme>
-  <programme start="20200925140000 +0000" stop="20200925143700 +0000" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
+    <title lang="zh">2020秘境之眼-111</title>
   </programme>
   <programme start="20200925140000 +0000" stop="20200925143700 +0000" channel="cctv1">
     <title lang="zh">晚间新闻</title>
   </programme>
   <programme start="20200925143700 +0000" stop="20200925153500 +0000" channel="cctv1">
-    <title lang="zh">故事中国2020-256  大工告成2</title>
+    <title lang="zh">故事中国2020-257  大工告成3</title>
   </programme>
-  <programme start="20200925143700 +0000" stop="20200925153500 +0000" channel="cctv1">
-    <title lang="zh">故事中国2020-256  大工告成2</title>
+  <programme start="20200925153500 +0000" stop="20200925170400 +0000" channel="cctv1">
+    <title lang="zh">星光大道-2020-43</title>
   </programme>
-  <programme start="20200925143700 +0000" stop="20200925153500 +0000" channel="cctv1">
-    <title lang="zh">故事中国2020-256  大工告成2</title>
+  <programme start="20200925170400 +0000" stop="20200925173600 +0000" channel="cctv1">
+    <title lang="zh">动物世界-2020-148</title>
   </programme>
-  <programme start="20200925153500 +0000" stop="20200925172000 +0000" channel="cctv1">
-    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播2</title>
-  </programme>
-  <programme start="20200925153500 +0000" stop="20200925172000 +0000" channel="cctv1">
-    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播2</title>
-  </programme>
-  <programme start="20200925153500 +0000" stop="20200925172000 +0000" channel="cctv1">
-    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播2</title>
-  </programme>
-  <programme start="20200925172000 +0000" stop="20200925175200 +0000" channel="cctv1">
-    <title lang="zh">动物世界-2020-147</title>
-  </programme>
-  <programme start="20200925172000 +0000" stop="20200925175200 +0000" channel="cctv1">
-    <title lang="zh">动物世界-2020-147</title>
-  </programme>
-  <programme start="20200925172000 +0000" stop="20200925175200 +0000" channel="cctv1">
-    <title lang="zh">动物世界-2020-147</title>
-  </programme>
-  <programme start="20200925175200 +0000" stop="20200925175800 +0000" channel="cctv1">
+  <programme start="20200925173600 +0000" stop="20200925174200 +0000" channel="cctv1">
     <title lang="zh">生活提示</title>
   </programme>
-  <programme start="20200925175200 +0000" stop="20200925175800 +0000" channel="cctv1">
-    <title lang="zh">生活提示</title>
-  </programme>
-  <programme start="20200925175200 +0000" stop="20200925175800 +0000" channel="cctv1">
-    <title lang="zh">生活提示</title>
-  </programme>
-  <programme start="20200925175800 +0000" stop="20200925183000 +0000" channel="cctv1">
+  <programme start="20200925174200 +0000" stop="20200925181200 +0000" channel="cctv1">
     <title lang="zh">晚间新闻</title>
   </programme>
-  <programme start="20200925175800 +0000" stop="20200925183000 +0000" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
-  </programme>
-  <programme start="20200925175800 +0000" stop="20200925183000 +0000" channel="cctv1">
-    <title lang="zh">晚间新闻</title>
-  </programme>
-  <programme start="20200925183000 +0000" stop="20200925184100 +0000" channel="cctv1">
-    <title lang="zh">精彩一刻-2020-67航拍中国第三季安徽村庄11分</title>
-  </programme>
-  <programme start="20200925183000 +0000" stop="20200925184100 +0000" channel="cctv1">
-    <title lang="zh">精彩一刻-2020-67航拍中国第三季安徽村庄11分</title>
-  </programme>
-  <programme start="20200925183000 +0000" stop="20200925184100 +0000" channel="cctv1">
-    <title lang="zh">精彩一刻-2020-67航拍中国第三季安徽村庄11分</title>
-  </programme>
-  <programme start="20200925184100 +0000" stop="20200925185600 +0000" channel="cctv1">
-    <title lang="zh">精彩一刻-2020-171新航拍中国第三季天津城建</title>
-  </programme>
-  <programme start="20200925184100 +0000" stop="20200925185600 +0000" channel="cctv1">
-    <title lang="zh">精彩一刻-2020-171新航拍中国第三季天津城建</title>
-  </programme>
-  <programme start="20200925184100 +0000" stop="20200925185600 +0000" channel="cctv1">
-    <title lang="zh">精彩一刻-2020-171新航拍中国第三季天津城建</title>
-  </programme>
-  <programme start="20200925185600 +0000" stop="20200925202900 +0000" channel="cctv1">
-    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播4</title>
-  </programme>
-  <programme start="20200925185600 +0000" stop="20200925202900 +0000" channel="cctv1">
-    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播4</title>
-  </programme>
-  <programme start="20200925185600 +0000" stop="20200925202900 +0000" channel="cctv1">
-    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播4</title>
-  </programme>
-  <programme start="20200925202900 +0000" stop="20200925205700 +0000" channel="cctv1">
-    <title lang="zh">今日说法-2020-268</title>
-  </programme>
-  <programme start="20200925202900 +0000" stop="20200925205700 +0000" channel="cctv1">
-    <title lang="zh">今日说法-2020-268</title>
-  </programme>
-  <programme start="20200925202900 +0000" stop="20200925205700 +0000" channel="cctv1">
-    <title lang="zh">今日说法-2020-268</title>
-  </programme>
-  <programme start="20200925205700 +0000" stop="20200925212700 +0000" channel="cctv1">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200925205700 +0000" stop="20200925212700 +0000" channel="cctv1">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200925205700 +0000" stop="20200925212700 +0000" channel="cctv1">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200925212700 +0000" stop="20200925220000 +0000" channel="cctv1">
+  <programme start="20200925181200 +0000" stop="20200925184100 +0000" channel="cctv1">
     <title lang="zh">人与自然-204</title>
   </programme>
-  <programme start="20200925212700 +0000" stop="20200925220000 +0000" channel="cctv1">
-    <title lang="zh">人与自然-204</title>
+  <programme start="20200925184100 +0000" stop="20200925185600 +0000" channel="cctv1">
+    <title lang="zh">精彩一刻-2020-152新航拍中国第三季云南人居</title>
   </programme>
-  <programme start="20200925212700 +0000" stop="20200925220000 +0000" channel="cctv1">
-    <title lang="zh">人与自然-204</title>
+  <programme start="20200925185600 +0000" stop="20200925202900 +0000" channel="cctv1">
+    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播5</title>
   </programme>
-  <programme start="20200925220000 +0000" stop="20200926003800 +0000" channel="cctv1">
-    <title lang="zh">朝闻天下</title>
-  </programme>
-  <programme start="20200925220000 +0000" stop="20200926003800 +0000" channel="cctv1">
-    <title lang="zh">朝闻天下</title>
-  </programme>
-  <programme start="20200925220000 +0000" stop="20200926003800 +0000" channel="cctv1">
-    <title lang="zh">朝闻天下</title>
-  </programme>
-  <programme start="20200926003800 +0000" stop="20200926012400 +0000" channel="cctv1">
-    <title lang="zh">生活早参考-特别节目（生活圈）2020-93</title>
-  </programme>
-  <programme start="20200926003800 +0000" stop="20200926012400 +0000" channel="cctv1">
-    <title lang="zh">生活早参考-特别节目（生活圈）2020-93</title>
-  </programme>
-  <programme start="20200926003800 +0000" stop="20200926012400 +0000" channel="cctv1">
-    <title lang="zh">生活早参考-特别节目（生活圈）2020-93</title>
-  </programme>
-  <programme start="20200926012400 +0000" stop="20200926021200 +0000" channel="cctv1">
-    <title lang="zh">誓盟第18集</title>
-  </programme>
-  <programme start="20200926012400 +0000" stop="20200926021200 +0000" channel="cctv1">
-    <title lang="zh">誓盟第18集</title>
-  </programme>
-  <programme start="20200926012400 +0000" stop="20200926021200 +0000" channel="cctv1">
-    <title lang="zh">誓盟第18集</title>
-  </programme>
-  <programme start="20200926021200 +0000" stop="20200926030600 +0000" channel="cctv1">
-    <title lang="zh">誓盟第19集</title>
-  </programme>
-  <programme start="20200926021200 +0000" stop="20200926030600 +0000" channel="cctv1">
-    <title lang="zh">誓盟第19集</title>
-  </programme>
-  <programme start="20200926021200 +0000" stop="20200926030600 +0000" channel="cctv1">
-    <title lang="zh">誓盟第19集</title>
-  </programme>
-  <programme start="20200926030600 +0000" stop="20200926035400 +0000" channel="cctv1">
-    <title lang="zh">誓盟第20集</title>
-  </programme>
-  <programme start="20200926030600 +0000" stop="20200926035400 +0000" channel="cctv1">
-    <title lang="zh">誓盟第20集</title>
-  </programme>
-  <programme start="20200926030600 +0000" stop="20200926035400 +0000" channel="cctv1">
-    <title lang="zh">誓盟第20集</title>
-  </programme>
-  <programme start="20200926035400 +0000" stop="20200926040000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-110</title>
-  </programme>
-  <programme start="20200926035400 +0000" stop="20200926040000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-110</title>
-  </programme>
-  <programme start="20200926035400 +0000" stop="20200926040000 +0000" channel="cctv1">
-    <title lang="zh">2020秘境之眼-110</title>
-  </programme>
-  <programme start="20200926040000 +0000" stop="20200926043500 +0000" channel="cctv1">
-    <title lang="zh">新闻30分</title>
-  </programme>
-  <programme start="20200926040000 +0000" stop="20200926043500 +0000" channel="cctv1">
-    <title lang="zh">新闻30分</title>
-  </programme>
-  <programme start="20200926040000 +0000" stop="20200926043500 +0000" channel="cctv1">
-    <title lang="zh">新闻30分</title>
-  </programme>
-  <programme start="20200926043500 +0000" stop="20200926043500 +0000" channel="cctv1">
+  <programme start="20200925202900 +0000" stop="20200925205700 +0000" channel="cctv1">
     <title lang="zh">今日说法-2020-269</title>
   </programme>
-  <programme start="20200926043500 +0000" stop="20200926043500 +0000" channel="cctv1">
+  <programme start="20200925205700 +0000" stop="20200925212700 +0000" channel="cctv1">
+    <title lang="zh">新闻联播</title>
+  </programme>
+  <programme start="20200925212700 +0000" stop="20200925220000 +0000" channel="cctv1">
+    <title lang="zh">人与自然-205</title>
+  </programme>
+  <programme start="20200925220000 +0000" stop="20200926003800 +0000" channel="cctv1">
+    <title lang="zh">朝闻天下</title>
+  </programme>
+  <programme start="20200926003800 +0000" stop="20200926012400 +0000" channel="cctv1">
+    <title lang="zh">生活早参考-特别节目（生活圈）2020-94</title>
+  </programme>
+  <programme start="20200926012400 +0000" stop="20200926021200 +0000" channel="cctv1">
+    <title lang="zh">誓盟第21集</title>
+  </programme>
+  <programme start="20200926021200 +0000" stop="20200926030600 +0000" channel="cctv1">
+    <title lang="zh">誓盟第22集</title>
+  </programme>
+  <programme start="20200926030600 +0000" stop="20200926035400 +0000" channel="cctv1">
+    <title lang="zh">誓盟第23集</title>
+  </programme>
+  <programme start="20200926035400 +0000" stop="20200926040000 +0000" channel="cctv1">
+    <title lang="zh">2020秘境之眼-112</title>
+  </programme>
+  <programme start="20200926040000 +0000" stop="20200926043600 +0000" channel="cctv1">
+    <title lang="zh">新闻30分</title>
+  </programme>
+  <programme start="20200926043600 +0000" stop="20200926051700 +0000" channel="cctv1">
+    <title lang="zh">今日说法-2020-270</title>
+  </programme>
+  <programme start="20200926051700 +0000" stop="20200926051600 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第7集</title>
+  </programme>
+  <programme start="20200926051600 +0000" stop="20200926060600 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第3集</title>
+  </programme>
+  <programme start="20200926051600 +0000" stop="20200926060600 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第3集</title>
+  </programme>
+  <programme start="20200926051600 +0000" stop="20200926060600 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第3集</title>
+  </programme>
+  <programme start="20200926060600 +0000" stop="20200926065700 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第4集</title>
+  </programme>
+  <programme start="20200926060600 +0000" stop="20200926065700 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第4集</title>
+  </programme>
+  <programme start="20200926060600 +0000" stop="20200926065700 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第4集</title>
+  </programme>
+  <programme start="20200926065700 +0000" stop="20200926075000 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第5集</title>
+  </programme>
+  <programme start="20200926065700 +0000" stop="20200926075000 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第5集</title>
+  </programme>
+  <programme start="20200926065700 +0000" stop="20200926075000 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第5集</title>
+  </programme>
+  <programme start="20200926075000 +0000" stop="20200926084300 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第6集</title>
+  </programme>
+  <programme start="20200926075000 +0000" stop="20200926084300 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第6集</title>
+  </programme>
+  <programme start="20200926075000 +0000" stop="20200926084300 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第6集</title>
+  </programme>
+  <programme start="20200926084300 +0000" stop="20200926092800 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-824</title>
+  </programme>
+  <programme start="20200926084300 +0000" stop="20200926092800 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-824</title>
+  </programme>
+  <programme start="20200926084300 +0000" stop="20200926092800 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-824</title>
+  </programme>
+  <programme start="20200926092800 +0000" stop="20200926094900 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-825</title>
+  </programme>
+  <programme start="20200926092800 +0000" stop="20200926094900 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-825</title>
+  </programme>
+  <programme start="20200926092800 +0000" stop="20200926094900 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-825</title>
+  </programme>
+  <programme start="20200926094900 +0000" stop="20200926100200 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-826</title>
+  </programme>
+  <programme start="20200926094900 +0000" stop="20200926100200 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-826</title>
+  </programme>
+  <programme start="20200926094900 +0000" stop="20200926100200 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-826</title>
+  </programme>
+  <programme start="20200926100200 +0000" stop="20200926104500 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-827</title>
+  </programme>
+  <programme start="20200926100200 +0000" stop="20200926104500 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-827</title>
+  </programme>
+  <programme start="20200926100200 +0000" stop="20200926104500 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-827</title>
+  </programme>
+  <programme start="20200926104500 +0000" stop="20200926105200 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-730</title>
+  </programme>
+  <programme start="20200926104500 +0000" stop="20200926105200 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-730</title>
+  </programme>
+  <programme start="20200926104500 +0000" stop="20200926105200 +0000" channel="cctv1">
+    <title lang="zh">第一动画乐园-2020-730</title>
+  </programme>
+  <programme start="20200926105200 +0000" stop="20200926110000 +0000" channel="cctv1">
+    <title lang="zh">2020秘境之眼-259</title>
+  </programme>
+  <programme start="20200926105200 +0000" stop="20200926110000 +0000" channel="cctv1">
+    <title lang="zh">2020秘境之眼-259</title>
+  </programme>
+  <programme start="20200926105200 +0000" stop="20200926110000 +0000" channel="cctv1">
+    <title lang="zh">2020秘境之眼-259</title>
+  </programme>
+  <programme start="20200926110000 +0000" stop="20200926114000 +0000" channel="cctv1">
+    <title lang="zh">新闻联播</title>
+  </programme>
+  <programme start="20200926110000 +0000" stop="20200926114000 +0000" channel="cctv1">
+    <title lang="zh">新闻联播</title>
+  </programme>
+  <programme start="20200926110000 +0000" stop="20200926114000 +0000" channel="cctv1">
+    <title lang="zh">新闻联播</title>
+  </programme>
+  <programme start="20200926114000 +0000" stop="20200926120100 +0000" channel="cctv1">
+    <title lang="zh">焦点访谈</title>
+  </programme>
+  <programme start="20200926114000 +0000" stop="20200926120100 +0000" channel="cctv1">
+    <title lang="zh">焦点访谈</title>
+  </programme>
+  <programme start="20200926114000 +0000" stop="20200926120100 +0000" channel="cctv1">
+    <title lang="zh">焦点访谈</title>
+  </programme>
+  <programme start="20200926120100 +0000" stop="20200926120600 +0000" channel="cctv1">
+    <title lang="zh">前情提要- 《最美逆行者》第13集</title>
+  </programme>
+  <programme start="20200926120100 +0000" stop="20200926120600 +0000" channel="cctv1">
+    <title lang="zh">前情提要- 《最美逆行者》第13集</title>
+  </programme>
+  <programme start="20200926120100 +0000" stop="20200926120600 +0000" channel="cctv1">
+    <title lang="zh">前情提要- 《最美逆行者》第13集</title>
+  </programme>
+  <programme start="20200926120600 +0000" stop="20200926125600 +0000" channel="cctv1">
+    <title lang="zh">最美逆行者第13集</title>
+  </programme>
+  <programme start="20200926120600 +0000" stop="20200926125600 +0000" channel="cctv1">
+    <title lang="zh">最美逆行者第13集</title>
+  </programme>
+  <programme start="20200926120600 +0000" stop="20200926125600 +0000" channel="cctv1">
+    <title lang="zh">最美逆行者第13集</title>
+  </programme>
+  <programme start="20200926125600 +0000" stop="20200926130100 +0000" channel="cctv1">
+    <title lang="zh">前情提要- 《最美逆行者》第14集</title>
+  </programme>
+  <programme start="20200926125600 +0000" stop="20200926130100 +0000" channel="cctv1">
+    <title lang="zh">前情提要- 《最美逆行者》第14集</title>
+  </programme>
+  <programme start="20200926125600 +0000" stop="20200926130100 +0000" channel="cctv1">
+    <title lang="zh">前情提要- 《最美逆行者》第14集</title>
+  </programme>
+  <programme start="20200926130100 +0000" stop="20200926135400 +0000" channel="cctv1">
+    <title lang="zh">最美逆行者第14集</title>
+  </programme>
+  <programme start="20200926130100 +0000" stop="20200926135400 +0000" channel="cctv1">
+    <title lang="zh">最美逆行者第14集</title>
+  </programme>
+  <programme start="20200926130100 +0000" stop="20200926135400 +0000" channel="cctv1">
+    <title lang="zh">最美逆行者第14集</title>
+  </programme>
+  <programme start="20200926135400 +0000" stop="20200926140000 +0000" channel="cctv1">
+    <title lang="zh">2020秘境之眼-111</title>
+  </programme>
+  <programme start="20200926135400 +0000" stop="20200926140000 +0000" channel="cctv1">
+    <title lang="zh">2020秘境之眼-111</title>
+  </programme>
+  <programme start="20200926135400 +0000" stop="20200926140000 +0000" channel="cctv1">
+    <title lang="zh">2020秘境之眼-111</title>
+  </programme>
+  <programme start="20200926140000 +0000" stop="20200926143700 +0000" channel="cctv1">
+    <title lang="zh">晚间新闻</title>
+  </programme>
+  <programme start="20200926140000 +0000" stop="20200926143700 +0000" channel="cctv1">
+    <title lang="zh">晚间新闻</title>
+  </programme>
+  <programme start="20200926140000 +0000" stop="20200926143700 +0000" channel="cctv1">
+    <title lang="zh">晚间新闻</title>
+  </programme>
+  <programme start="20200926143700 +0000" stop="20200926153500 +0000" channel="cctv1">
+    <title lang="zh">故事中国2020-257  大工告成3</title>
+  </programme>
+  <programme start="20200926143700 +0000" stop="20200926153500 +0000" channel="cctv1">
+    <title lang="zh">故事中国2020-257  大工告成3</title>
+  </programme>
+  <programme start="20200926143700 +0000" stop="20200926153500 +0000" channel="cctv1">
+    <title lang="zh">故事中国2020-257  大工告成3</title>
+  </programme>
+  <programme start="20200926153500 +0000" stop="20200926170400 +0000" channel="cctv1">
+    <title lang="zh">星光大道-2020-43</title>
+  </programme>
+  <programme start="20200926153500 +0000" stop="20200926170400 +0000" channel="cctv1">
+    <title lang="zh">星光大道-2020-43</title>
+  </programme>
+  <programme start="20200926153500 +0000" stop="20200926170400 +0000" channel="cctv1">
+    <title lang="zh">星光大道-2020-43</title>
+  </programme>
+  <programme start="20200926170400 +0000" stop="20200926173600 +0000" channel="cctv1">
+    <title lang="zh">动物世界-2020-148</title>
+  </programme>
+  <programme start="20200926170400 +0000" stop="20200926173600 +0000" channel="cctv1">
+    <title lang="zh">动物世界-2020-148</title>
+  </programme>
+  <programme start="20200926170400 +0000" stop="20200926173600 +0000" channel="cctv1">
+    <title lang="zh">动物世界-2020-148</title>
+  </programme>
+  <programme start="20200926173600 +0000" stop="20200926174200 +0000" channel="cctv1">
+    <title lang="zh">生活提示</title>
+  </programme>
+  <programme start="20200926173600 +0000" stop="20200926174200 +0000" channel="cctv1">
+    <title lang="zh">生活提示</title>
+  </programme>
+  <programme start="20200926173600 +0000" stop="20200926174200 +0000" channel="cctv1">
+    <title lang="zh">生活提示</title>
+  </programme>
+  <programme start="20200926174200 +0000" stop="20200926181200 +0000" channel="cctv1">
+    <title lang="zh">晚间新闻</title>
+  </programme>
+  <programme start="20200926174200 +0000" stop="20200926181200 +0000" channel="cctv1">
+    <title lang="zh">晚间新闻</title>
+  </programme>
+  <programme start="20200926174200 +0000" stop="20200926181200 +0000" channel="cctv1">
+    <title lang="zh">晚间新闻</title>
+  </programme>
+  <programme start="20200926181200 +0000" stop="20200926184100 +0000" channel="cctv1">
+    <title lang="zh">人与自然-204</title>
+  </programme>
+  <programme start="20200926181200 +0000" stop="20200926184100 +0000" channel="cctv1">
+    <title lang="zh">人与自然-204</title>
+  </programme>
+  <programme start="20200926181200 +0000" stop="20200926184100 +0000" channel="cctv1">
+    <title lang="zh">人与自然-204</title>
+  </programme>
+  <programme start="20200926184100 +0000" stop="20200926185600 +0000" channel="cctv1">
+    <title lang="zh">精彩一刻-2020-152新航拍中国第三季云南人居</title>
+  </programme>
+  <programme start="20200926184100 +0000" stop="20200926185600 +0000" channel="cctv1">
+    <title lang="zh">精彩一刻-2020-152新航拍中国第三季云南人居</title>
+  </programme>
+  <programme start="20200926184100 +0000" stop="20200926185600 +0000" channel="cctv1">
+    <title lang="zh">精彩一刻-2020-152新航拍中国第三季云南人居</title>
+  </programme>
+  <programme start="20200926185600 +0000" stop="20200926202900 +0000" channel="cctv1">
+    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播5</title>
+  </programme>
+  <programme start="20200926185600 +0000" stop="20200926202900 +0000" channel="cctv1">
+    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播5</title>
+  </programme>
+  <programme start="20200926185600 +0000" stop="20200926202900 +0000" channel="cctv1">
+    <title lang="zh">勇攀巅峰之挑战不可能第五季-重播5</title>
+  </programme>
+  <programme start="20200926202900 +0000" stop="20200926205700 +0000" channel="cctv1">
     <title lang="zh">今日说法-2020-269</title>
   </programme>
-  <programme start="20200924010000 +0000" stop="20200924020000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200926202900 +0000" stop="20200926205700 +0000" channel="cctv1">
+    <title lang="zh">今日说法-2020-269</title>
   </programme>
-  <programme start="20200924020000 +0000" stop="20200924023000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200926202900 +0000" stop="20200926205700 +0000" channel="cctv1">
+    <title lang="zh">今日说法-2020-269</title>
   </programme>
-  <programme start="20200924023000 +0000" stop="20200924030000 +0000" channel="cctv2">
-    <title lang="zh">经济半小时</title>
+  <programme start="20200926205700 +0000" stop="20200926212700 +0000" channel="cctv1">
+    <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20200924030000 +0000" stop="20200924033200 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200926205700 +0000" stop="20200926212700 +0000" channel="cctv1">
+    <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20200924033200 +0000" stop="20200924040000 +0000" channel="cctv2">
-    <title lang="zh">回家吃饭-2020-223</title>
+  <programme start="20200926205700 +0000" stop="20200926212700 +0000" channel="cctv1">
+    <title lang="zh">新闻联播</title>
   </programme>
-  <programme start="20200924040000 +0000" stop="20200924050000 +0000" channel="cctv2">
-    <title lang="zh">天下财经</title>
+  <programme start="20200926212700 +0000" stop="20200926220000 +0000" channel="cctv1">
+    <title lang="zh">人与自然-205</title>
   </programme>
-  <programme start="20200924050000 +0000" stop="20200924040000 +0000" channel="cctv2">
-    <title lang="zh">是真的吗-2020-24</title>
+  <programme start="20200926212700 +0000" stop="20200926220000 +0000" channel="cctv1">
+    <title lang="zh">人与自然-205</title>
   </programme>
-  <programme start="20200924040000 +0000" stop="20200924050100 +0000" channel="cctv2">
-    <title lang="zh">天下财经</title>
+  <programme start="20200926212700 +0000" stop="20200926220000 +0000" channel="cctv1">
+    <title lang="zh">人与自然-205</title>
   </programme>
-  <programme start="20200924040000 +0000" stop="20200924050100 +0000" channel="cctv2">
-    <title lang="zh">天下财经</title>
+  <programme start="20200926220000 +0000" stop="20200927003800 +0000" channel="cctv1">
+    <title lang="zh">朝闻天下</title>
   </programme>
-  <programme start="20200924040000 +0000" stop="20200924050100 +0000" channel="cctv2">
-    <title lang="zh">天下财经</title>
+  <programme start="20200926220000 +0000" stop="20200927003800 +0000" channel="cctv1">
+    <title lang="zh">朝闻天下</title>
   </programme>
-  <programme start="20200924050100 +0000" stop="20200924060000 +0000" channel="cctv2">
-    <title lang="zh">职场健康课-2020-34</title>
+  <programme start="20200926220000 +0000" stop="20200927003800 +0000" channel="cctv1">
+    <title lang="zh">朝闻天下</title>
   </programme>
-  <programme start="20200924050100 +0000" stop="20200924060000 +0000" channel="cctv2">
-    <title lang="zh">职场健康课-2020-34</title>
+  <programme start="20200927003800 +0000" stop="20200927012400 +0000" channel="cctv1">
+    <title lang="zh">生活早参考-特别节目（生活圈）2020-94</title>
   </programme>
-  <programme start="20200924050100 +0000" stop="20200924060000 +0000" channel="cctv2">
-    <title lang="zh">职场健康课-2020-34</title>
+  <programme start="20200927003800 +0000" stop="20200927012400 +0000" channel="cctv1">
+    <title lang="zh">生活早参考-特别节目（生活圈）2020-94</title>
   </programme>
-  <programme start="20200924060000 +0000" stop="20200924063000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927003800 +0000" stop="20200927012400 +0000" channel="cctv1">
+    <title lang="zh">生活早参考-特别节目（生活圈）2020-94</title>
   </programme>
-  <programme start="20200924060000 +0000" stop="20200924063000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927012400 +0000" stop="20200927021200 +0000" channel="cctv1">
+    <title lang="zh">誓盟第21集</title>
   </programme>
-  <programme start="20200924060000 +0000" stop="20200924063000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927012400 +0000" stop="20200927021200 +0000" channel="cctv1">
+    <title lang="zh">誓盟第21集</title>
   </programme>
-  <programme start="20200924063000 +0000" stop="20200924070000 +0000" channel="cctv2">
-    <title lang="zh">消费主张</title>
+  <programme start="20200927012400 +0000" stop="20200927021200 +0000" channel="cctv1">
+    <title lang="zh">誓盟第21集</title>
   </programme>
-  <programme start="20200924063000 +0000" stop="20200924070000 +0000" channel="cctv2">
-    <title lang="zh">消费主张</title>
+  <programme start="20200927021200 +0000" stop="20200927030600 +0000" channel="cctv1">
+    <title lang="zh">誓盟第22集</title>
   </programme>
-  <programme start="20200924063000 +0000" stop="20200924070000 +0000" channel="cctv2">
-    <title lang="zh">消费主张</title>
+  <programme start="20200927021200 +0000" stop="20200927030600 +0000" channel="cctv1">
+    <title lang="zh">誓盟第22集</title>
   </programme>
-  <programme start="20200924070000 +0000" stop="20200924073000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927021200 +0000" stop="20200927030600 +0000" channel="cctv1">
+    <title lang="zh">誓盟第22集</title>
   </programme>
-  <programme start="20200924070000 +0000" stop="20200924073000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927030600 +0000" stop="20200927035400 +0000" channel="cctv1">
+    <title lang="zh">誓盟第23集</title>
   </programme>
-  <programme start="20200924070000 +0000" stop="20200924073000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927030600 +0000" stop="20200927035400 +0000" channel="cctv1">
+    <title lang="zh">誓盟第23集</title>
   </programme>
-  <programme start="20200924073000 +0000" stop="20200924080000 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2020-9-22</title>
+  <programme start="20200927030600 +0000" stop="20200927035400 +0000" channel="cctv1">
+    <title lang="zh">誓盟第23集</title>
   </programme>
-  <programme start="20200924073000 +0000" stop="20200924080000 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2020-9-22</title>
+  <programme start="20200927035400 +0000" stop="20200927040000 +0000" channel="cctv1">
+    <title lang="zh">2020秘境之眼-112</title>
   </programme>
-  <programme start="20200924073000 +0000" stop="20200924080000 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2020-9-22</title>
+  <programme start="20200927035400 +0000" stop="20200927040000 +0000" channel="cctv1">
+    <title lang="zh">2020秘境之眼-112</title>
   </programme>
-  <programme start="20200924080000 +0000" stop="20200924090000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927035400 +0000" stop="20200927040000 +0000" channel="cctv1">
+    <title lang="zh">2020秘境之眼-112</title>
   </programme>
-  <programme start="20200924080000 +0000" stop="20200924090000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927040000 +0000" stop="20200927043600 +0000" channel="cctv1">
+    <title lang="zh">新闻30分</title>
   </programme>
-  <programme start="20200924080000 +0000" stop="20200924090000 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927040000 +0000" stop="20200927043600 +0000" channel="cctv1">
+    <title lang="zh">新闻30分</title>
   </programme>
-  <programme start="20200924090000 +0000" stop="20200924093100 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927040000 +0000" stop="20200927043600 +0000" channel="cctv1">
+    <title lang="zh">新闻30分</title>
   </programme>
-  <programme start="20200924090000 +0000" stop="20200924093100 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927043600 +0000" stop="20200927051700 +0000" channel="cctv1">
+    <title lang="zh">今日说法-2020-270</title>
   </programme>
-  <programme start="20200924090000 +0000" stop="20200924093100 +0000" channel="cctv2">
-    <title lang="zh">正点财经</title>
+  <programme start="20200927043600 +0000" stop="20200927051700 +0000" channel="cctv1">
+    <title lang="zh">今日说法-2020-270</title>
   </programme>
-  <programme start="20200924093100 +0000" stop="20200924095900 +0000" channel="cctv2">
-    <title lang="zh">周末特供2020-川味第三季5-28分钟版</title>
+  <programme start="20200927043600 +0000" stop="20200927051700 +0000" channel="cctv1">
+    <title lang="zh">今日说法-2020-270</title>
   </programme>
-  <programme start="20200924093100 +0000" stop="20200924095900 +0000" channel="cctv2">
-    <title lang="zh">周末特供2020-川味第三季5-28分钟版</title>
+  <programme start="20200927051700 +0000" stop="20200927051600 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第7集</title>
   </programme>
-  <programme start="20200924093100 +0000" stop="20200924095900 +0000" channel="cctv2">
-    <title lang="zh">周末特供2020-川味第三季5-28分钟版</title>
-  </programme>
-  <programme start="20200924095900 +0000" stop="20200924103000 +0000" channel="cctv2">
-    <title lang="zh">2020 老广的味道 第三季（新）-6</title>
-  </programme>
-  <programme start="20200924095900 +0000" stop="20200924103000 +0000" channel="cctv2">
-    <title lang="zh">2020 老广的味道 第三季（新）-6</title>
-  </programme>
-  <programme start="20200924095900 +0000" stop="20200924103000 +0000" channel="cctv2">
-    <title lang="zh">2020 老广的味道 第三季（新）-6</title>
-  </programme>
-  <programme start="20200924103000 +0000" stop="20200924110000 +0000" channel="cctv2">
-    <title lang="zh">回家吃饭-2020-223</title>
-  </programme>
-  <programme start="20200924103000 +0000" stop="20200924110000 +0000" channel="cctv2">
-    <title lang="zh">回家吃饭-2020-223</title>
-  </programme>
-  <programme start="20200924103000 +0000" stop="20200924110000 +0000" channel="cctv2">
-    <title lang="zh">回家吃饭-2020-223</title>
-  </programme>
-  <programme start="20200924110000 +0000" stop="20200924113000 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2020-9-23</title>
-  </programme>
-  <programme start="20200924110000 +0000" stop="20200924113000 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2020-9-23</title>
-  </programme>
-  <programme start="20200924110000 +0000" stop="20200924113000 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2020-9-23</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924120000 +0000" channel="cctv2">
-    <title lang="zh">消费主张</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924120000 +0000" channel="cctv2">
-    <title lang="zh">消费主张</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924120000 +0000" channel="cctv2">
-    <title lang="zh">消费主张</title>
-  </programme>
-  <programme start="20200924120000 +0000" stop="20200924123000 +0000" channel="cctv2">
-    <title lang="zh">经济半小时</title>
-  </programme>
-  <programme start="20200924120000 +0000" stop="20200924123000 +0000" channel="cctv2">
-    <title lang="zh">经济半小时</title>
-  </programme>
-  <programme start="20200924120000 +0000" stop="20200924123000 +0000" channel="cctv2">
-    <title lang="zh">经济半小时</title>
-  </programme>
-  <programme start="20200924123000 +0000" stop="20200924133000 +0000" channel="cctv2">
-    <title lang="zh">经济信息联播</title>
-  </programme>
-  <programme start="20200924123000 +0000" stop="20200924133000 +0000" channel="cctv2">
-    <title lang="zh">经济信息联播</title>
-  </programme>
-  <programme start="20200924123000 +0000" stop="20200924133000 +0000" channel="cctv2">
-    <title lang="zh">经济信息联播</title>
-  </programme>
-  <programme start="20200924133000 +0000" stop="20200924135500 +0000" channel="cctv2">
-    <title lang="zh">央视财经评论-2020-9-23</title>
-  </programme>
-  <programme start="20200924133000 +0000" stop="20200924135500 +0000" channel="cctv2">
-    <title lang="zh">央视财经评论-2020-9-23</title>
-  </programme>
-  <programme start="20200924133000 +0000" stop="20200924135500 +0000" channel="cctv2">
-    <title lang="zh">央视财经评论-2020-9-23</title>
-  </programme>
-  <programme start="20200924135500 +0000" stop="20200924135900 +0000" channel="cctv2">
-    <title lang="zh">2020中国福利彩票公益开奖-169</title>
-  </programme>
-  <programme start="20200924135500 +0000" stop="20200924135900 +0000" channel="cctv2">
-    <title lang="zh">2020中国福利彩票公益开奖-169</title>
-  </programme>
-  <programme start="20200924135500 +0000" stop="20200924135900 +0000" channel="cctv2">
-    <title lang="zh">2020中国福利彩票公益开奖-169</title>
-  </programme>
-  <programme start="20200924135900 +0000" stop="20200924143100 +0000" channel="cctv2">
-    <title lang="zh">2020精品财经纪录-人生第一次-1</title>
-  </programme>
-  <programme start="20200924135900 +0000" stop="20200924143100 +0000" channel="cctv2">
-    <title lang="zh">2020精品财经纪录-人生第一次-1</title>
-  </programme>
-  <programme start="20200924135900 +0000" stop="20200924143100 +0000" channel="cctv2">
-    <title lang="zh">2020精品财经纪录-人生第一次-1</title>
-  </programme>
-  <programme start="20200924143100 +0000" stop="20200924145500 +0000" channel="cctv2">
-    <title lang="zh">周末特供-兵器面面观41</title>
-  </programme>
-  <programme start="20200924143100 +0000" stop="20200924145500 +0000" channel="cctv2">
-    <title lang="zh">周末特供-兵器面面观41</title>
-  </programme>
-  <programme start="20200924143100 +0000" stop="20200924145500 +0000" channel="cctv2">
-    <title lang="zh">周末特供-兵器面面观41</title>
-  </programme>
-  <programme start="20200924145500 +0000" stop="20200924155500 +0000" channel="cctv2">
-    <title lang="zh">职场健康课-2020-37</title>
-  </programme>
-  <programme start="20200924145500 +0000" stop="20200924155500 +0000" channel="cctv2">
-    <title lang="zh">职场健康课-2020-37</title>
-  </programme>
-  <programme start="20200924145500 +0000" stop="20200924155500 +0000" channel="cctv2">
-    <title lang="zh">职场健康课-2020-37</title>
-  </programme>
-  <programme start="20200924155500 +0000" stop="20200924162900 +0000" channel="cctv2">
-    <title lang="zh">经济半小时</title>
-  </programme>
-  <programme start="20200924155500 +0000" stop="20200924162900 +0000" channel="cctv2">
-    <title lang="zh">经济半小时</title>
-  </programme>
-  <programme start="20200924155500 +0000" stop="20200924162900 +0000" channel="cctv2">
-    <title lang="zh">经济半小时</title>
-  </programme>
-  <programme start="20200924162900 +0000" stop="20200924172900 +0000" channel="cctv2">
-    <title lang="zh">一槌定音-2020-37</title>
-  </programme>
-  <programme start="20200924162900 +0000" stop="20200924172900 +0000" channel="cctv2">
-    <title lang="zh">一槌定音-2020-37</title>
-  </programme>
-  <programme start="20200924162900 +0000" stop="20200924172900 +0000" channel="cctv2">
-    <title lang="zh">一槌定音-2020-37</title>
-  </programme>
-  <programme start="20200924172900 +0000" stop="20200924182800 +0000" channel="cctv2">
-    <title lang="zh">是真的吗-2020-37</title>
-  </programme>
-  <programme start="20200924172900 +0000" stop="20200924182800 +0000" channel="cctv2">
-    <title lang="zh">是真的吗-2020-37</title>
-  </programme>
-  <programme start="20200924172900 +0000" stop="20200924182800 +0000" channel="cctv2">
-    <title lang="zh">是真的吗-2020-37</title>
-  </programme>
-  <programme start="20200924182800 +0000" stop="20200924190900 +0000" channel="cctv2">
-    <title lang="zh">对话-2020-36</title>
-  </programme>
-  <programme start="20200924182800 +0000" stop="20200924190900 +0000" channel="cctv2">
-    <title lang="zh">对话-2020-36</title>
-  </programme>
-  <programme start="20200924182800 +0000" stop="20200924190900 +0000" channel="cctv2">
-    <title lang="zh">对话-2020-36</title>
-  </programme>
-  <programme start="20200924190900 +0000" stop="20200924193200 +0000" channel="cctv2">
-    <title lang="zh">周末特供2020-川味第三季2-23分钟版</title>
-  </programme>
-  <programme start="20200924190900 +0000" stop="20200924193200 +0000" channel="cctv2">
-    <title lang="zh">周末特供2020-川味第三季2-23分钟版</title>
-  </programme>
-  <programme start="20200924190900 +0000" stop="20200924193200 +0000" channel="cctv2">
-    <title lang="zh">周末特供2020-川味第三季2-23分钟版</title>
-  </programme>
-  <programme start="20200924193200 +0000" stop="20200924203100 +0000" channel="cctv2">
-    <title lang="zh">生活家-2020-15</title>
-  </programme>
-  <programme start="20200924193200 +0000" stop="20200924203100 +0000" channel="cctv2">
-    <title lang="zh">生活家-2020-15</title>
-  </programme>
-  <programme start="20200924193200 +0000" stop="20200924203100 +0000" channel="cctv2">
-    <title lang="zh">生活家-2020-15</title>
-  </programme>
-  <programme start="20200924203100 +0000" stop="20200924210000 +0000" channel="cctv2">
-    <title lang="zh">回家吃饭-2020-223</title>
-  </programme>
-  <programme start="20200924203100 +0000" stop="20200924210000 +0000" channel="cctv2">
-    <title lang="zh">回家吃饭-2020-223</title>
-  </programme>
-  <programme start="20200924203100 +0000" stop="20200924210000 +0000" channel="cctv2">
-    <title lang="zh">回家吃饭-2020-223</title>
-  </programme>
-  <programme start="20200924210000 +0000" stop="20200924213200 +0000" channel="cctv2">
-    <title lang="zh">消费主张</title>
-  </programme>
-  <programme start="20200924210000 +0000" stop="20200924213200 +0000" channel="cctv2">
-    <title lang="zh">消费主张</title>
-  </programme>
-  <programme start="20200924210000 +0000" stop="20200924213200 +0000" channel="cctv2">
-    <title lang="zh">消费主张</title>
-  </programme>
-  <programme start="20200924213200 +0000" stop="20200924223300 +0000" channel="cctv2">
-    <title lang="zh">经济信息联播</title>
-  </programme>
-  <programme start="20200924213200 +0000" stop="20200924223300 +0000" channel="cctv2">
-    <title lang="zh">经济信息联播</title>
-  </programme>
-  <programme start="20200924213200 +0000" stop="20200924223300 +0000" channel="cctv2">
-    <title lang="zh">经济信息联播</title>
-  </programme>
-  <programme start="20200924223300 +0000" stop="20200924230000 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2020-9-23</title>
-  </programme>
-  <programme start="20200924223300 +0000" stop="20200924230000 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2020-9-23</title>
-  </programme>
-  <programme start="20200924223300 +0000" stop="20200924230000 +0000" channel="cctv2">
-    <title lang="zh">生财有道-2020-9-23</title>
-  </programme>
-  <programme start="20200924230000 +0000" stop="20200925010000 +0000" channel="cctv2">
-    <title lang="zh">第一时间</title>
-  </programme>
-  <programme start="20200924230000 +0000" stop="20200925010000 +0000" channel="cctv2">
-    <title lang="zh">第一时间</title>
-  </programme>
-  <programme start="20200924230000 +0000" stop="20200925010000 +0000" channel="cctv2">
-    <title lang="zh">第一时间</title>
+  <programme start="20200927051700 +0000" stop="20200927051600 +0000" channel="cctv1">
+    <title lang="zh">月是故乡明第7集</title>
   </programme>
   <programme start="20200925010000 +0000" stop="20200925020000 +0000" channel="cctv2">
     <title lang="zh">正点财经</title>
@@ -1093,207 +793,6 @@
   <programme start="20200925040000 +0000" stop="20200925050000 +0000" channel="cctv2">
     <title lang="zh">天下财经</title>
   </programme>
-  <programme start="20200924010500 +0000" stop="20200924020600 +0000" channel="cctv3">
-    <title lang="zh">幸福账单-为你买单2020-36</title>
-  </programme>
-  <programme start="20200924020600 +0000" stop="20200924034100 +0000" channel="cctv3">
-    <title lang="zh">向幸福出发-2020-33</title>
-  </programme>
-  <programme start="20200924034100 +0000" stop="20200924035700 +0000" channel="cctv3">
-    <title lang="zh">文化十分-2020-194</title>
-  </programme>
-  <programme start="20200924035700 +0000" stop="20200924035300 +0000" channel="cctv3">
-    <title lang="zh">越战越勇-2020-36</title>
-  </programme>
-  <programme start="20200924035300 +0000" stop="20200924052400 +0000" channel="cctv3">
-    <title lang="zh">向幸福出发-2020-33</title>
-  </programme>
-  <programme start="20200924035300 +0000" stop="20200924052400 +0000" channel="cctv3">
-    <title lang="zh">向幸福出发-2020-33</title>
-  </programme>
-  <programme start="20200924035300 +0000" stop="20200924052400 +0000" channel="cctv3">
-    <title lang="zh">向幸福出发-2020-33</title>
-  </programme>
-  <programme start="20200924052400 +0000" stop="20200924062500 +0000" channel="cctv3">
-    <title lang="zh">幸福账单-为你买单2020-36</title>
-  </programme>
-  <programme start="20200924052400 +0000" stop="20200924062500 +0000" channel="cctv3">
-    <title lang="zh">幸福账单-为你买单2020-36</title>
-  </programme>
-  <programme start="20200924052400 +0000" stop="20200924062500 +0000" channel="cctv3">
-    <title lang="zh">幸福账单-为你买单2020-36</title>
-  </programme>
-  <programme start="20200924062500 +0000" stop="20200924075500 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1547</title>
-  </programme>
-  <programme start="20200924062500 +0000" stop="20200924075500 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1547</title>
-  </programme>
-  <programme start="20200924062500 +0000" stop="20200924075500 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1547</title>
-  </programme>
-  <programme start="20200924075500 +0000" stop="20200924092600 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1693</title>
-  </programme>
-  <programme start="20200924075500 +0000" stop="20200924092600 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1693</title>
-  </programme>
-  <programme start="20200924075500 +0000" stop="20200924092600 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1693</title>
-  </programme>
-  <programme start="20200924092600 +0000" stop="20200924100100 +0000" channel="cctv3">
-    <title lang="zh">天天把歌唱-2020-181</title>
-  </programme>
-  <programme start="20200924092600 +0000" stop="20200924100100 +0000" channel="cctv3">
-    <title lang="zh">天天把歌唱-2020-181</title>
-  </programme>
-  <programme start="20200924092600 +0000" stop="20200924100100 +0000" channel="cctv3">
-    <title lang="zh">天天把歌唱-2020-181</title>
-  </programme>
-  <programme start="20200924100100 +0000" stop="20200924113000 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1617</title>
-  </programme>
-  <programme start="20200924100100 +0000" stop="20200924113000 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1617</title>
-  </programme>
-  <programme start="20200924100100 +0000" stop="20200924113000 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1617</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924125800 +0000" channel="cctv3">
-    <title lang="zh">越战越勇-2020-36</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924125800 +0000" channel="cctv3">
-    <title lang="zh">越战越勇-2020-36</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924125800 +0000" channel="cctv3">
-    <title lang="zh">越战越勇-2020-36</title>
-  </programme>
-  <programme start="20200924125800 +0000" stop="20200924135700 +0000" channel="cctv3">
-    <title lang="zh">回声嘹亮-2020-36</title>
-  </programme>
-  <programme start="20200924125800 +0000" stop="20200924135700 +0000" channel="cctv3">
-    <title lang="zh">回声嘹亮-2020-36</title>
-  </programme>
-  <programme start="20200924125800 +0000" stop="20200924135700 +0000" channel="cctv3">
-    <title lang="zh">回声嘹亮-2020-36</title>
-  </programme>
-  <programme start="20200924135700 +0000" stop="20200924151500 +0000" channel="cctv3">
-    <title lang="zh">走在回家的路上-4徐帆</title>
-  </programme>
-  <programme start="20200924135700 +0000" stop="20200924151500 +0000" channel="cctv3">
-    <title lang="zh">走在回家的路上-4徐帆</title>
-  </programme>
-  <programme start="20200924135700 +0000" stop="20200924151500 +0000" channel="cctv3">
-    <title lang="zh">走在回家的路上-4徐帆</title>
-  </programme>
-  <programme start="20200924151500 +0000" stop="20200924163800 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1587</title>
-  </programme>
-  <programme start="20200924151500 +0000" stop="20200924163800 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1587</title>
-  </programme>
-  <programme start="20200924151500 +0000" stop="20200924163800 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1587</title>
-  </programme>
-  <programme start="20200924163800 +0000" stop="20200924172100 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1448彭德怀元帅</title>
-  </programme>
-  <programme start="20200924163800 +0000" stop="20200924172100 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1448彭德怀元帅</title>
-  </programme>
-  <programme start="20200924163800 +0000" stop="20200924172100 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1448彭德怀元帅</title>
-  </programme>
-  <programme start="20200924172100 +0000" stop="20200924180400 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1449彭德怀元帅</title>
-  </programme>
-  <programme start="20200924172100 +0000" stop="20200924180400 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1449彭德怀元帅</title>
-  </programme>
-  <programme start="20200924172100 +0000" stop="20200924180400 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1449彭德怀元帅</title>
-  </programme>
-  <programme start="20200924180400 +0000" stop="20200924184700 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1450彭德怀元帅</title>
-  </programme>
-  <programme start="20200924180400 +0000" stop="20200924184700 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1450彭德怀元帅</title>
-  </programme>
-  <programme start="20200924180400 +0000" stop="20200924184700 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1450彭德怀元帅</title>
-  </programme>
-  <programme start="20200924184700 +0000" stop="20200924193000 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1451彭德怀元帅</title>
-  </programme>
-  <programme start="20200924184700 +0000" stop="20200924193000 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1451彭德怀元帅</title>
-  </programme>
-  <programme start="20200924184700 +0000" stop="20200924193000 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2017-1451彭德怀元帅</title>
-  </programme>
-  <programme start="20200924193000 +0000" stop="20200924202100 +0000" channel="cctv3">
-    <title lang="zh">回声嘹亮-2020-36</title>
-  </programme>
-  <programme start="20200924193000 +0000" stop="20200924202100 +0000" channel="cctv3">
-    <title lang="zh">回声嘹亮-2020-36</title>
-  </programme>
-  <programme start="20200924193000 +0000" stop="20200924202100 +0000" channel="cctv3">
-    <title lang="zh">回声嘹亮-2020-36</title>
-  </programme>
-  <programme start="20200924202100 +0000" stop="20200924202700 +0000" channel="cctv3">
-    <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-祝福祖国</title>
-  </programme>
-  <programme start="20200924202100 +0000" stop="20200924202700 +0000" channel="cctv3">
-    <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-祝福祖国</title>
-  </programme>
-  <programme start="20200924202100 +0000" stop="20200924202700 +0000" channel="cctv3">
-    <title lang="zh">庆祝中华人民共和国成立70周年优秀歌曲MV-祝福祖国</title>
-  </programme>
-  <programme start="20200924202700 +0000" stop="20200924205300 +0000" channel="cctv3">
-    <title lang="zh">天天把歌唱-2020-181</title>
-  </programme>
-  <programme start="20200924202700 +0000" stop="20200924205300 +0000" channel="cctv3">
-    <title lang="zh">天天把歌唱-2020-181</title>
-  </programme>
-  <programme start="20200924202700 +0000" stop="20200924205300 +0000" channel="cctv3">
-    <title lang="zh">天天把歌唱-2020-181</title>
-  </programme>
-  <programme start="20200924205300 +0000" stop="20200924221100 +0000" channel="cctv3">
-    <title lang="zh">黄金100秒-2020-34</title>
-  </programme>
-  <programme start="20200924205300 +0000" stop="20200924221100 +0000" channel="cctv3">
-    <title lang="zh">黄金100秒-2020-34</title>
-  </programme>
-  <programme start="20200924205300 +0000" stop="20200924221100 +0000" channel="cctv3">
-    <title lang="zh">黄金100秒-2020-34</title>
-  </programme>
-  <programme start="20200924221100 +0000" stop="20200924232900 +0000" channel="cctv3">
-    <title lang="zh">开门大吉-2020-33</title>
-  </programme>
-  <programme start="20200924221100 +0000" stop="20200924232900 +0000" channel="cctv3">
-    <title lang="zh">开门大吉-2020-33</title>
-  </programme>
-  <programme start="20200924221100 +0000" stop="20200924232900 +0000" channel="cctv3">
-    <title lang="zh">开门大吉-2020-33</title>
-  </programme>
-  <programme start="20200924232900 +0000" stop="20200924234000 +0000" channel="cctv3">
-    <title lang="zh">文化十分-2020-193</title>
-  </programme>
-  <programme start="20200924232900 +0000" stop="20200924234000 +0000" channel="cctv3">
-    <title lang="zh">文化十分-2020-193</title>
-  </programme>
-  <programme start="20200924232900 +0000" stop="20200924234000 +0000" channel="cctv3">
-    <title lang="zh">文化十分-2020-193</title>
-  </programme>
-  <programme start="20200924234000 +0000" stop="20200925010500 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1735</title>
-  </programme>
-  <programme start="20200924234000 +0000" stop="20200925010500 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1735</title>
-  </programme>
-  <programme start="20200924234000 +0000" stop="20200925010500 +0000" channel="cctv3">
-    <title lang="zh">综艺喜乐汇-2020-1735</title>
-  </programme>
   <programme start="20200925010500 +0000" stop="20200925020600 +0000" channel="cctv3">
     <title lang="zh">幸福账单-为你买单2020-36</title>
   </programme>
@@ -1326,345 +825,6 @@
   </programme>
   <programme start="20200925035700 +0000" stop="20200925035300 +0000" channel="cctv3">
     <title lang="zh">越战越勇-2020-36</title>
-  </programme>
-  <programme start="20200924000000 +0000" stop="20200924010000 +0000" channel="cctv4">
-    <title lang="zh">今日环球</title>
-  </programme>
-  <programme start="20200924010000 +0000" stop="20200924013000 +0000" channel="cctv4">
-    <title lang="zh">今日亚洲</title>
-  </programme>
-  <programme start="20200924013000 +0000" stop="20200924020000 +0000" channel="cctv4">
-    <title lang="zh">中国文艺-2020-191</title>
-  </programme>
-  <programme start="20200924020000 +0000" stop="20200924021200 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924021200 +0000" stop="20200924030000 +0000" channel="cctv4">
-    <title lang="zh">远方的家2020-191</title>
-  </programme>
-  <programme start="20200924030000 +0000" stop="20200924033000 +0000" channel="cctv4">
-    <title lang="zh">国家记忆-2020-128</title>
-  </programme>
-  <programme start="20200924033000 +0000" stop="20200924040000 +0000" channel="cctv4">
-    <title lang="zh">海峡两岸-2020-267</title>
-  </programme>
-  <programme start="20200924040000 +0000" stop="20200924040000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924040000 +0000" stop="20200924050200 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924040000 +0000" stop="20200924050200 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924040000 +0000" stop="20200924050200 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924050200 +0000" stop="20200924053300 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-85</title>
-  </programme>
-  <programme start="20200924050200 +0000" stop="20200924053300 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-85</title>
-  </programme>
-  <programme start="20200924050200 +0000" stop="20200924053300 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-85</title>
-  </programme>
-  <programme start="20200924053300 +0000" stop="20200924061500 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-27/30</title>
-  </programme>
-  <programme start="20200924053300 +0000" stop="20200924061500 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-27/30</title>
-  </programme>
-  <programme start="20200924053300 +0000" stop="20200924061500 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-27/30</title>
-  </programme>
-  <programme start="20200924061500 +0000" stop="20200924065700 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-28/30</title>
-  </programme>
-  <programme start="20200924061500 +0000" stop="20200924065700 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-28/30</title>
-  </programme>
-  <programme start="20200924061500 +0000" stop="20200924065700 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-28/30</title>
-  </programme>
-  <programme start="20200924065700 +0000" stop="20200924074200 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-29/30</title>
-  </programme>
-  <programme start="20200924065700 +0000" stop="20200924074200 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-29/30</title>
-  </programme>
-  <programme start="20200924065700 +0000" stop="20200924074200 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-29/30</title>
-  </programme>
-  <programme start="20200924074200 +0000" stop="20200924082600 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-30/30</title>
-  </programme>
-  <programme start="20200924074200 +0000" stop="20200924082600 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-30/30</title>
-  </programme>
-  <programme start="20200924074200 +0000" stop="20200924082600 +0000" channel="cctv4">
-    <title lang="zh">周恩来在重庆-（四套）-30/30</title>
-  </programme>
-  <programme start="20200924082600 +0000" stop="20200924091500 +0000" channel="cctv4">
-    <title lang="zh">孤军英雄第1集</title>
-  </programme>
-  <programme start="20200924082600 +0000" stop="20200924091500 +0000" channel="cctv4">
-    <title lang="zh">孤军英雄第1集</title>
-  </programme>
-  <programme start="20200924082600 +0000" stop="20200924091500 +0000" channel="cctv4">
-    <title lang="zh">孤军英雄第1集</title>
-  </programme>
-  <programme start="20200924091500 +0000" stop="20200924100000 +0000" channel="cctv4">
-    <title lang="zh">远方的家2020-191</title>
-  </programme>
-  <programme start="20200924091500 +0000" stop="20200924100000 +0000" channel="cctv4">
-    <title lang="zh">远方的家2020-191</title>
-  </programme>
-  <programme start="20200924091500 +0000" stop="20200924100000 +0000" channel="cctv4">
-    <title lang="zh">远方的家2020-191</title>
-  </programme>
-  <programme start="20200924100000 +0000" stop="20200924103000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924100000 +0000" stop="20200924103000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924100000 +0000" stop="20200924103000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924103000 +0000" stop="20200924110000 +0000" channel="cctv4">
-    <title lang="zh">中国文艺-2020-191</title>
-  </programme>
-  <programme start="20200924103000 +0000" stop="20200924110000 +0000" channel="cctv4">
-    <title lang="zh">中国文艺-2020-191</title>
-  </programme>
-  <programme start="20200924103000 +0000" stop="20200924110000 +0000" channel="cctv4">
-    <title lang="zh">中国文艺-2020-191</title>
-  </programme>
-  <programme start="20200924110000 +0000" stop="20200924113000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924110000 +0000" stop="20200924113000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924110000 +0000" stop="20200924113000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924120000 +0000" channel="cctv4">
-    <title lang="zh">今日亚洲</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924120000 +0000" channel="cctv4">
-    <title lang="zh">今日亚洲</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924120000 +0000" channel="cctv4">
-    <title lang="zh">今日亚洲</title>
-  </programme>
-  <programme start="20200924120000 +0000" stop="20200924123000 +0000" channel="cctv4">
-    <title lang="zh">国家记忆-2020-128</title>
-  </programme>
-  <programme start="20200924120000 +0000" stop="20200924123000 +0000" channel="cctv4">
-    <title lang="zh">国家记忆-2020-128</title>
-  </programme>
-  <programme start="20200924120000 +0000" stop="20200924123000 +0000" channel="cctv4">
-    <title lang="zh">国家记忆-2020-128</title>
-  </programme>
-  <programme start="20200924123000 +0000" stop="20200924130000 +0000" channel="cctv4">
-    <title lang="zh">海峡两岸-2020-267</title>
-  </programme>
-  <programme start="20200924123000 +0000" stop="20200924130000 +0000" channel="cctv4">
-    <title lang="zh">海峡两岸-2020-267</title>
-  </programme>
-  <programme start="20200924123000 +0000" stop="20200924130000 +0000" channel="cctv4">
-    <title lang="zh">海峡两岸-2020-267</title>
-  </programme>
-  <programme start="20200924130000 +0000" stop="20200924133000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924130000 +0000" stop="20200924133000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924130000 +0000" stop="20200924133000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924133000 +0000" stop="20200924140000 +0000" channel="cctv4">
-    <title lang="zh">今日关注</title>
-  </programme>
-  <programme start="20200924133000 +0000" stop="20200924140000 +0000" channel="cctv4">
-    <title lang="zh">今日关注</title>
-  </programme>
-  <programme start="20200924133000 +0000" stop="20200924140000 +0000" channel="cctv4">
-    <title lang="zh">今日关注</title>
-  </programme>
-  <programme start="20200924140000 +0000" stop="20200924143000 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-86</title>
-  </programme>
-  <programme start="20200924140000 +0000" stop="20200924143000 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-86</title>
-  </programme>
-  <programme start="20200924140000 +0000" stop="20200924143000 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-86</title>
-  </programme>
-  <programme start="20200924143000 +0000" stop="20200924150300 +0000" channel="cctv4">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924143000 +0000" stop="20200924150300 +0000" channel="cctv4">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924143000 +0000" stop="20200924150300 +0000" channel="cctv4">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924150300 +0000" stop="20200924154600 +0000" channel="cctv4">
-    <title lang="zh">大宋提刑官-（四套）-15/52</title>
-  </programme>
-  <programme start="20200924150300 +0000" stop="20200924154600 +0000" channel="cctv4">
-    <title lang="zh">大宋提刑官-（四套）-15/52</title>
-  </programme>
-  <programme start="20200924150300 +0000" stop="20200924154600 +0000" channel="cctv4">
-    <title lang="zh">大宋提刑官-（四套）-15/52</title>
-  </programme>
-  <programme start="20200924154600 +0000" stop="20200924162900 +0000" channel="cctv4">
-    <title lang="zh">大宋提刑官-（四套）-16/52</title>
-  </programme>
-  <programme start="20200924154600 +0000" stop="20200924162900 +0000" channel="cctv4">
-    <title lang="zh">大宋提刑官-（四套）-16/52</title>
-  </programme>
-  <programme start="20200924154600 +0000" stop="20200924162900 +0000" channel="cctv4">
-    <title lang="zh">大宋提刑官-（四套）-16/52</title>
-  </programme>
-  <programme start="20200924162900 +0000" stop="20200924172000 +0000" channel="cctv4">
-    <title lang="zh">大宋提刑官-（四套）-17/52</title>
-  </programme>
-  <programme start="20200924162900 +0000" stop="20200924172000 +0000" channel="cctv4">
-    <title lang="zh">大宋提刑官-（四套）-17/52</title>
-  </programme>
-  <programme start="20200924162900 +0000" stop="20200924172000 +0000" channel="cctv4">
-    <title lang="zh">大宋提刑官-（四套）-17/52</title>
-  </programme>
-  <programme start="20200924172000 +0000" stop="20200924173000 +0000" channel="cctv4">
-    <title lang="zh">记住乡愁2018片段展播-38</title>
-  </programme>
-  <programme start="20200924172000 +0000" stop="20200924173000 +0000" channel="cctv4">
-    <title lang="zh">记住乡愁2018片段展播-38</title>
-  </programme>
-  <programme start="20200924172000 +0000" stop="20200924173000 +0000" channel="cctv4">
-    <title lang="zh">记住乡愁2018片段展播-38</title>
-  </programme>
-  <programme start="20200924173000 +0000" stop="20200924180000 +0000" channel="cctv4">
-    <title lang="zh">中国文艺-2020-191</title>
-  </programme>
-  <programme start="20200924173000 +0000" stop="20200924180000 +0000" channel="cctv4">
-    <title lang="zh">中国文艺-2020-191</title>
-  </programme>
-  <programme start="20200924173000 +0000" stop="20200924180000 +0000" channel="cctv4">
-    <title lang="zh">中国文艺-2020-191</title>
-  </programme>
-  <programme start="20200924180000 +0000" stop="20200924183000 +0000" channel="cctv4">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924180000 +0000" stop="20200924183000 +0000" channel="cctv4">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924180000 +0000" stop="20200924183000 +0000" channel="cctv4">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924183000 +0000" stop="20200924190000 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-86</title>
-  </programme>
-  <programme start="20200924183000 +0000" stop="20200924190000 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-86</title>
-  </programme>
-  <programme start="20200924183000 +0000" stop="20200924190000 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-86</title>
-  </programme>
-  <programme start="20200924190000 +0000" stop="20200924191000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924190000 +0000" stop="20200924191000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924190000 +0000" stop="20200924191000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924191000 +0000" stop="20200924200000 +0000" channel="cctv4">
-    <title lang="zh">远方的家2020-191</title>
-  </programme>
-  <programme start="20200924191000 +0000" stop="20200924200000 +0000" channel="cctv4">
-    <title lang="zh">远方的家2020-191</title>
-  </programme>
-  <programme start="20200924191000 +0000" stop="20200924200000 +0000" channel="cctv4">
-    <title lang="zh">远方的家2020-191</title>
-  </programme>
-  <programme start="20200924200000 +0000" stop="20200924203000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924200000 +0000" stop="20200924203000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924200000 +0000" stop="20200924203000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924203000 +0000" stop="20200924210000 +0000" channel="cctv4">
-    <title lang="zh">今日关注</title>
-  </programme>
-  <programme start="20200924203000 +0000" stop="20200924210000 +0000" channel="cctv4">
-    <title lang="zh">今日关注</title>
-  </programme>
-  <programme start="20200924203000 +0000" stop="20200924210000 +0000" channel="cctv4">
-    <title lang="zh">今日关注</title>
-  </programme>
-  <programme start="20200924210000 +0000" stop="20200924213000 +0000" channel="cctv4">
-    <title lang="zh">国家记忆-2020-128</title>
-  </programme>
-  <programme start="20200924210000 +0000" stop="20200924213000 +0000" channel="cctv4">
-    <title lang="zh">国家记忆-2020-128</title>
-  </programme>
-  <programme start="20200924210000 +0000" stop="20200924213000 +0000" channel="cctv4">
-    <title lang="zh">国家记忆-2020-128</title>
-  </programme>
-  <programme start="20200924213000 +0000" stop="20200924220000 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-86</title>
-  </programme>
-  <programme start="20200924213000 +0000" stop="20200924220000 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-86</title>
-  </programme>
-  <programme start="20200924213000 +0000" stop="20200924220000 +0000" channel="cctv4">
-    <title lang="zh">美食中国-2020-86</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924223000 +0000" channel="cctv4">
-    <title lang="zh">海峡两岸-2020-267</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924223000 +0000" channel="cctv4">
-    <title lang="zh">海峡两岸-2020-267</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924223000 +0000" channel="cctv4">
-    <title lang="zh">海峡两岸-2020-267</title>
-  </programme>
-  <programme start="20200924223000 +0000" stop="20200924230000 +0000" channel="cctv4">
-    <title lang="zh">今日亚洲</title>
-  </programme>
-  <programme start="20200924223000 +0000" stop="20200924230000 +0000" channel="cctv4">
-    <title lang="zh">今日亚洲</title>
-  </programme>
-  <programme start="20200924223000 +0000" stop="20200924230000 +0000" channel="cctv4">
-    <title lang="zh">今日亚洲</title>
-  </programme>
-  <programme start="20200924230000 +0000" stop="20200924233000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924230000 +0000" stop="20200924233000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924230000 +0000" stop="20200924233000 +0000" channel="cctv4">
-    <title lang="zh">中国新闻</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200925000000 +0000" channel="cctv4">
-    <title lang="zh">今日关注</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200925000000 +0000" channel="cctv4">
-    <title lang="zh">今日关注</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200925000000 +0000" channel="cctv4">
-    <title lang="zh">今日关注</title>
   </programme>
   <programme start="20200925000000 +0000" stop="20200925010000 +0000" channel="cctv4">
     <title lang="zh">今日环球</title>
@@ -1735,174 +895,6 @@
   <programme start="20200925040000 +0000" stop="20200925040000 +0000" channel="cctv4">
     <title lang="zh">中国新闻</title>
   </programme>
-  <programme start="20200924000000 +0000" stop="20200924020000 +0000" channel="cctv5">
-    <title lang="zh">体育新闻-500天，新起点-北京冬奥会倒计时500天特别节目</title>
-  </programme>
-  <programme start="20200924020000 +0000" stop="20200924023100 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年国际田联钻石联赛 斯德哥尔摩站精彩</title>
-  </programme>
-  <programme start="20200924023100 +0000" stop="20200924040000 +0000" channel="cctv5">
-    <title lang="zh">国际足球赛场-20-21赛季法甲联赛第4轮 马赛—里尔</title>
-  </programme>
-  <programme start="20200924040000 +0000" stop="20200924043500 +0000" channel="cctv5">
-    <title lang="zh">体坛快讯</title>
-  </programme>
-  <programme start="20200924043500 +0000" stop="20200924043500 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2019/2020赛季世界斯诺克锦标赛 精选1</title>
-  </programme>
-  <programme start="20200924043500 +0000" stop="20200924050200 +0000" channel="cctv5">
-    <title lang="zh">足球之夜-2020中超联赛第一阶段报道12</title>
-  </programme>
-  <programme start="20200924043500 +0000" stop="20200924050200 +0000" channel="cctv5">
-    <title lang="zh">足球之夜-2020中超联赛第一阶段报道12</title>
-  </programme>
-  <programme start="20200924043500 +0000" stop="20200924050200 +0000" channel="cctv5">
-    <title lang="zh">足球之夜-2020中超联赛第一阶段报道12</title>
-  </programme>
-  <programme start="20200924050200 +0000" stop="20200924060200 +0000" channel="cctv5">
-    <title lang="zh">冠军欧洲-20-21赛季欧足联国家联赛小组赛集锦1（录像）</title>
-  </programme>
-  <programme start="20200924050200 +0000" stop="20200924060200 +0000" channel="cctv5">
-    <title lang="zh">冠军欧洲-20-21赛季欧足联国家联赛小组赛集锦1（录像）</title>
-  </programme>
-  <programme start="20200924050200 +0000" stop="20200924060200 +0000" channel="cctv5">
-    <title lang="zh">冠军欧洲-20-21赛季欧足联国家联赛小组赛集锦1（录像）</title>
-  </programme>
-  <programme start="20200924060200 +0000" stop="20200924080000 +0000" channel="cctv5">
-    <title lang="zh">2020年中国网球巡回赛-长沙站-男女单打正选赛第3轮</title>
-  </programme>
-  <programme start="20200924060200 +0000" stop="20200924080000 +0000" channel="cctv5">
-    <title lang="zh">2020年中国网球巡回赛-长沙站-男女单打正选赛第3轮</title>
-  </programme>
-  <programme start="20200924060200 +0000" stop="20200924080000 +0000" channel="cctv5">
-    <title lang="zh">2020年中国网球巡回赛-长沙站-男女单打正选赛第3轮</title>
-  </programme>
-  <programme start="20200924080000 +0000" stop="20200924083100 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年国际田联钻石联赛 罗马站精彩</title>
-  </programme>
-  <programme start="20200924080000 +0000" stop="20200924083100 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年国际田联钻石联赛 罗马站精彩</title>
-  </programme>
-  <programme start="20200924080000 +0000" stop="20200924083100 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年国际田联钻石联赛 罗马站精彩</title>
-  </programme>
-  <programme start="20200924083100 +0000" stop="20200924100000 +0000" channel="cctv5">
-    <title lang="zh">录像-中超第12轮 深圳佳兆业-山东鲁能泰山</title>
-  </programme>
-  <programme start="20200924083100 +0000" stop="20200924100000 +0000" channel="cctv5">
-    <title lang="zh">录像-中超第12轮 深圳佳兆业-山东鲁能泰山</title>
-  </programme>
-  <programme start="20200924083100 +0000" stop="20200924100000 +0000" channel="cctv5">
-    <title lang="zh">录像-中超第12轮 深圳佳兆业-山东鲁能泰山</title>
-  </programme>
-  <programme start="20200924100000 +0000" stop="20200924103500 +0000" channel="cctv5">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme start="20200924100000 +0000" stop="20200924103500 +0000" channel="cctv5">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme start="20200924100000 +0000" stop="20200924103500 +0000" channel="cctv5">
-    <title lang="zh">体育新闻</title>
-  </programme>
-  <programme start="20200924103500 +0000" stop="20200924120200 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年全国田径锦标赛 精选</title>
-  </programme>
-  <programme start="20200924103500 +0000" stop="20200924120200 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年全国田径锦标赛 精选</title>
-  </programme>
-  <programme start="20200924103500 +0000" stop="20200924120200 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年全国田径锦标赛 精选</title>
-  </programme>
-  <programme start="20200924120200 +0000" stop="20200924133000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年全国田径锦标赛 精选2</title>
-  </programme>
-  <programme start="20200924120200 +0000" stop="20200924133000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年全国田径锦标赛 精选2</title>
-  </programme>
-  <programme start="20200924120200 +0000" stop="20200924133000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年全国田径锦标赛 精选2</title>
-  </programme>
-  <programme start="20200924133000 +0000" stop="20200924142000 +0000" channel="cctv5">
-    <title lang="zh">体育世界</title>
-  </programme>
-  <programme start="20200924133000 +0000" stop="20200924142000 +0000" channel="cctv5">
-    <title lang="zh">体育世界</title>
-  </programme>
-  <programme start="20200924133000 +0000" stop="20200924142000 +0000" channel="cctv5">
-    <title lang="zh">体育世界</title>
-  </programme>
-  <programme start="20200924142000 +0000" stop="20200924151000 +0000" channel="cctv5">
-    <title lang="zh">欧战快报-20-21赛季意甲联赛集锦1</title>
-  </programme>
-  <programme start="20200924142000 +0000" stop="20200924151000 +0000" channel="cctv5">
-    <title lang="zh">欧战快报-20-21赛季意甲联赛集锦1</title>
-  </programme>
-  <programme start="20200924142000 +0000" stop="20200924151000 +0000" channel="cctv5">
-    <title lang="zh">欧战快报-20-21赛季意甲联赛集锦1</title>
-  </programme>
-  <programme start="20200924151000 +0000" stop="20200924163000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2019年世界体育舞蹈联合会大满贯系列赛 里米尼站</title>
-  </programme>
-  <programme start="20200924151000 +0000" stop="20200924163000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2019年世界体育舞蹈联合会大满贯系列赛 里米尼站</title>
-  </programme>
-  <programme start="20200924151000 +0000" stop="20200924163000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2019年世界体育舞蹈联合会大满贯系列赛 里米尼站</title>
-  </programme>
-  <programme start="20200924163000 +0000" stop="20200924180000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年美国网球公开赛 女单决赛</title>
-  </programme>
-  <programme start="20200924163000 +0000" stop="20200924180000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年美国网球公开赛 女单决赛</title>
-  </programme>
-  <programme start="20200924163000 +0000" stop="20200924180000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年美国网球公开赛 女单决赛</title>
-  </programme>
-  <programme start="20200924180000 +0000" stop="20200924200000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2019/2020赛季世界斯诺克锦标赛 精选1</title>
-  </programme>
-  <programme start="20200924180000 +0000" stop="20200924200000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2019/2020赛季世界斯诺克锦标赛 精选1</title>
-  </programme>
-  <programme start="20200924180000 +0000" stop="20200924200000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2019/2020赛季世界斯诺克锦标赛 精选1</title>
-  </programme>
-  <programme start="20200924200000 +0000" stop="20200924213000 +0000" channel="cctv5">
-    <title lang="zh">国际足球赛场-20-21赛季法甲联赛第1轮 巴黎圣日耳曼—梅斯</title>
-  </programme>
-  <programme start="20200924200000 +0000" stop="20200924213000 +0000" channel="cctv5">
-    <title lang="zh">国际足球赛场-20-21赛季法甲联赛第1轮 巴黎圣日耳曼—梅斯</title>
-  </programme>
-  <programme start="20200924200000 +0000" stop="20200924213000 +0000" channel="cctv5">
-    <title lang="zh">国际足球赛场-20-21赛季法甲联赛第1轮 巴黎圣日耳曼—梅斯</title>
-  </programme>
-  <programme start="20200924213000 +0000" stop="20200924220000 +0000" channel="cctv5">
-    <title lang="zh">赛事集锦-2020年田径杂志19</title>
-  </programme>
-  <programme start="20200924213000 +0000" stop="20200924220000 +0000" channel="cctv5">
-    <title lang="zh">赛事集锦-2020年田径杂志19</title>
-  </programme>
-  <programme start="20200924213000 +0000" stop="20200924220000 +0000" channel="cctv5">
-    <title lang="zh">赛事集锦-2020年田径杂志19</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924233000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年中国平安中超联赛第11轮 河北华夏幸福-北京中赫国安</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924233000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年中国平安中超联赛第11轮 河北华夏幸福-北京中赫国安</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924233000 +0000" channel="cctv5">
-    <title lang="zh">实况录像-2020年中国平安中超联赛第11轮 河北华夏幸福-北京中赫国安</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200925000000 +0000" channel="cctv5">
-    <title lang="zh">健身动起来</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200925000000 +0000" channel="cctv5">
-    <title lang="zh">健身动起来</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200925000000 +0000" channel="cctv5">
-    <title lang="zh">健身动起来</title>
-  </programme>
   <programme start="20200925000000 +0000" stop="20200925020000 +0000" channel="cctv5">
     <title lang="zh">体育新闻-500天，新起点-北京冬奥会倒计时500天特别节目</title>
   </programme>
@@ -1945,144 +937,6 @@
   <programme start="20200925043500 +0000" stop="20200925043500 +0000" channel="cctv5">
     <title lang="zh">实况录像-2019/2020赛季世界斯诺克锦标赛 精选1</title>
   </programme>
-  <programme start="20200924000000 +0000" stop="20200924030500 +0000" channel="cctv5plus">
-    <title lang="zh">直播北美冰球职业联赛-总决赛第三场（坦帕湾闪电-达拉斯星）</title>
-  </programme>
-  <programme start="20200924030500 +0000" stop="20200924035500 +0000" channel="cctv5plus">
-    <title lang="zh">录像-中国攀岩公开赛 男子全能决赛</title>
-  </programme>
-  <programme start="20200924035500 +0000" stop="20200924043000 +0000" channel="cctv5plus">
-    <title lang="zh">赛事集锦-冰球  冰球（26）</title>
-  </programme>
-  <programme start="20200924043000 +0000" stop="20200924043000 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2019年世界体育舞蹈联合会大满贯系列赛 里米尼站</title>
-  </programme>
-  <programme start="20200924043000 +0000" stop="20200924054500 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2019年世界体育舞蹈联合会大满贯系列赛 斯图加特站</title>
-  </programme>
-  <programme start="20200924043000 +0000" stop="20200924054500 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2019年世界体育舞蹈联合会大满贯系列赛 斯图加特站</title>
-  </programme>
-  <programme start="20200924043000 +0000" stop="20200924054500 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2019年世界体育舞蹈联合会大满贯系列赛 斯图加特站</title>
-  </programme>
-  <programme start="20200924054500 +0000" stop="20200924074500 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2019/2020赛季世界斯诺克锦标赛 精选2</title>
-  </programme>
-  <programme start="20200924054500 +0000" stop="20200924074500 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2019/2020赛季世界斯诺克锦标赛 精选2</title>
-  </programme>
-  <programme start="20200924054500 +0000" stop="20200924074500 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2019/2020赛季世界斯诺克锦标赛 精选2</title>
-  </programme>
-  <programme start="20200924074500 +0000" stop="20200924090900 +0000" channel="cctv5plus">
-    <title lang="zh">录像中超联赛第12轮 深圳佳兆业-山东鲁能泰山</title>
-  </programme>
-  <programme start="20200924074500 +0000" stop="20200924090900 +0000" channel="cctv5plus">
-    <title lang="zh">录像中超联赛第12轮 深圳佳兆业-山东鲁能泰山</title>
-  </programme>
-  <programme start="20200924074500 +0000" stop="20200924090900 +0000" channel="cctv5plus">
-    <title lang="zh">录像中超联赛第12轮 深圳佳兆业-山东鲁能泰山</title>
-  </programme>
-  <programme start="20200924090900 +0000" stop="20200924104000 +0000" channel="cctv5plus">
-    <title lang="zh">国际足球赛场-20-21赛季法甲联赛第4轮 马赛—里尔</title>
-  </programme>
-  <programme start="20200924090900 +0000" stop="20200924104000 +0000" channel="cctv5plus">
-    <title lang="zh">国际足球赛场-20-21赛季法甲联赛第4轮 马赛—里尔</title>
-  </programme>
-  <programme start="20200924090900 +0000" stop="20200924104000 +0000" channel="cctv5plus">
-    <title lang="zh">国际足球赛场-20-21赛季法甲联赛第4轮 马赛—里尔</title>
-  </programme>
-  <programme start="20200924104000 +0000" stop="20200924113000 +0000" channel="cctv5plus">
-    <title lang="zh">欧战快报-20-21赛季意甲联赛集锦1</title>
-  </programme>
-  <programme start="20200924104000 +0000" stop="20200924113000 +0000" channel="cctv5plus">
-    <title lang="zh">欧战快报-20-21赛季意甲联赛集锦1</title>
-  </programme>
-  <programme start="20200924104000 +0000" stop="20200924113000 +0000" channel="cctv5plus">
-    <title lang="zh">欧战快报-20-21赛季意甲联赛集锦1</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924133500 +0000" channel="cctv5plus">
-    <title lang="zh">直播2020年中国足协甲级联赛-第4轮（辽宁沈阳城市-江西联盛）</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924133500 +0000" channel="cctv5plus">
-    <title lang="zh">直播2020年中国足协甲级联赛-第4轮（辽宁沈阳城市-江西联盛）</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924133500 +0000" channel="cctv5plus">
-    <title lang="zh">直播2020年中国足协甲级联赛-第4轮（辽宁沈阳城市-江西联盛）</title>
-  </programme>
-  <programme start="20200924133500 +0000" stop="20200924151000 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2020年世界飞镖系列赛 总决赛精选</title>
-  </programme>
-  <programme start="20200924133500 +0000" stop="20200924151000 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2020年世界飞镖系列赛 总决赛精选</title>
-  </programme>
-  <programme start="20200924133500 +0000" stop="20200924151000 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2020年世界飞镖系列赛 总决赛精选</title>
-  </programme>
-  <programme start="20200924151000 +0000" stop="20200924163500 +0000" channel="cctv5plus">
-    <title lang="zh">2019/2020赛季北美冰球职业联赛- 总决赛2</title>
-  </programme>
-  <programme start="20200924151000 +0000" stop="20200924163500 +0000" channel="cctv5plus">
-    <title lang="zh">2019/2020赛季北美冰球职业联赛- 总决赛2</title>
-  </programme>
-  <programme start="20200924151000 +0000" stop="20200924163500 +0000" channel="cctv5plus">
-    <title lang="zh">2019/2020赛季北美冰球职业联赛- 总决赛2</title>
-  </programme>
-  <programme start="20200924163500 +0000" stop="20200924170600 +0000" channel="cctv5plus">
-    <title lang="zh">赛事集锦-冰球  冰球（26）</title>
-  </programme>
-  <programme start="20200924163500 +0000" stop="20200924170600 +0000" channel="cctv5plus">
-    <title lang="zh">赛事集锦-冰球  冰球（26）</title>
-  </programme>
-  <programme start="20200924163500 +0000" stop="20200924170600 +0000" channel="cctv5plus">
-    <title lang="zh">赛事集锦-冰球  冰球（26）</title>
-  </programme>
-  <programme start="20200924170600 +0000" stop="20200924183600 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2019/2020赛季中国男子篮球职业联赛 季后赛 半决赛3</title>
-  </programme>
-  <programme start="20200924170600 +0000" stop="20200924183600 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2019/2020赛季中国男子篮球职业联赛 季后赛 半决赛3</title>
-  </programme>
-  <programme start="20200924170600 +0000" stop="20200924183600 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2019/2020赛季中国男子篮球职业联赛 季后赛 半决赛3</title>
-  </programme>
-  <programme start="20200924183600 +0000" stop="20200924200000 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2020年中国平安中超联赛第11轮 河北华夏幸福-北京中赫国安</title>
-  </programme>
-  <programme start="20200924183600 +0000" stop="20200924200000 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2020年中国平安中超联赛第11轮 河北华夏幸福-北京中赫国安</title>
-  </programme>
-  <programme start="20200924183600 +0000" stop="20200924200000 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2020年中国平安中超联赛第11轮 河北华夏幸福-北京中赫国安</title>
-  </programme>
-  <programme start="20200924200000 +0000" stop="20200924220000 +0000" channel="cctv5plus">
-    <title lang="zh">赛事集锦-2020年高尔夫女子美巡赛全日空锦标赛精选</title>
-  </programme>
-  <programme start="20200924200000 +0000" stop="20200924220000 +0000" channel="cctv5plus">
-    <title lang="zh">赛事集锦-2020年高尔夫女子美巡赛全日空锦标赛精选</title>
-  </programme>
-  <programme start="20200924200000 +0000" stop="20200924220000 +0000" channel="cctv5plus">
-    <title lang="zh">赛事集锦-2020年高尔夫女子美巡赛全日空锦标赛精选</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924233000 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2020/2021欧足联国家联赛小组赛 冰岛队-英格兰队</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924233000 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2020/2021欧足联国家联赛小组赛 冰岛队-英格兰队</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924233000 +0000" channel="cctv5plus">
-    <title lang="zh">实况录像-2020/2021欧足联国家联赛小组赛 冰岛队-英格兰队</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200925000000 +0000" channel="cctv5plus">
-    <title lang="zh">录像-国际田联钻石联赛 斯德哥尔摩站精彩</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200925000000 +0000" channel="cctv5plus">
-    <title lang="zh">录像-国际田联钻石联赛 斯德哥尔摩站精彩</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200925000000 +0000" channel="cctv5plus">
-    <title lang="zh">录像-国际田联钻石联赛 斯德哥尔摩站精彩</title>
-  </programme>
   <programme start="20200925000000 +0000" stop="20200925030500 +0000" channel="cctv5plus">
     <title lang="zh">直播北美冰球职业联赛-总决赛第三场（坦帕湾闪电-达拉斯星）</title>
   </programme>
@@ -2116,135 +970,6 @@
   <programme start="20200925043000 +0000" stop="20200925043000 +0000" channel="cctv5plus">
     <title lang="zh">实况录像-2019年世界体育舞蹈联合会大满贯系列赛 里米尼站</title>
   </programme>
-  <programme start="20200924002500 +0000" stop="20200924021300 +0000" channel="cctv6">
-    <title lang="zh">血浴羊山</title>
-  </programme>
-  <programme start="20200924021300 +0000" stop="20200924035700 +0000" channel="cctv6">
-    <title lang="zh">疯狂的导演</title>
-  </programme>
-  <programme start="20200924035700 +0000" stop="20200924040300 +0000" channel="cctv6">
-    <title lang="zh">音乐电影欣赏</title>
-  </programme>
-  <programme start="20200924040300 +0000" stop="20200924044500 +0000" channel="cctv6">
-    <title lang="zh">悲情布鲁克</title>
-  </programme>
-  <programme start="20200924044500 +0000" stop="20200924061400 +0000" channel="cctv6">
-    <title lang="zh">火线干探之天伦梦觉</title>
-  </programme>
-  <programme start="20200924044500 +0000" stop="20200924061400 +0000" channel="cctv6">
-    <title lang="zh">火线干探之天伦梦觉</title>
-  </programme>
-  <programme start="20200924044500 +0000" stop="20200924061400 +0000" channel="cctv6">
-    <title lang="zh">火线干探之天伦梦觉</title>
-  </programme>
-  <programme start="20200924061400 +0000" stop="20200924075900 +0000" channel="cctv6">
-    <title lang="zh">四面楚歌</title>
-  </programme>
-  <programme start="20200924061400 +0000" stop="20200924075900 +0000" channel="cctv6">
-    <title lang="zh">四面楚歌</title>
-  </programme>
-  <programme start="20200924061400 +0000" stop="20200924075900 +0000" channel="cctv6">
-    <title lang="zh">四面楚歌</title>
-  </programme>
-  <programme start="20200924075900 +0000" stop="20200924082900 +0000" channel="cctv6">
-    <title lang="zh">中国电影报道2020-267</title>
-  </programme>
-  <programme start="20200924075900 +0000" stop="20200924082900 +0000" channel="cctv6">
-    <title lang="zh">中国电影报道2020-267</title>
-  </programme>
-  <programme start="20200924075900 +0000" stop="20200924082900 +0000" channel="cctv6">
-    <title lang="zh">中国电影报道2020-267</title>
-  </programme>
-  <programme start="20200924082900 +0000" stop="20200924101600 +0000" channel="cctv6">
-    <title lang="zh">欢乐喜剧人</title>
-  </programme>
-  <programme start="20200924082900 +0000" stop="20200924101600 +0000" channel="cctv6">
-    <title lang="zh">欢乐喜剧人</title>
-  </programme>
-  <programme start="20200924082900 +0000" stop="20200924101600 +0000" channel="cctv6">
-    <title lang="zh">欢乐喜剧人</title>
-  </programme>
-  <programme start="20200924101600 +0000" stop="20200924120400 +0000" channel="cctv6">
-    <title lang="zh">红衣刺客</title>
-  </programme>
-  <programme start="20200924101600 +0000" stop="20200924120400 +0000" channel="cctv6">
-    <title lang="zh">红衣刺客</title>
-  </programme>
-  <programme start="20200924101600 +0000" stop="20200924120400 +0000" channel="cctv6">
-    <title lang="zh">红衣刺客</title>
-  </programme>
-  <programme start="20200924120400 +0000" stop="20200924121500 +0000" channel="cctv6">
-    <title lang="zh">今日影评2020-191</title>
-  </programme>
-  <programme start="20200924120400 +0000" stop="20200924121500 +0000" channel="cctv6">
-    <title lang="zh">今日影评2020-191</title>
-  </programme>
-  <programme start="20200924120400 +0000" stop="20200924121500 +0000" channel="cctv6">
-    <title lang="zh">今日影评2020-191</title>
-  </programme>
-  <programme start="20200924121500 +0000" stop="20200924141200 +0000" channel="cctv6">
-    <title lang="zh">养蜂人家</title>
-  </programme>
-  <programme start="20200924121500 +0000" stop="20200924141200 +0000" channel="cctv6">
-    <title lang="zh">养蜂人家</title>
-  </programme>
-  <programme start="20200924121500 +0000" stop="20200924141200 +0000" channel="cctv6">
-    <title lang="zh">养蜂人家</title>
-  </programme>
-  <programme start="20200924141200 +0000" stop="20200924142000 +0000" channel="cctv6">
-    <title lang="zh">今日影评2020-191</title>
-  </programme>
-  <programme start="20200924141200 +0000" stop="20200924142000 +0000" channel="cctv6">
-    <title lang="zh">今日影评2020-191</title>
-  </programme>
-  <programme start="20200924141200 +0000" stop="20200924142000 +0000" channel="cctv6">
-    <title lang="zh">今日影评2020-191</title>
-  </programme>
-  <programme start="20200924142000 +0000" stop="20200924143700 +0000" channel="cctv6">
-    <title lang="zh">音乐电影欣赏</title>
-  </programme>
-  <programme start="20200924142000 +0000" stop="20200924143700 +0000" channel="cctv6">
-    <title lang="zh">音乐电影欣赏</title>
-  </programme>
-  <programme start="20200924142000 +0000" stop="20200924143700 +0000" channel="cctv6">
-    <title lang="zh">音乐电影欣赏</title>
-  </programme>
-  <programme start="20200924143700 +0000" stop="20200924160800 +0000" channel="cctv6">
-    <title lang="zh">长安侠影之天朝死士</title>
-  </programme>
-  <programme start="20200924143700 +0000" stop="20200924160800 +0000" channel="cctv6">
-    <title lang="zh">长安侠影之天朝死士</title>
-  </programme>
-  <programme start="20200924143700 +0000" stop="20200924160800 +0000" channel="cctv6">
-    <title lang="zh">长安侠影之天朝死士</title>
-  </programme>
-  <programme start="20200924160800 +0000" stop="20200924172900 +0000" channel="cctv6">
-    <title lang="zh">马东的假期</title>
-  </programme>
-  <programme start="20200924160800 +0000" stop="20200924172900 +0000" channel="cctv6">
-    <title lang="zh">马东的假期</title>
-  </programme>
-  <programme start="20200924160800 +0000" stop="20200924172900 +0000" channel="cctv6">
-    <title lang="zh">马东的假期</title>
-  </programme>
-  <programme start="20200924172900 +0000" stop="20200924224100 +0000" channel="cctv6">
-    <title lang="zh">雨巷中的背影</title>
-  </programme>
-  <programme start="20200924172900 +0000" stop="20200924224100 +0000" channel="cctv6">
-    <title lang="zh">雨巷中的背影</title>
-  </programme>
-  <programme start="20200924172900 +0000" stop="20200924224100 +0000" channel="cctv6">
-    <title lang="zh">雨巷中的背影</title>
-  </programme>
-  <programme start="20200924224100 +0000" stop="20200925002500 +0000" channel="cctv6">
-    <title lang="zh">额尔古纳大篷车</title>
-  </programme>
-  <programme start="20200924224100 +0000" stop="20200925002500 +0000" channel="cctv6">
-    <title lang="zh">额尔古纳大篷车</title>
-  </programme>
-  <programme start="20200924224100 +0000" stop="20200925002500 +0000" channel="cctv6">
-    <title lang="zh">额尔古纳大篷车</title>
-  </programme>
   <programme start="20200925002500 +0000" stop="20200925021300 +0000" channel="cctv6">
     <title lang="zh">血浴羊山</title>
   </programme>
@@ -2277,294 +1002,6 @@
   </programme>
   <programme start="20200925040300 +0000" stop="20200925044500 +0000" channel="cctv6">
     <title lang="zh">悲情布鲁克</title>
-  </programme>
-  <programme start="20200924010200 +0000" stop="20200924013400 +0000" channel="cctv7">
-    <title lang="zh">防务新观察-2020-190</title>
-  </programme>
-  <programme start="20200924013400 +0000" stop="20200924020400 +0000" channel="cctv7">
-    <title lang="zh">军事纪实-2020-191</title>
-  </programme>
-  <programme start="20200924020400 +0000" stop="20200924023300 +0000" channel="cctv7">
-    <title lang="zh">兵器面面观-2020-180</title>
-  </programme>
-  <programme start="20200924023300 +0000" stop="20200924025800 +0000" channel="cctv7">
-    <title lang="zh">世界战史-2020-178</title>
-  </programme>
-  <programme start="20200924025800 +0000" stop="20200924032700 +0000" channel="cctv7">
-    <title lang="zh">国防故事-2020-177</title>
-  </programme>
-  <programme start="20200924032700 +0000" stop="20200924035200 +0000" channel="cctv7">
-    <title lang="zh">军事纪录-2020-182</title>
-  </programme>
-  <programme start="20200924035200 +0000" stop="20200924040000 +0000" channel="cctv7">
-    <title lang="zh">国防微视频-军歌嘹亮-我们是空降兵</title>
-  </programme>
-  <programme start="20200924040000 +0000" stop="20200924043200 +0000" channel="cctv7">
-    <title lang="zh">正午国防军事</title>
-  </programme>
-  <programme start="20200924043200 +0000" stop="20200924043200 +0000" channel="cctv7">
-    <title lang="zh">防务新观察-2020-190</title>
-  </programme>
-  <programme start="20200924043200 +0000" stop="20200924050600 +0000" channel="cctv7">
-    <title lang="zh">防务新观察-2020-189</title>
-  </programme>
-  <programme start="20200924043200 +0000" stop="20200924050600 +0000" channel="cctv7">
-    <title lang="zh">防务新观察-2020-189</title>
-  </programme>
-  <programme start="20200924043200 +0000" stop="20200924050600 +0000" channel="cctv7">
-    <title lang="zh">防务新观察-2020-189</title>
-  </programme>
-  <programme start="20200924050600 +0000" stop="20200924054100 +0000" channel="cctv7">
-    <title lang="zh">军武零距离-2020-35 (4K)</title>
-  </programme>
-  <programme start="20200924050600 +0000" stop="20200924054100 +0000" channel="cctv7">
-    <title lang="zh">军武零距离-2020-35 (4K)</title>
-  </programme>
-  <programme start="20200924050600 +0000" stop="20200924054100 +0000" channel="cctv7">
-    <title lang="zh">军武零距离-2020-35 (4K)</title>
-  </programme>
-  <programme start="20200924054100 +0000" stop="20200924060600 +0000" channel="cctv7">
-    <title lang="zh">兵器面面观-2020-179</title>
-  </programme>
-  <programme start="20200924054100 +0000" stop="20200924060600 +0000" channel="cctv7">
-    <title lang="zh">兵器面面观-2020-179</title>
-  </programme>
-  <programme start="20200924054100 +0000" stop="20200924060600 +0000" channel="cctv7">
-    <title lang="zh">兵器面面观-2020-179</title>
-  </programme>
-  <programme start="20200924060600 +0000" stop="20200924063600 +0000" channel="cctv7">
-    <title lang="zh">军事纪录-2020-181</title>
-  </programme>
-  <programme start="20200924060600 +0000" stop="20200924063600 +0000" channel="cctv7">
-    <title lang="zh">军事纪录-2020-181</title>
-  </programme>
-  <programme start="20200924060600 +0000" stop="20200924063600 +0000" channel="cctv7">
-    <title lang="zh">军事纪录-2020-181</title>
-  </programme>
-  <programme start="20200924063600 +0000" stop="20200924072500 +0000" channel="cctv7">
-    <title lang="zh">破局195033/46</title>
-  </programme>
-  <programme start="20200924063600 +0000" stop="20200924072500 +0000" channel="cctv7">
-    <title lang="zh">破局195033/46</title>
-  </programme>
-  <programme start="20200924063600 +0000" stop="20200924072500 +0000" channel="cctv7">
-    <title lang="zh">破局195033/46</title>
-  </programme>
-  <programme start="20200924072500 +0000" stop="20200924081300 +0000" channel="cctv7">
-    <title lang="zh">破局195034/46</title>
-  </programme>
-  <programme start="20200924072500 +0000" stop="20200924081300 +0000" channel="cctv7">
-    <title lang="zh">破局195034/46</title>
-  </programme>
-  <programme start="20200924072500 +0000" stop="20200924081300 +0000" channel="cctv7">
-    <title lang="zh">破局195034/46</title>
-  </programme>
-  <programme start="20200924081300 +0000" stop="20200924090200 +0000" channel="cctv7">
-    <title lang="zh">破局195035/46</title>
-  </programme>
-  <programme start="20200924081300 +0000" stop="20200924090200 +0000" channel="cctv7">
-    <title lang="zh">破局195035/46</title>
-  </programme>
-  <programme start="20200924081300 +0000" stop="20200924090200 +0000" channel="cctv7">
-    <title lang="zh">破局195035/46</title>
-  </programme>
-  <programme start="20200924090200 +0000" stop="20200924092900 +0000" channel="cctv7">
-    <title lang="zh">世界战史-2020-178</title>
-  </programme>
-  <programme start="20200924090200 +0000" stop="20200924092900 +0000" channel="cctv7">
-    <title lang="zh">世界战史-2020-178</title>
-  </programme>
-  <programme start="20200924090200 +0000" stop="20200924092900 +0000" channel="cctv7">
-    <title lang="zh">世界战史-2020-178</title>
-  </programme>
-  <programme start="20200924092900 +0000" stop="20200924095400 +0000" channel="cctv7">
-    <title lang="zh">军事纪录-2020-182</title>
-  </programme>
-  <programme start="20200924092900 +0000" stop="20200924095400 +0000" channel="cctv7">
-    <title lang="zh">军事纪录-2020-182</title>
-  </programme>
-  <programme start="20200924092900 +0000" stop="20200924095400 +0000" channel="cctv7">
-    <title lang="zh">军事纪录-2020-182</title>
-  </programme>
-  <programme start="20200924095400 +0000" stop="20200924100200 +0000" channel="cctv7">
-    <title lang="zh">国防微视频-军歌嘹亮-有我在(武警)</title>
-  </programme>
-  <programme start="20200924095400 +0000" stop="20200924100200 +0000" channel="cctv7">
-    <title lang="zh">国防微视频-军歌嘹亮-有我在(武警)</title>
-  </programme>
-  <programme start="20200924095400 +0000" stop="20200924100200 +0000" channel="cctv7">
-    <title lang="zh">国防微视频-军歌嘹亮-有我在(武警)</title>
-  </programme>
-  <programme start="20200924100200 +0000" stop="20200924102900 +0000" channel="cctv7">
-    <title lang="zh">兵器面面观-2020-180</title>
-  </programme>
-  <programme start="20200924100200 +0000" stop="20200924102900 +0000" channel="cctv7">
-    <title lang="zh">兵器面面观-2020-180</title>
-  </programme>
-  <programme start="20200924100200 +0000" stop="20200924102900 +0000" channel="cctv7">
-    <title lang="zh">兵器面面观-2020-180</title>
-  </programme>
-  <programme start="20200924102900 +0000" stop="20200924110000 +0000" channel="cctv7">
-    <title lang="zh">国防故事-2020-177</title>
-  </programme>
-  <programme start="20200924102900 +0000" stop="20200924110000 +0000" channel="cctv7">
-    <title lang="zh">国防故事-2020-177</title>
-  </programme>
-  <programme start="20200924102900 +0000" stop="20200924110000 +0000" channel="cctv7">
-    <title lang="zh">国防故事-2020-177</title>
-  </programme>
-  <programme start="20200924110000 +0000" stop="20200924113300 +0000" channel="cctv7">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924110000 +0000" stop="20200924113300 +0000" channel="cctv7">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924110000 +0000" stop="20200924113300 +0000" channel="cctv7">
-    <title lang="zh">新闻联播</title>
-  </programme>
-  <programme start="20200924113300 +0000" stop="20200924120300 +0000" channel="cctv7">
-    <title lang="zh">军事报道</title>
-  </programme>
-  <programme start="20200924113300 +0000" stop="20200924120300 +0000" channel="cctv7">
-    <title lang="zh">军事报道</title>
-  </programme>
-  <programme start="20200924113300 +0000" stop="20200924120300 +0000" channel="cctv7">
-    <title lang="zh">军事报道</title>
-  </programme>
-  <programme start="20200924120300 +0000" stop="20200924120900 +0000" channel="cctv7">
-    <title lang="zh">国防微视频-军歌嘹亮-有我在(武警)</title>
-  </programme>
-  <programme start="20200924120300 +0000" stop="20200924120900 +0000" channel="cctv7">
-    <title lang="zh">国防微视频-军歌嘹亮-有我在(武警)</title>
-  </programme>
-  <programme start="20200924120300 +0000" stop="20200924120900 +0000" channel="cctv7">
-    <title lang="zh">国防微视频-军歌嘹亮-有我在(武警)</title>
-  </programme>
-  <programme start="20200924120900 +0000" stop="20200924124500 +0000" channel="cctv7">
-    <title lang="zh">防务新观察-2020-190</title>
-  </programme>
-  <programme start="20200924120900 +0000" stop="20200924124500 +0000" channel="cctv7">
-    <title lang="zh">防务新观察-2020-190</title>
-  </programme>
-  <programme start="20200924120900 +0000" stop="20200924124500 +0000" channel="cctv7">
-    <title lang="zh">防务新观察-2020-190</title>
-  </programme>
-  <programme start="20200924124500 +0000" stop="20200924131900 +0000" channel="cctv7">
-    <title lang="zh">军事纪实-2020-191</title>
-  </programme>
-  <programme start="20200924124500 +0000" stop="20200924131900 +0000" channel="cctv7">
-    <title lang="zh">军事纪实-2020-191</title>
-  </programme>
-  <programme start="20200924124500 +0000" stop="20200924131900 +0000" channel="cctv7">
-    <title lang="zh">军事纪实-2020-191</title>
-  </programme>
-  <programme start="20200924131900 +0000" stop="20200924135500 +0000" channel="cctv7">
-    <title lang="zh">军迷行天下-2020-39</title>
-  </programme>
-  <programme start="20200924131900 +0000" stop="20200924135500 +0000" channel="cctv7">
-    <title lang="zh">军迷行天下-2020-39</title>
-  </programme>
-  <programme start="20200924131900 +0000" stop="20200924135500 +0000" channel="cctv7">
-    <title lang="zh">军迷行天下-2020-39</title>
-  </programme>
-  <programme start="20200924135500 +0000" stop="20200924144400 +0000" channel="cctv7">
-    <title lang="zh">绝境铸剑1/36</title>
-  </programme>
-  <programme start="20200924135500 +0000" stop="20200924144400 +0000" channel="cctv7">
-    <title lang="zh">绝境铸剑1/36</title>
-  </programme>
-  <programme start="20200924135500 +0000" stop="20200924144400 +0000" channel="cctv7">
-    <title lang="zh">绝境铸剑1/36</title>
-  </programme>
-  <programme start="20200924144400 +0000" stop="20200924153500 +0000" channel="cctv7">
-    <title lang="zh">绝境铸剑2/36</title>
-  </programme>
-  <programme start="20200924144400 +0000" stop="20200924153500 +0000" channel="cctv7">
-    <title lang="zh">绝境铸剑2/36</title>
-  </programme>
-  <programme start="20200924144400 +0000" stop="20200924153500 +0000" channel="cctv7">
-    <title lang="zh">绝境铸剑2/36</title>
-  </programme>
-  <programme start="20200924153500 +0000" stop="20200924161000 +0000" channel="cctv7">
-    <title lang="zh">军事纪实-2020-191</title>
-  </programme>
-  <programme start="20200924153500 +0000" stop="20200924161000 +0000" channel="cctv7">
-    <title lang="zh">军事纪实-2020-191</title>
-  </programme>
-  <programme start="20200924153500 +0000" stop="20200924161000 +0000" channel="cctv7">
-    <title lang="zh">军事纪实-2020-191</title>
-  </programme>
-  <programme start="20200924161000 +0000" stop="20200924164800 +0000" channel="cctv7">
-    <title lang="zh">兵器面面观-2020-180</title>
-  </programme>
-  <programme start="20200924161000 +0000" stop="20200924164800 +0000" channel="cctv7">
-    <title lang="zh">兵器面面观-2020-180</title>
-  </programme>
-  <programme start="20200924161000 +0000" stop="20200924164800 +0000" channel="cctv7">
-    <title lang="zh">兵器面面观-2020-180</title>
-  </programme>
-  <programme start="20200924164800 +0000" stop="20200924220300 +0000" channel="cctv7">
-    <title lang="zh">再见</title>
-  </programme>
-  <programme start="20200924164800 +0000" stop="20200924220300 +0000" channel="cctv7">
-    <title lang="zh">再见</title>
-  </programme>
-  <programme start="20200924164800 +0000" stop="20200924220300 +0000" channel="cctv7">
-    <title lang="zh">再见</title>
-  </programme>
-  <programme start="20200924220300 +0000" stop="20200924223400 +0000" channel="cctv7">
-    <title lang="zh">军事纪实-2020-191</title>
-  </programme>
-  <programme start="20200924220300 +0000" stop="20200924223400 +0000" channel="cctv7">
-    <title lang="zh">军事纪实-2020-191</title>
-  </programme>
-  <programme start="20200924220300 +0000" stop="20200924223400 +0000" channel="cctv7">
-    <title lang="zh">军事纪实-2020-191</title>
-  </programme>
-  <programme start="20200924223400 +0000" stop="20200924225900 +0000" channel="cctv7">
-    <title lang="zh">国防故事-2020-177</title>
-  </programme>
-  <programme start="20200924223400 +0000" stop="20200924225900 +0000" channel="cctv7">
-    <title lang="zh">国防故事-2020-177</title>
-  </programme>
-  <programme start="20200924223400 +0000" stop="20200924225900 +0000" channel="cctv7">
-    <title lang="zh">国防故事-2020-177</title>
-  </programme>
-  <programme start="20200924225900 +0000" stop="20200924230200 +0000" channel="cctv7">
-    <title lang="zh">国防微视频-军歌嘹亮-青春新篇章</title>
-  </programme>
-  <programme start="20200924225900 +0000" stop="20200924230200 +0000" channel="cctv7">
-    <title lang="zh">国防微视频-军歌嘹亮-青春新篇章</title>
-  </programme>
-  <programme start="20200924225900 +0000" stop="20200924230200 +0000" channel="cctv7">
-    <title lang="zh">国防微视频-军歌嘹亮-青春新篇章</title>
-  </programme>
-  <programme start="20200924230200 +0000" stop="20200924233000 +0000" channel="cctv7">
-    <title lang="zh">世界战史-2020-178</title>
-  </programme>
-  <programme start="20200924230200 +0000" stop="20200924233000 +0000" channel="cctv7">
-    <title lang="zh">世界战史-2020-178</title>
-  </programme>
-  <programme start="20200924230200 +0000" stop="20200924233000 +0000" channel="cctv7">
-    <title lang="zh">世界战史-2020-178</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200924235800 +0000" channel="cctv7">
-    <title lang="zh">国防军事早报</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200924235800 +0000" channel="cctv7">
-    <title lang="zh">国防军事早报</title>
-  </programme>
-  <programme start="20200924233000 +0000" stop="20200924235800 +0000" channel="cctv7">
-    <title lang="zh">国防军事早报</title>
-  </programme>
-  <programme start="20200924235800 +0000" stop="20200925010200 +0000" channel="cctv7">
-    <title lang="zh">讲武堂-2020-38</title>
-  </programme>
-  <programme start="20200924235800 +0000" stop="20200925010200 +0000" channel="cctv7">
-    <title lang="zh">讲武堂-2020-38</title>
-  </programme>
-  <programme start="20200924235800 +0000" stop="20200925010200 +0000" channel="cctv7">
-    <title lang="zh">讲武堂-2020-38</title>
   </programme>
   <programme start="20200925010200 +0000" stop="20200925013400 +0000" channel="cctv7">
     <title lang="zh">防务新观察-2020-190</title>
@@ -2644,363 +1081,6 @@
   <programme start="20200925043200 +0000" stop="20200925043200 +0000" channel="cctv7">
     <title lang="zh">防务新观察-2020-190</title>
   </programme>
-  <programme start="20200924003600 +0000" stop="20200924013300 +0000" channel="cctv8">
-    <title lang="zh">东北抗日联军第46集</title>
-  </programme>
-  <programme start="20200924013300 +0000" stop="20200924022600 +0000" channel="cctv8">
-    <title lang="zh">父亲的身份第1集</title>
-  </programme>
-  <programme start="20200924022600 +0000" stop="20200924023100 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924023100 +0000" stop="20200924032400 +0000" channel="cctv8">
-    <title lang="zh">父亲的身份第2集</title>
-  </programme>
-  <programme start="20200924032400 +0000" stop="20200924032900 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924032900 +0000" stop="20200924041500 +0000" channel="cctv8">
-    <title lang="zh">父亲的身份第3集</title>
-  </programme>
-  <programme start="20200924041500 +0000" stop="20200924042900 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924042900 +0000" stop="20200924042900 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第23集</title>
-  </programme>
-  <programme start="20200924042900 +0000" stop="20200924052200 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第19集</title>
-  </programme>
-  <programme start="20200924042900 +0000" stop="20200924052200 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第19集</title>
-  </programme>
-  <programme start="20200924042900 +0000" stop="20200924052200 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第19集</title>
-  </programme>
-  <programme start="20200924052200 +0000" stop="20200924052700 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924052200 +0000" stop="20200924052700 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924052200 +0000" stop="20200924052700 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924052700 +0000" stop="20200924061900 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第20集</title>
-  </programme>
-  <programme start="20200924052700 +0000" stop="20200924061900 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第20集</title>
-  </programme>
-  <programme start="20200924052700 +0000" stop="20200924061900 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第20集</title>
-  </programme>
-  <programme start="20200924061900 +0000" stop="20200924062400 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924061900 +0000" stop="20200924062400 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924061900 +0000" stop="20200924062400 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924062400 +0000" stop="20200924071700 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第21集</title>
-  </programme>
-  <programme start="20200924062400 +0000" stop="20200924071700 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第21集</title>
-  </programme>
-  <programme start="20200924062400 +0000" stop="20200924071700 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第21集</title>
-  </programme>
-  <programme start="20200924071700 +0000" stop="20200924072200 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924071700 +0000" stop="20200924072200 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924071700 +0000" stop="20200924072200 +0000" channel="cctv8">
-    <title lang="zh">插花-2017-2</title>
-  </programme>
-  <programme start="20200924072200 +0000" stop="20200924080800 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第22集</title>
-  </programme>
-  <programme start="20200924072200 +0000" stop="20200924080800 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第22集</title>
-  </programme>
-  <programme start="20200924072200 +0000" stop="20200924080800 +0000" channel="cctv8">
-    <title lang="zh">向着幸福前进第22集</title>
-  </programme>
-  <programme start="20200924080800 +0000" stop="20200924082100 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-22</title>
-  </programme>
-  <programme start="20200924080800 +0000" stop="20200924082100 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-22</title>
-  </programme>
-  <programme start="20200924080800 +0000" stop="20200924082100 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-22</title>
-  </programme>
-  <programme start="20200924082100 +0000" stop="20200924082500 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-3</title>
-  </programme>
-  <programme start="20200924082100 +0000" stop="20200924082500 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-3</title>
-  </programme>
-  <programme start="20200924082100 +0000" stop="20200924082500 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-3</title>
-  </programme>
-  <programme start="20200924082500 +0000" stop="20200924092800 +0000" channel="cctv8">
-    <title lang="zh">苦乐村官第26集</title>
-  </programme>
-  <programme start="20200924082500 +0000" stop="20200924092800 +0000" channel="cctv8">
-    <title lang="zh">苦乐村官第26集</title>
-  </programme>
-  <programme start="20200924082500 +0000" stop="20200924092800 +0000" channel="cctv8">
-    <title lang="zh">苦乐村官第26集</title>
-  </programme>
-  <programme start="20200924092800 +0000" stop="20200924102300 +0000" channel="cctv8">
-    <title lang="zh">苦乐村官第27集</title>
-  </programme>
-  <programme start="20200924092800 +0000" stop="20200924102300 +0000" channel="cctv8">
-    <title lang="zh">苦乐村官第27集</title>
-  </programme>
-  <programme start="20200924092800 +0000" stop="20200924102300 +0000" channel="cctv8">
-    <title lang="zh">苦乐村官第27集</title>
-  </programme>
-  <programme start="20200924102300 +0000" stop="20200924103100 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924102300 +0000" stop="20200924103100 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924102300 +0000" stop="20200924103100 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924103100 +0000" stop="20200924112100 +0000" channel="cctv8">
-    <title lang="zh">苦乐村官第28集</title>
-  </programme>
-  <programme start="20200924103100 +0000" stop="20200924112100 +0000" channel="cctv8">
-    <title lang="zh">苦乐村官第28集</title>
-  </programme>
-  <programme start="20200924103100 +0000" stop="20200924112100 +0000" channel="cctv8">
-    <title lang="zh">苦乐村官第28集</title>
-  </programme>
-  <programme start="20200924112100 +0000" stop="20200924112500 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-3</title>
-  </programme>
-  <programme start="20200924112100 +0000" stop="20200924112500 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-3</title>
-  </programme>
-  <programme start="20200924112100 +0000" stop="20200924112500 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-3</title>
-  </programme>
-  <programme start="20200924112500 +0000" stop="20200924113000 +0000" channel="cctv8">
-    <title lang="zh">本集提要- 《月是故乡明》第13集</title>
-  </programme>
-  <programme start="20200924112500 +0000" stop="20200924113000 +0000" channel="cctv8">
-    <title lang="zh">本集提要- 《月是故乡明》第13集</title>
-  </programme>
-  <programme start="20200924112500 +0000" stop="20200924113000 +0000" channel="cctv8">
-    <title lang="zh">本集提要- 《月是故乡明》第13集</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924122700 +0000" channel="cctv8">
-    <title lang="zh">月是故乡明第13集</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924122700 +0000" channel="cctv8">
-    <title lang="zh">月是故乡明第13集</title>
-  </programme>
-  <programme start="20200924113000 +0000" stop="20200924122700 +0000" channel="cctv8">
-    <title lang="zh">月是故乡明第13集</title>
-  </programme>
-  <programme start="20200924122700 +0000" stop="20200924122800 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-3</title>
-  </programme>
-  <programme start="20200924122700 +0000" stop="20200924122800 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-3</title>
-  </programme>
-  <programme start="20200924122700 +0000" stop="20200924122800 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-3</title>
-  </programme>
-  <programme start="20200924122800 +0000" stop="20200924132400 +0000" channel="cctv8">
-    <title lang="zh">月是故乡明第14集</title>
-  </programme>
-  <programme start="20200924122800 +0000" stop="20200924132400 +0000" channel="cctv8">
-    <title lang="zh">月是故乡明第14集</title>
-  </programme>
-  <programme start="20200924122800 +0000" stop="20200924132400 +0000" channel="cctv8">
-    <title lang="zh">月是故乡明第14集</title>
-  </programme>
-  <programme start="20200924132400 +0000" stop="20200924132500 +0000" channel="cctv8">
-    <title lang="zh">本集提要- 《月是故乡明》第15集</title>
-  </programme>
-  <programme start="20200924132400 +0000" stop="20200924132500 +0000" channel="cctv8">
-    <title lang="zh">本集提要- 《月是故乡明》第15集</title>
-  </programme>
-  <programme start="20200924132400 +0000" stop="20200924132500 +0000" channel="cctv8">
-    <title lang="zh">本集提要- 《月是故乡明》第15集</title>
-  </programme>
-  <programme start="20200924132500 +0000" stop="20200924141500 +0000" channel="cctv8">
-    <title lang="zh">月是故乡明第15集</title>
-  </programme>
-  <programme start="20200924132500 +0000" stop="20200924141500 +0000" channel="cctv8">
-    <title lang="zh">月是故乡明第15集</title>
-  </programme>
-  <programme start="20200924132500 +0000" stop="20200924141500 +0000" channel="cctv8">
-    <title lang="zh">月是故乡明第15集</title>
-  </programme>
-  <programme start="20200924141500 +0000" stop="20200924150200 +0000" channel="cctv8">
-    <title lang="zh">灵与肉第33集</title>
-  </programme>
-  <programme start="20200924141500 +0000" stop="20200924150200 +0000" channel="cctv8">
-    <title lang="zh">灵与肉第33集</title>
-  </programme>
-  <programme start="20200924141500 +0000" stop="20200924150200 +0000" channel="cctv8">
-    <title lang="zh">灵与肉第33集</title>
-  </programme>
-  <programme start="20200924150200 +0000" stop="20200924154800 +0000" channel="cctv8">
-    <title lang="zh">灵与肉第34集</title>
-  </programme>
-  <programme start="20200924150200 +0000" stop="20200924154800 +0000" channel="cctv8">
-    <title lang="zh">灵与肉第34集</title>
-  </programme>
-  <programme start="20200924150200 +0000" stop="20200924154800 +0000" channel="cctv8">
-    <title lang="zh">灵与肉第34集</title>
-  </programme>
-  <programme start="20200924154800 +0000" stop="20200924155500 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924154800 +0000" stop="20200924155500 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924154800 +0000" stop="20200924155500 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924155500 +0000" stop="20200924164100 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第28集</title>
-  </programme>
-  <programme start="20200924155500 +0000" stop="20200924164100 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第28集</title>
-  </programme>
-  <programme start="20200924155500 +0000" stop="20200924164100 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第28集</title>
-  </programme>
-  <programme start="20200924164100 +0000" stop="20200924172700 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第29集</title>
-  </programme>
-  <programme start="20200924164100 +0000" stop="20200924172700 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第29集</title>
-  </programme>
-  <programme start="20200924164100 +0000" stop="20200924172700 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第29集</title>
-  </programme>
-  <programme start="20200924172700 +0000" stop="20200924181300 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第30集</title>
-  </programme>
-  <programme start="20200924172700 +0000" stop="20200924181300 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第30集</title>
-  </programme>
-  <programme start="20200924172700 +0000" stop="20200924181300 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第30集</title>
-  </programme>
-  <programme start="20200924181300 +0000" stop="20200924185900 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第31集</title>
-  </programme>
-  <programme start="20200924181300 +0000" stop="20200924185900 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第31集</title>
-  </programme>
-  <programme start="20200924181300 +0000" stop="20200924185900 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第31集</title>
-  </programme>
-  <programme start="20200924185900 +0000" stop="20200924194500 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第32集</title>
-  </programme>
-  <programme start="20200924185900 +0000" stop="20200924194500 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第32集</title>
-  </programme>
-  <programme start="20200924185900 +0000" stop="20200924194500 +0000" channel="cctv8">
-    <title lang="zh">我的继父是偶像第32集</title>
-  </programme>
-  <programme start="20200924194500 +0000" stop="20200924200500 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-12</title>
-  </programme>
-  <programme start="20200924194500 +0000" stop="20200924200500 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-12</title>
-  </programme>
-  <programme start="20200924194500 +0000" stop="20200924200500 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-12</title>
-  </programme>
-  <programme start="20200924200500 +0000" stop="20200924202400 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-12</title>
-  </programme>
-  <programme start="20200924200500 +0000" stop="20200924202400 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-12</title>
-  </programme>
-  <programme start="20200924200500 +0000" stop="20200924202400 +0000" channel="cctv8">
-    <title lang="zh">插花-2015-12</title>
-  </programme>
-  <programme start="20200924202400 +0000" stop="20200924203100 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924202400 +0000" stop="20200924203100 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924202400 +0000" stop="20200924203100 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924203100 +0000" stop="20200924211700 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第17集</title>
-  </programme>
-  <programme start="20200924203100 +0000" stop="20200924211700 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第17集</title>
-  </programme>
-  <programme start="20200924203100 +0000" stop="20200924211700 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第17集</title>
-  </programme>
-  <programme start="20200924211700 +0000" stop="20200924220300 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第18集</title>
-  </programme>
-  <programme start="20200924211700 +0000" stop="20200924220300 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第18集</title>
-  </programme>
-  <programme start="20200924211700 +0000" stop="20200924220300 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第18集</title>
-  </programme>
-  <programme start="20200924220300 +0000" stop="20200924224900 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第19集</title>
-  </programme>
-  <programme start="20200924220300 +0000" stop="20200924224900 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第19集</title>
-  </programme>
-  <programme start="20200924220300 +0000" stop="20200924224900 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第19集</title>
-  </programme>
-  <programme start="20200924224900 +0000" stop="20200924233500 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第20集</title>
-  </programme>
-  <programme start="20200924224900 +0000" stop="20200924233500 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第20集</title>
-  </programme>
-  <programme start="20200924224900 +0000" stop="20200924233500 +0000" channel="cctv8">
-    <title lang="zh">麻辣芳邻第20集</title>
-  </programme>
-  <programme start="20200924233500 +0000" stop="20200924234300 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924233500 +0000" stop="20200924234300 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924233500 +0000" stop="20200924234300 +0000" channel="cctv8">
-    <title lang="zh">星推荐-2020年9月-23</title>
-  </programme>
-  <programme start="20200924234300 +0000" stop="20200925003600 +0000" channel="cctv8">
-    <title lang="zh">东北抗日联军第45集</title>
-  </programme>
-  <programme start="20200924234300 +0000" stop="20200925003600 +0000" channel="cctv8">
-    <title lang="zh">东北抗日联军第45集</title>
-  </programme>
-  <programme start="20200924234300 +0000" stop="20200925003600 +0000" channel="cctv8">
-    <title lang="zh">东北抗日联军第45集</title>
-  </programme>
   <programme start="20200925003600 +0000" stop="20200925013300 +0000" channel="cctv8">
     <title lang="zh">东北抗日联军第46集</title>
   </programme>
@@ -3070,240 +1150,6 @@
   <programme start="20200925042900 +0000" stop="20200925042900 +0000" channel="cctv8">
     <title lang="zh">向着幸福前进第23集</title>
   </programme>
-  <programme start="20200924000300 +0000" stop="20200924003200 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-267</title>
-  </programme>
-  <programme start="20200924003200 +0000" stop="20200924013100 +0000" channel="cctvjilu">
-    <title lang="zh">魅力万象2020-267</title>
-  </programme>
-  <programme start="20200924013100 +0000" stop="20200924023000 +0000" channel="cctvjilu">
-    <title lang="zh">寰宇视野2020-265</title>
-  </programme>
-  <programme start="20200924023000 +0000" stop="20200924025900 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-267</title>
-  </programme>
-  <programme start="20200924025900 +0000" stop="20200924040300 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-267</title>
-  </programme>
-  <programme start="20200924040300 +0000" stop="20200924040300 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924040300 +0000" stop="20200924050400 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-260</title>
-  </programme>
-  <programme start="20200924040300 +0000" stop="20200924050400 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-260</title>
-  </programme>
-  <programme start="20200924040300 +0000" stop="20200924050400 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-260</title>
-  </programme>
-  <programme start="20200924050400 +0000" stop="20200924060500 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-266</title>
-  </programme>
-  <programme start="20200924050400 +0000" stop="20200924060500 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-266</title>
-  </programme>
-  <programme start="20200924050400 +0000" stop="20200924060500 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-266</title>
-  </programme>
-  <programme start="20200924060500 +0000" stop="20200924071000 +0000" channel="cctvjilu">
-    <title lang="zh">寰宇视野2020-264</title>
-  </programme>
-  <programme start="20200924060500 +0000" stop="20200924071000 +0000" channel="cctvjilu">
-    <title lang="zh">寰宇视野2020-264</title>
-  </programme>
-  <programme start="20200924060500 +0000" stop="20200924071000 +0000" channel="cctvjilu">
-    <title lang="zh">寰宇视野2020-264</title>
-  </programme>
-  <programme start="20200924071000 +0000" stop="20200924080900 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-266</title>
-  </programme>
-  <programme start="20200924071000 +0000" stop="20200924080900 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-266</title>
-  </programme>
-  <programme start="20200924071000 +0000" stop="20200924080900 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-266</title>
-  </programme>
-  <programme start="20200924080900 +0000" stop="20200924083800 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-266</title>
-  </programme>
-  <programme start="20200924080900 +0000" stop="20200924083800 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-266</title>
-  </programme>
-  <programme start="20200924080900 +0000" stop="20200924083800 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-266</title>
-  </programme>
-  <programme start="20200924083800 +0000" stop="20200924090000 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-266</title>
-  </programme>
-  <programme start="20200924083800 +0000" stop="20200924090000 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-266</title>
-  </programme>
-  <programme start="20200924083800 +0000" stop="20200924090000 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-266</title>
-  </programme>
-  <programme start="20200924090000 +0000" stop="20200924100400 +0000" channel="cctvjilu">
-    <title lang="zh">全景自然2020-267</title>
-  </programme>
-  <programme start="20200924090000 +0000" stop="20200924100400 +0000" channel="cctvjilu">
-    <title lang="zh">全景自然2020-267</title>
-  </programme>
-  <programme start="20200924090000 +0000" stop="20200924100400 +0000" channel="cctvjilu">
-    <title lang="zh">全景自然2020-267</title>
-  </programme>
-  <programme start="20200924100400 +0000" stop="20200924110300 +0000" channel="cctvjilu">
-    <title lang="zh">魅力万象2020-267</title>
-  </programme>
-  <programme start="20200924100400 +0000" stop="20200924110300 +0000" channel="cctvjilu">
-    <title lang="zh">魅力万象2020-267</title>
-  </programme>
-  <programme start="20200924100400 +0000" stop="20200924110300 +0000" channel="cctvjilu">
-    <title lang="zh">魅力万象2020-267</title>
-  </programme>
-  <programme start="20200924110300 +0000" stop="20200924112300 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-267</title>
-  </programme>
-  <programme start="20200924110300 +0000" stop="20200924112300 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-267</title>
-  </programme>
-  <programme start="20200924110300 +0000" stop="20200924112300 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-267</title>
-  </programme>
-  <programme start="20200924112300 +0000" stop="20200924120100 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-267</title>
-  </programme>
-  <programme start="20200924112300 +0000" stop="20200924120100 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-267</title>
-  </programme>
-  <programme start="20200924112300 +0000" stop="20200924120100 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-267</title>
-  </programme>
-  <programme start="20200924120100 +0000" stop="20200924130000 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-267</title>
-  </programme>
-  <programme start="20200924120100 +0000" stop="20200924130000 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-267</title>
-  </programme>
-  <programme start="20200924120100 +0000" stop="20200924130000 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-267</title>
-  </programme>
-  <programme start="20200924130000 +0000" stop="20200924140000 +0000" channel="cctvjilu">
-    <title lang="zh">寰宇视野2020-265</title>
-  </programme>
-  <programme start="20200924130000 +0000" stop="20200924140000 +0000" channel="cctvjilu">
-    <title lang="zh">寰宇视野2020-265</title>
-  </programme>
-  <programme start="20200924130000 +0000" stop="20200924140000 +0000" channel="cctvjilu">
-    <title lang="zh">寰宇视野2020-265</title>
-  </programme>
-  <programme start="20200924140000 +0000" stop="20200924150500 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924140000 +0000" stop="20200924150500 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924140000 +0000" stop="20200924150500 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924150500 +0000" stop="20200924153900 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-267</title>
-  </programme>
-  <programme start="20200924150500 +0000" stop="20200924153900 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-267</title>
-  </programme>
-  <programme start="20200924150500 +0000" stop="20200924153900 +0000" channel="cctvjilu">
-    <title lang="zh">活力·源2020-267</title>
-  </programme>
-  <programme start="20200924153900 +0000" stop="20200924163500 +0000" channel="cctvjilu">
-    <title lang="zh">寰宇视野2020-265</title>
-  </programme>
-  <programme start="20200924153900 +0000" stop="20200924163500 +0000" channel="cctvjilu">
-    <title lang="zh">寰宇视野2020-265</title>
-  </programme>
-  <programme start="20200924153900 +0000" stop="20200924163500 +0000" channel="cctvjilu">
-    <title lang="zh">寰宇视野2020-265</title>
-  </programme>
-  <programme start="20200924163500 +0000" stop="20200924173200 +0000" channel="cctvjilu">
-    <title lang="zh">全景自然2020-267</title>
-  </programme>
-  <programme start="20200924163500 +0000" stop="20200924173200 +0000" channel="cctvjilu">
-    <title lang="zh">全景自然2020-267</title>
-  </programme>
-  <programme start="20200924163500 +0000" stop="20200924173200 +0000" channel="cctvjilu">
-    <title lang="zh">全景自然2020-267</title>
-  </programme>
-  <programme start="20200924173200 +0000" stop="20200924182700 +0000" channel="cctvjilu">
-    <title lang="zh">魅力万象2020-267</title>
-  </programme>
-  <programme start="20200924173200 +0000" stop="20200924182700 +0000" channel="cctvjilu">
-    <title lang="zh">魅力万象2020-267</title>
-  </programme>
-  <programme start="20200924173200 +0000" stop="20200924182700 +0000" channel="cctvjilu">
-    <title lang="zh">魅力万象2020-267</title>
-  </programme>
-  <programme start="20200924182700 +0000" stop="20200924192400 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924182700 +0000" stop="20200924192400 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924182700 +0000" stop="20200924192400 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924192400 +0000" stop="20200924194600 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-267</title>
-  </programme>
-  <programme start="20200924192400 +0000" stop="20200924194600 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-267</title>
-  </programme>
-  <programme start="20200924192400 +0000" stop="20200924194600 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-267</title>
-  </programme>
-  <programme start="20200924194600 +0000" stop="20200924204600 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-267</title>
-  </programme>
-  <programme start="20200924194600 +0000" stop="20200924204600 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-267</title>
-  </programme>
-  <programme start="20200924194600 +0000" stop="20200924204600 +0000" channel="cctvjilu">
-    <title lang="zh">特别呈现2020-267</title>
-  </programme>
-  <programme start="20200924204600 +0000" stop="20200924214600 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924204600 +0000" stop="20200924214600 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924204600 +0000" stop="20200924214600 +0000" channel="cctvjilu">
-    <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924214600 +0000" stop="20200924224700 +0000" channel="cctvjilu">
-    <title lang="zh">全景自然2020-267</title>
-  </programme>
-  <programme start="20200924214600 +0000" stop="20200924224700 +0000" channel="cctvjilu">
-    <title lang="zh">全景自然2020-267</title>
-  </programme>
-  <programme start="20200924214600 +0000" stop="20200924224700 +0000" channel="cctvjilu">
-    <title lang="zh">全景自然2020-267</title>
-  </programme>
-  <programme start="20200924224700 +0000" stop="20200924234300 +0000" channel="cctvjilu">
-    <title lang="zh">魅力万象2020-267</title>
-  </programme>
-  <programme start="20200924224700 +0000" stop="20200924234300 +0000" channel="cctvjilu">
-    <title lang="zh">魅力万象2020-267</title>
-  </programme>
-  <programme start="20200924224700 +0000" stop="20200924234300 +0000" channel="cctvjilu">
-    <title lang="zh">魅力万象2020-267</title>
-  </programme>
-  <programme start="20200924234300 +0000" stop="20200925000300 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-267</title>
-  </programme>
-  <programme start="20200924234300 +0000" stop="20200925000300 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-267</title>
-  </programme>
-  <programme start="20200924234300 +0000" stop="20200925000300 +0000" channel="cctvjilu">
-    <title lang="zh">9视频2020-267</title>
-  </programme>
   <programme start="20200925000300 +0000" stop="20200925003200 +0000" channel="cctvjilu">
     <title lang="zh">活力·源2020-267</title>
   </programme>
@@ -3354,345 +1200,6 @@
   </programme>
   <programme start="20200925040300 +0000" stop="20200925040300 +0000" channel="cctvjilu">
     <title lang="zh">故事中国2020-261</title>
-  </programme>
-  <programme start="20200924001300 +0000" stop="20200924002300 +0000" channel="cctv10">
-    <title lang="zh">百家说故事-2020-259</title>
-  </programme>
-  <programme start="20200924002300 +0000" stop="20200924002800 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2019-2</title>
-  </programme>
-  <programme start="20200924002800 +0000" stop="20200924011700 +0000" channel="cctv10">
-    <title lang="zh">健康之路-2020-267</title>
-  </programme>
-  <programme start="20200924011700 +0000" stop="20200924015100 +0000" channel="cctv10">
-    <title lang="zh">探索·发现-2020-304</title>
-  </programme>
-  <programme start="20200924015100 +0000" stop="20200924020300 +0000" channel="cctv10">
-    <title lang="zh">2019最美科技工作者-7</title>
-  </programme>
-  <programme start="20200924020300 +0000" stop="20200924030000 +0000" channel="cctv10">
-    <title lang="zh">自然传奇-2020-185</title>
-  </programme>
-  <programme start="20200924030000 +0000" stop="20200924031300 +0000" channel="cctv10">
-    <title lang="zh">百家说故事-2020-259</title>
-  </programme>
-  <programme start="20200924031300 +0000" stop="20200924035000 +0000" channel="cctv10">
-    <title lang="zh">地理·中国-2020-265</title>
-  </programme>
-  <programme start="20200924035000 +0000" stop="20200924040000 +0000" channel="cctv10">
-    <title lang="zh">时尚科技秀-2020-268</title>
-  </programme>
-  <programme start="20200924040000 +0000" stop="20200924044900 +0000" channel="cctv10">
-    <title lang="zh">百家讲坛-2020-268</title>
-  </programme>
-  <programme start="20200924044900 +0000" stop="20200924044900 +0000" channel="cctv10">
-    <title lang="zh">美味假期-48</title>
-  </programme>
-  <programme start="20200924044900 +0000" stop="20200924052700 +0000" channel="cctv10">
-    <title lang="zh">美味假期-47</title>
-  </programme>
-  <programme start="20200924044900 +0000" stop="20200924052700 +0000" channel="cctv10">
-    <title lang="zh">美味假期-47</title>
-  </programme>
-  <programme start="20200924044900 +0000" stop="20200924052700 +0000" channel="cctv10">
-    <title lang="zh">美味假期-47</title>
-  </programme>
-  <programme start="20200924052700 +0000" stop="20200924062600 +0000" channel="cctv10">
-    <title lang="zh">自然传奇-2020-184</title>
-  </programme>
-  <programme start="20200924052700 +0000" stop="20200924062600 +0000" channel="cctv10">
-    <title lang="zh">自然传奇-2020-184</title>
-  </programme>
-  <programme start="20200924052700 +0000" stop="20200924062600 +0000" channel="cctv10">
-    <title lang="zh">自然传奇-2020-184</title>
-  </programme>
-  <programme start="20200924062600 +0000" stop="20200924063600 +0000" channel="cctv10">
-    <title lang="zh">百家说故事-2020-259</title>
-  </programme>
-  <programme start="20200924062600 +0000" stop="20200924063600 +0000" channel="cctv10">
-    <title lang="zh">百家说故事-2020-259</title>
-  </programme>
-  <programme start="20200924062600 +0000" stop="20200924063600 +0000" channel="cctv10">
-    <title lang="zh">百家说故事-2020-259</title>
-  </programme>
-  <programme start="20200924063600 +0000" stop="20200924064000 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2020-1</title>
-  </programme>
-  <programme start="20200924063600 +0000" stop="20200924064000 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2020-1</title>
-  </programme>
-  <programme start="20200924063600 +0000" stop="20200924064000 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2020-1</title>
-  </programme>
-  <programme start="20200924064000 +0000" stop="20200924065000 +0000" channel="cctv10">
-    <title lang="zh">读书-2020-216</title>
-  </programme>
-  <programme start="20200924064000 +0000" stop="20200924065000 +0000" channel="cctv10">
-    <title lang="zh">读书-2020-216</title>
-  </programme>
-  <programme start="20200924064000 +0000" stop="20200924065000 +0000" channel="cctv10">
-    <title lang="zh">读书-2020-216</title>
-  </programme>
-  <programme start="20200924065000 +0000" stop="20200924065100 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2019-4</title>
-  </programme>
-  <programme start="20200924065000 +0000" stop="20200924065100 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2019-4</title>
-  </programme>
-  <programme start="20200924065000 +0000" stop="20200924065100 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2019-4</title>
-  </programme>
-  <programme start="20200924065100 +0000" stop="20200924070100 +0000" channel="cctv10">
-    <title lang="zh">时尚科技秀-2020-267</title>
-  </programme>
-  <programme start="20200924065100 +0000" stop="20200924070100 +0000" channel="cctv10">
-    <title lang="zh">时尚科技秀-2020-267</title>
-  </programme>
-  <programme start="20200924065100 +0000" stop="20200924070100 +0000" channel="cctv10">
-    <title lang="zh">时尚科技秀-2020-267</title>
-  </programme>
-  <programme start="20200924070100 +0000" stop="20200924073800 +0000" channel="cctv10">
-    <title lang="zh">地理·中国-2020-264</title>
-  </programme>
-  <programme start="20200924070100 +0000" stop="20200924073800 +0000" channel="cctv10">
-    <title lang="zh">地理·中国-2020-264</title>
-  </programme>
-  <programme start="20200924070100 +0000" stop="20200924073800 +0000" channel="cctv10">
-    <title lang="zh">地理·中国-2020-264</title>
-  </programme>
-  <programme start="20200924073800 +0000" stop="20200924082200 +0000" channel="cctv10">
-    <title lang="zh">探索·发现-2020-267</title>
-  </programme>
-  <programme start="20200924073800 +0000" stop="20200924082200 +0000" channel="cctv10">
-    <title lang="zh">探索·发现-2020-267</title>
-  </programme>
-  <programme start="20200924073800 +0000" stop="20200924082200 +0000" channel="cctv10">
-    <title lang="zh">探索·发现-2020-267</title>
-  </programme>
-  <programme start="20200924082200 +0000" stop="20200924082700 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2020-1</title>
-  </programme>
-  <programme start="20200924082200 +0000" stop="20200924082700 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2020-1</title>
-  </programme>
-  <programme start="20200924082200 +0000" stop="20200924082700 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2020-1</title>
-  </programme>
-  <programme start="20200924082700 +0000" stop="20200924084900 +0000" channel="cctv10">
-    <title lang="zh">人物故事-2020-183</title>
-  </programme>
-  <programme start="20200924082700 +0000" stop="20200924084900 +0000" channel="cctv10">
-    <title lang="zh">人物故事-2020-183</title>
-  </programme>
-  <programme start="20200924082700 +0000" stop="20200924084900 +0000" channel="cctv10">
-    <title lang="zh">人物故事-2020-183</title>
-  </programme>
-  <programme start="20200924084900 +0000" stop="20200924091100 +0000" channel="cctv10">
-    <title lang="zh">跟着书本去旅行-2020-153</title>
-  </programme>
-  <programme start="20200924084900 +0000" stop="20200924091100 +0000" channel="cctv10">
-    <title lang="zh">跟着书本去旅行-2020-153</title>
-  </programme>
-  <programme start="20200924084900 +0000" stop="20200924091100 +0000" channel="cctv10">
-    <title lang="zh">跟着书本去旅行-2020-153</title>
-  </programme>
-  <programme start="20200924091100 +0000" stop="20200924091500 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2019-2</title>
-  </programme>
-  <programme start="20200924091100 +0000" stop="20200924091500 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2019-2</title>
-  </programme>
-  <programme start="20200924091100 +0000" stop="20200924091500 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2019-2</title>
-  </programme>
-  <programme start="20200924091500 +0000" stop="20200924092700 +0000" channel="cctv10">
-    <title lang="zh">时尚科技秀-2020-267</title>
-  </programme>
-  <programme start="20200924091500 +0000" stop="20200924092700 +0000" channel="cctv10">
-    <title lang="zh">时尚科技秀-2020-267</title>
-  </programme>
-  <programme start="20200924091500 +0000" stop="20200924092700 +0000" channel="cctv10">
-    <title lang="zh">时尚科技秀-2020-267</title>
-  </programme>
-  <programme start="20200924092700 +0000" stop="20200924100500 +0000" channel="cctv10">
-    <title lang="zh">地理·中国-2020-265</title>
-  </programme>
-  <programme start="20200924092700 +0000" stop="20200924100500 +0000" channel="cctv10">
-    <title lang="zh">地理·中国-2020-265</title>
-  </programme>
-  <programme start="20200924092700 +0000" stop="20200924100500 +0000" channel="cctv10">
-    <title lang="zh">地理·中国-2020-265</title>
-  </programme>
-  <programme start="20200924100500 +0000" stop="20200924105400 +0000" channel="cctv10">
-    <title lang="zh">健康之路-2020-267</title>
-  </programme>
-  <programme start="20200924100500 +0000" stop="20200924105400 +0000" channel="cctv10">
-    <title lang="zh">健康之路-2020-267</title>
-  </programme>
-  <programme start="20200924100500 +0000" stop="20200924105400 +0000" channel="cctv10">
-    <title lang="zh">健康之路-2020-267</title>
-  </programme>
-  <programme start="20200924105400 +0000" stop="20200924113100 +0000" channel="cctv10">
-    <title lang="zh">美味假期-48</title>
-  </programme>
-  <programme start="20200924105400 +0000" stop="20200924113100 +0000" channel="cctv10">
-    <title lang="zh">美味假期-48</title>
-  </programme>
-  <programme start="20200924105400 +0000" stop="20200924113100 +0000" channel="cctv10">
-    <title lang="zh">美味假期-48</title>
-  </programme>
-  <programme start="20200924113100 +0000" stop="20200924114100 +0000" channel="cctv10">
-    <title lang="zh">2019最美科技工作者-7</title>
-  </programme>
-  <programme start="20200924113100 +0000" stop="20200924114100 +0000" channel="cctv10">
-    <title lang="zh">2019最美科技工作者-7</title>
-  </programme>
-  <programme start="20200924113100 +0000" stop="20200924114100 +0000" channel="cctv10">
-    <title lang="zh">2019最美科技工作者-7</title>
-  </programme>
-  <programme start="20200924114100 +0000" stop="20200924124000 +0000" channel="cctv10">
-    <title lang="zh">自然传奇-2020-185</title>
-  </programme>
-  <programme start="20200924114100 +0000" stop="20200924124000 +0000" channel="cctv10">
-    <title lang="zh">自然传奇-2020-185</title>
-  </programme>
-  <programme start="20200924114100 +0000" stop="20200924124000 +0000" channel="cctv10">
-    <title lang="zh">自然传奇-2020-185</title>
-  </programme>
-  <programme start="20200924124000 +0000" stop="20200924134000 +0000" channel="cctv10">
-    <title lang="zh">2020奥秘-48</title>
-  </programme>
-  <programme start="20200924124000 +0000" stop="20200924134000 +0000" channel="cctv10">
-    <title lang="zh">2020奥秘-48</title>
-  </programme>
-  <programme start="20200924124000 +0000" stop="20200924134000 +0000" channel="cctv10">
-    <title lang="zh">2020奥秘-48</title>
-  </programme>
-  <programme start="20200924134000 +0000" stop="20200924142900 +0000" channel="cctv10">
-    <title lang="zh">探索·发现-2020-268</title>
-  </programme>
-  <programme start="20200924134000 +0000" stop="20200924142900 +0000" channel="cctv10">
-    <title lang="zh">探索·发现-2020-268</title>
-  </programme>
-  <programme start="20200924134000 +0000" stop="20200924142900 +0000" channel="cctv10">
-    <title lang="zh">探索·发现-2020-268</title>
-  </programme>
-  <programme start="20200924142900 +0000" stop="20200924152600 +0000" channel="cctv10">
-    <title lang="zh">2020魔力发明秀-26</title>
-  </programme>
-  <programme start="20200924142900 +0000" stop="20200924152600 +0000" channel="cctv10">
-    <title lang="zh">2020魔力发明秀-26</title>
-  </programme>
-  <programme start="20200924142900 +0000" stop="20200924152600 +0000" channel="cctv10">
-    <title lang="zh">2020魔力发明秀-26</title>
-  </programme>
-  <programme start="20200924152600 +0000" stop="20200924161000 +0000" channel="cctv10">
-    <title lang="zh">2020中国影像方志-256</title>
-  </programme>
-  <programme start="20200924152600 +0000" stop="20200924161000 +0000" channel="cctv10">
-    <title lang="zh">2020中国影像方志-256</title>
-  </programme>
-  <programme start="20200924152600 +0000" stop="20200924161000 +0000" channel="cctv10">
-    <title lang="zh">2020中国影像方志-256</title>
-  </programme>
-  <programme start="20200924161000 +0000" stop="20200924162000 +0000" channel="cctv10">
-    <title lang="zh">百家说故事-2020-259</title>
-  </programme>
-  <programme start="20200924161000 +0000" stop="20200924162000 +0000" channel="cctv10">
-    <title lang="zh">百家说故事-2020-259</title>
-  </programme>
-  <programme start="20200924161000 +0000" stop="20200924162000 +0000" channel="cctv10">
-    <title lang="zh">百家说故事-2020-259</title>
-  </programme>
-  <programme start="20200924162000 +0000" stop="20200924170700 +0000" channel="cctv10">
-    <title lang="zh">百家讲坛-2020-267</title>
-  </programme>
-  <programme start="20200924162000 +0000" stop="20200924170700 +0000" channel="cctv10">
-    <title lang="zh">百家讲坛-2020-267</title>
-  </programme>
-  <programme start="20200924162000 +0000" stop="20200924170700 +0000" channel="cctv10">
-    <title lang="zh">百家讲坛-2020-267</title>
-  </programme>
-  <programme start="20200924170700 +0000" stop="20200924180900 +0000" channel="cctv10">
-    <title lang="zh">考古公开课-2020-37</title>
-  </programme>
-  <programme start="20200924170700 +0000" stop="20200924180900 +0000" channel="cctv10">
-    <title lang="zh">考古公开课-2020-37</title>
-  </programme>
-  <programme start="20200924170700 +0000" stop="20200924180900 +0000" channel="cctv10">
-    <title lang="zh">考古公开课-2020-37</title>
-  </programme>
-  <programme start="20200924180900 +0000" stop="20200924184900 +0000" channel="cctv10">
-    <title lang="zh">健康之路-2020-267</title>
-  </programme>
-  <programme start="20200924180900 +0000" stop="20200924184900 +0000" channel="cctv10">
-    <title lang="zh">健康之路-2020-267</title>
-  </programme>
-  <programme start="20200924180900 +0000" stop="20200924184900 +0000" channel="cctv10">
-    <title lang="zh">健康之路-2020-267</title>
-  </programme>
-  <programme start="20200924184900 +0000" stop="20200924185900 +0000" channel="cctv10">
-    <title lang="zh">读书-2020-216</title>
-  </programme>
-  <programme start="20200924184900 +0000" stop="20200924185900 +0000" channel="cctv10">
-    <title lang="zh">读书-2020-216</title>
-  </programme>
-  <programme start="20200924184900 +0000" stop="20200924185900 +0000" channel="cctv10">
-    <title lang="zh">读书-2020-216</title>
-  </programme>
-  <programme start="20200924185900 +0000" stop="20200924220000 +0000" channel="cctv10">
-    <title lang="zh">再见</title>
-  </programme>
-  <programme start="20200924185900 +0000" stop="20200924220000 +0000" channel="cctv10">
-    <title lang="zh">再见</title>
-  </programme>
-  <programme start="20200924185900 +0000" stop="20200924220000 +0000" channel="cctv10">
-    <title lang="zh">再见</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924225400 +0000" channel="cctv10">
-    <title lang="zh">2020魔力发明秀-26</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924225400 +0000" channel="cctv10">
-    <title lang="zh">2020魔力发明秀-26</title>
-  </programme>
-  <programme start="20200924220000 +0000" stop="20200924225400 +0000" channel="cctv10">
-    <title lang="zh">2020魔力发明秀-26</title>
-  </programme>
-  <programme start="20200924225400 +0000" stop="20200924230600 +0000" channel="cctv10">
-    <title lang="zh">2019最美科技工作者-7</title>
-  </programme>
-  <programme start="20200924225400 +0000" stop="20200924230600 +0000" channel="cctv10">
-    <title lang="zh">2019最美科技工作者-7</title>
-  </programme>
-  <programme start="20200924225400 +0000" stop="20200924230600 +0000" channel="cctv10">
-    <title lang="zh">2019最美科技工作者-7</title>
-  </programme>
-  <programme start="20200924230600 +0000" stop="20200924231600 +0000" channel="cctv10">
-    <title lang="zh">时尚科技秀-2020-267</title>
-  </programme>
-  <programme start="20200924230600 +0000" stop="20200924231600 +0000" channel="cctv10">
-    <title lang="zh">时尚科技秀-2020-267</title>
-  </programme>
-  <programme start="20200924230600 +0000" stop="20200924231600 +0000" channel="cctv10">
-    <title lang="zh">时尚科技秀-2020-267</title>
-  </programme>
-  <programme start="20200924231600 +0000" stop="20200924231900 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2020-1</title>
-  </programme>
-  <programme start="20200924231600 +0000" stop="20200924231900 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2020-1</title>
-  </programme>
-  <programme start="20200924231600 +0000" stop="20200924231900 +0000" channel="cctv10">
-    <title lang="zh">欣赏-2020-1</title>
-  </programme>
-  <programme start="20200924231900 +0000" stop="20200925001300 +0000" channel="cctv10">
-    <title lang="zh">2020奥秘-48</title>
-  </programme>
-  <programme start="20200924231900 +0000" stop="20200925001300 +0000" channel="cctv10">
-    <title lang="zh">2020奥秘-48</title>
-  </programme>
-  <programme start="20200924231900 +0000" stop="20200925001300 +0000" channel="cctv10">
-    <title lang="zh">2020奥秘-48</title>
   </programme>
   <programme start="20200925001300 +0000" stop="20200925002300 +0000" channel="cctv10">
     <title lang="zh">百家说故事-2020-259</title>
@@ -3789,5 +1296,485 @@
   </programme>
   <programme start="20200925044900 +0000" stop="20200925044900 +0000" channel="cctv10">
     <title lang="zh">美味假期-48</title>
+  </programme>
+  <programme start="20200925003600 +0000" stop="20200925011900 +0000" channel="cctv11">
+    <title lang="zh">名家书场-2020-237《光武争霸》第18回</title>
+  </programme>
+  <programme start="20200925003600 +0000" stop="20200925011900 +0000" channel="cctv11">
+    <title lang="zh">名家书场-2020-237《光武争霸》第18回</title>
+  </programme>
+  <programme start="20200925003600 +0000" stop="20200925011900 +0000" channel="cctv11">
+    <title lang="zh">名家书场-2020-237《光武争霸》第18回</title>
+  </programme>
+  <programme start="20200925011900 +0000" stop="20200925040000 +0000" channel="cctv11">
+    <title lang="zh">中国京剧像音像集萃-2018-47评剧《杜十娘》</title>
+  </programme>
+  <programme start="20200925011900 +0000" stop="20200925040000 +0000" channel="cctv11">
+    <title lang="zh">中国京剧像音像集萃-2018-47评剧《杜十娘》</title>
+  </programme>
+  <programme start="20200925011900 +0000" stop="20200925040000 +0000" channel="cctv11">
+    <title lang="zh">中国京剧像音像集萃-2018-47评剧《杜十娘》</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925045000 +0000" channel="cctv11">
+    <title lang="zh">情满四合院第16集</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925045000 +0000" channel="cctv11">
+    <title lang="zh">情满四合院第16集</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925045000 +0000" channel="cctv11">
+    <title lang="zh">情满四合院第16集</title>
+  </programme>
+  <programme start="20200925045000 +0000" stop="20200925045300 +0000" channel="cctv11">
+    <title lang="zh">情满四合院第17集</title>
+  </programme>
+  <programme start="20200925045000 +0000" stop="20200925045300 +0000" channel="cctv11">
+    <title lang="zh">情满四合院第17集</title>
+  </programme>
+  <programme start="20200925000500 +0000" stop="20200925002500 +0000" channel="cctv12">
+    <title lang="zh">生命线-2020-267</title>
+  </programme>
+  <programme start="20200925000500 +0000" stop="20200925002500 +0000" channel="cctv12">
+    <title lang="zh">生命线-2020-267</title>
+  </programme>
+  <programme start="20200925000500 +0000" stop="20200925002500 +0000" channel="cctv12">
+    <title lang="zh">生命线-2020-267</title>
+  </programme>
+  <programme start="20200925002500 +0000" stop="20200925010000 +0000" channel="cctv12">
+    <title lang="zh">夕阳红-2020-261</title>
+  </programme>
+  <programme start="20200925002500 +0000" stop="20200925010000 +0000" channel="cctv12">
+    <title lang="zh">夕阳红-2020-261</title>
+  </programme>
+  <programme start="20200925002500 +0000" stop="20200925010000 +0000" channel="cctv12">
+    <title lang="zh">夕阳红-2020-261</title>
+  </programme>
+  <programme start="20200925010000 +0000" stop="20200925013400 +0000" channel="cctv12">
+    <title lang="zh">法律讲堂（文史版）-2020-191</title>
+  </programme>
+  <programme start="20200925010000 +0000" stop="20200925013400 +0000" channel="cctv12">
+    <title lang="zh">法律讲堂（文史版）-2020-191</title>
+  </programme>
+  <programme start="20200925010000 +0000" stop="20200925013400 +0000" channel="cctv12">
+    <title lang="zh">法律讲堂（文史版）-2020-191</title>
+  </programme>
+  <programme start="20200925013400 +0000" stop="20200925015600 +0000" channel="cctv12">
+    <title lang="zh">道德观察(日播版)-2020-266</title>
+  </programme>
+  <programme start="20200925013400 +0000" stop="20200925015600 +0000" channel="cctv12">
+    <title lang="zh">道德观察(日播版)-2020-266</title>
+  </programme>
+  <programme start="20200925013400 +0000" stop="20200925015600 +0000" channel="cctv12">
+    <title lang="zh">道德观察(日播版)-2020-266</title>
+  </programme>
+  <programme start="20200925015600 +0000" stop="20200925024000 +0000" channel="cctv12">
+    <title lang="zh">一线-2020-186</title>
+  </programme>
+  <programme start="20200925015600 +0000" stop="20200925024000 +0000" channel="cctv12">
+    <title lang="zh">一线-2020-186</title>
+  </programme>
+  <programme start="20200925015600 +0000" stop="20200925024000 +0000" channel="cctv12">
+    <title lang="zh">一线-2020-186</title>
+  </programme>
+  <programme start="20200925024000 +0000" stop="20200925033000 +0000" channel="cctv12">
+    <title lang="zh">方圆剧阵2020-236</title>
+  </programme>
+  <programme start="20200925024000 +0000" stop="20200925033000 +0000" channel="cctv12">
+    <title lang="zh">方圆剧阵2020-236</title>
+  </programme>
+  <programme start="20200925024000 +0000" stop="20200925033000 +0000" channel="cctv12">
+    <title lang="zh">方圆剧阵2020-236</title>
+  </programme>
+  <programme start="20200925033000 +0000" stop="20200925040000 +0000" channel="cctv12">
+    <title lang="zh">热线12-2020-191</title>
+  </programme>
+  <programme start="20200925033000 +0000" stop="20200925040000 +0000" channel="cctv12">
+    <title lang="zh">热线12-2020-191</title>
+  </programme>
+  <programme start="20200925033000 +0000" stop="20200925040000 +0000" channel="cctv12">
+    <title lang="zh">热线12-2020-191</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925042000 +0000" channel="cctv12">
+    <title lang="zh">生命线-2020-268</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925042000 +0000" channel="cctv12">
+    <title lang="zh">生命线-2020-268</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925042000 +0000" channel="cctv12">
+    <title lang="zh">生命线-2020-268</title>
+  </programme>
+  <programme start="20200925042000 +0000" stop="20200925044300 +0000" channel="cctv12">
+    <title lang="zh">道德观察(日播版)-2020-267</title>
+  </programme>
+  <programme start="20200925042000 +0000" stop="20200925044300 +0000" channel="cctv12">
+    <title lang="zh">道德观察(日播版)-2020-267</title>
+  </programme>
+  <programme start="20200925042000 +0000" stop="20200925044300 +0000" channel="cctv12">
+    <title lang="zh">道德观察(日播版)-2020-267</title>
+  </programme>
+  <programme start="20200925044300 +0000" stop="20200925044300 +0000" channel="cctv12">
+    <title lang="zh">社会与法电视剧精选-三妹-14/56</title>
+  </programme>
+  <programme start="20200925044300 +0000" stop="20200925044300 +0000" channel="cctv12">
+    <title lang="zh">社会与法电视剧精选-三妹-14/56</title>
+  </programme>
+  <programme start="20200925010000 +0000" stop="20200925020000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925010000 +0000" stop="20200925020000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925010000 +0000" stop="20200925020000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925020000 +0000" stop="20200925030000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925020000 +0000" stop="20200925030000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925020000 +0000" stop="20200925030000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925030000 +0000" stop="20200925040000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925030000 +0000" stop="20200925040000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925030000 +0000" stop="20200925040000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925043300 +0000" channel="cctv13">
+    <title lang="zh">新闻30分</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925043300 +0000" channel="cctv13">
+    <title lang="zh">新闻30分</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925043300 +0000" channel="cctv13">
+    <title lang="zh">新闻30分</title>
+  </programme>
+  <programme start="20200925043300 +0000" stop="20200925050000 +0000" channel="cctv13">
+    <title lang="zh">法治在线</title>
+  </programme>
+  <programme start="20200925043300 +0000" stop="20200925050000 +0000" channel="cctv13">
+    <title lang="zh">法治在线</title>
+  </programme>
+  <programme start="20200925043300 +0000" stop="20200925050000 +0000" channel="cctv13">
+    <title lang="zh">法治在线</title>
+  </programme>
+  <programme start="20200925050000 +0000" stop="20200925050000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925050000 +0000" stop="20200925050000 +0000" channel="cctv13">
+    <title lang="zh">新闻直播间</title>
+  </programme>
+  <programme start="20200925000200 +0000" stop="20200925032000 +0000" channel="cctvchild">
+    <title lang="zh">动画大放映（上午版）-2020-217</title>
+  </programme>
+  <programme start="20200925000200 +0000" stop="20200925032000 +0000" channel="cctvchild">
+    <title lang="zh">动画大放映（上午版）-2020-217</title>
+  </programme>
+  <programme start="20200925000200 +0000" stop="20200925032000 +0000" channel="cctvchild">
+    <title lang="zh">动画大放映（上午版）-2020-217</title>
+  </programme>
+  <programme start="20200925032000 +0000" stop="20200925032000 +0000" channel="cctvchild">
+    <title lang="zh">动漫世界-2020-269</title>
+  </programme>
+  <programme start="20200925032000 +0000" stop="20200925032000 +0000" channel="cctvchild">
+    <title lang="zh">动漫世界-2020-269</title>
+  </programme>
+  <programme start="20200925001900 +0000" stop="20200925005600 +0000" channel="cctv15">
+    <title lang="zh">中国音乐电视-2020-268</title>
+  </programme>
+  <programme start="20200925001900 +0000" stop="20200925005600 +0000" channel="cctv15">
+    <title lang="zh">中国音乐电视-2020-268</title>
+  </programme>
+  <programme start="20200925001900 +0000" stop="20200925005600 +0000" channel="cctv15">
+    <title lang="zh">中国音乐电视-2020-268</title>
+  </programme>
+  <programme start="20200925005600 +0000" stop="20200925024400 +0000" channel="cctv15">
+    <title lang="zh">合唱先锋2020-47-经典吟唱</title>
+  </programme>
+  <programme start="20200925005600 +0000" stop="20200925024400 +0000" channel="cctv15">
+    <title lang="zh">合唱先锋2020-47-经典吟唱</title>
+  </programme>
+  <programme start="20200925005600 +0000" stop="20200925024400 +0000" channel="cctv15">
+    <title lang="zh">合唱先锋2020-47-经典吟唱</title>
+  </programme>
+  <programme start="20200925024400 +0000" stop="20200925040000 +0000" channel="cctv15">
+    <title lang="zh">民歌·中国-2020-148乡情(1)</title>
+  </programme>
+  <programme start="20200925024400 +0000" stop="20200925040000 +0000" channel="cctv15">
+    <title lang="zh">民歌·中国-2020-148乡情(1)</title>
+  </programme>
+  <programme start="20200925024400 +0000" stop="20200925040000 +0000" channel="cctv15">
+    <title lang="zh">民歌·中国-2020-148乡情(1)</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925040000 +0000" channel="cctv15">
+    <title lang="zh">精彩音乐汇-2020-304</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925040000 +0000" channel="cctv15">
+    <title lang="zh">精彩音乐汇-2020-304</title>
+  </programme>
+  <programme start="20200925001900 +0000" stop="20200925010500 +0000" channel="cctv4k">
+    <title lang="zh">可爱的中国-（4K）-15/39</title>
+  </programme>
+  <programme start="20200925001900 +0000" stop="20200925010500 +0000" channel="cctv4k">
+    <title lang="zh">可爱的中国-（4K）-15/39</title>
+  </programme>
+  <programme start="20200925001900 +0000" stop="20200925010500 +0000" channel="cctv4k">
+    <title lang="zh">可爱的中国-（4K）-15/39</title>
+  </programme>
+  <programme start="20200925010500 +0000" stop="20200925010500 +0000" channel="cctv4k">
+    <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+  </programme>
+  <programme start="20200925010500 +0000" stop="20200925010500 +0000" channel="cctv4k">
+    <title lang="zh">4K节目预告</title>
+  </programme>
+  <programme start="20200925010500 +0000" stop="20200925010500 +0000" channel="cctv4k">
+    <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+  </programme>
+  <programme start="20200925010500 +0000" stop="20200925010500 +0000" channel="cctv4k">
+    <title lang="zh">4K节目预告</title>
+  </programme>
+  <programme start="20200925010500 +0000" stop="20200925010500 +0000" channel="cctv4k">
+    <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+  </programme>
+  <programme start="20200925010500 +0000" stop="20200925010500 +0000" channel="cctv4k">
+    <title lang="zh">4K节目预告</title>
+  </programme>
+  <programme start="20200925010500 +0000" stop="20200925013500 +0000" channel="cctv4k">
+    <title lang="zh">穿越时空-飞向月球-2018-5(4K)</title>
+  </programme>
+  <programme start="20200925010500 +0000" stop="20200925013500 +0000" channel="cctv4k">
+    <title lang="zh">穿越时空-飞向月球-2018-5(4K)</title>
+  </programme>
+  <programme start="20200925010500 +0000" stop="20200925013500 +0000" channel="cctv4k">
+    <title lang="zh">穿越时空-飞向月球-2018-5(4K)</title>
+  </programme>
+  <programme start="20200925013500 +0000" stop="20200925022500 +0000" channel="cctv4k">
+    <title lang="zh">魅力纪录2018-27-大太平洋2（4K）</title>
+  </programme>
+  <programme start="20200925013500 +0000" stop="20200925022500 +0000" channel="cctv4k">
+    <title lang="zh">魅力纪录2018-27-大太平洋2（4K）</title>
+  </programme>
+  <programme start="20200925013500 +0000" stop="20200925022500 +0000" channel="cctv4k">
+    <title lang="zh">魅力纪录2018-27-大太平洋2（4K）</title>
+  </programme>
+  <programme start="20200925022500 +0000" stop="20200925022500 +0000" channel="cctv4k">
+    <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
+  </programme>
+  <programme start="20200925022500 +0000" stop="20200925022500 +0000" channel="cctv4k">
+    <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
+  </programme>
+  <programme start="20200925022500 +0000" stop="20200925022500 +0000" channel="cctv4k">
+    <title lang="zh">4K超清视野-2018-1-标识演绎-2/3</title>
+  </programme>
+  <programme start="20200925022500 +0000" stop="20200925030700 +0000" channel="cctv4k">
+    <title lang="zh">远方的家2020-9(4K频道再播)</title>
+  </programme>
+  <programme start="20200925022500 +0000" stop="20200925030700 +0000" channel="cctv4k">
+    <title lang="zh">远方的家2020-9(4K频道再播)</title>
+  </programme>
+  <programme start="20200925022500 +0000" stop="20200925030700 +0000" channel="cctv4k">
+    <title lang="zh">远方的家2020-9(4K频道再播)</title>
+  </programme>
+  <programme start="20200925030700 +0000" stop="20200925033700 +0000" channel="cctv4k">
+    <title lang="zh">记住乡愁-2020-17(4K)</title>
+  </programme>
+  <programme start="20200925030700 +0000" stop="20200925033700 +0000" channel="cctv4k">
+    <title lang="zh">记住乡愁-2020-17(4K)</title>
+  </programme>
+  <programme start="20200925030700 +0000" stop="20200925033700 +0000" channel="cctv4k">
+    <title lang="zh">记住乡愁-2020-17(4K)</title>
+  </programme>
+  <programme start="20200925033700 +0000" stop="20200925040400 +0000" channel="cctv4k">
+    <title lang="zh">4K超清精品-2018-13丛林星球13</title>
+  </programme>
+  <programme start="20200925033700 +0000" stop="20200925040400 +0000" channel="cctv4k">
+    <title lang="zh">4K超清精品-2018-13丛林星球13</title>
+  </programme>
+  <programme start="20200925033700 +0000" stop="20200925040400 +0000" channel="cctv4k">
+    <title lang="zh">4K超清精品-2018-13丛林星球13</title>
+  </programme>
+  <programme start="20200925040400 +0000" stop="20200925040400 +0000" channel="cctv4k">
+    <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+  </programme>
+  <programme start="20200925040400 +0000" stop="20200925040400 +0000" channel="cctv4k">
+    <title lang="zh">4K节目预告</title>
+  </programme>
+  <programme start="20200925040400 +0000" stop="20200925040400 +0000" channel="cctv4k">
+    <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+  </programme>
+  <programme start="20200925040400 +0000" stop="20200925040400 +0000" channel="cctv4k">
+    <title lang="zh">4K节目预告</title>
+  </programme>
+  <programme start="20200925040400 +0000" stop="20200925040400 +0000" channel="cctv4k">
+    <title lang="zh">4K超清视野-2018-1-标识演绎-3/3</title>
+  </programme>
+  <programme start="20200925040400 +0000" stop="20200925040400 +0000" channel="cctv4k">
+    <title lang="zh">4K节目预告</title>
+  </programme>
+  <programme start="20200925040400 +0000" stop="20200925041900 +0000" channel="cctv4k">
+    <title lang="zh">2019动画大放映（引进版）-12(4K)</title>
+  </programme>
+  <programme start="20200925040400 +0000" stop="20200925041900 +0000" channel="cctv4k">
+    <title lang="zh">2019动画大放映（引进版）-12(4K)</title>
+  </programme>
+  <programme start="20200925040400 +0000" stop="20200925041900 +0000" channel="cctv4k">
+    <title lang="zh">2019动画大放映（引进版）-12(4K)</title>
+  </programme>
+  <programme start="20200925041900 +0000" stop="20200925042000 +0000" channel="cctv4k">
+    <title lang="zh">大禹治水-下集预告（4K）-11/11</title>
+  </programme>
+  <programme start="20200925041900 +0000" stop="20200925042000 +0000" channel="cctv4k">
+    <title lang="zh">大禹治水-下集预告（4K）-11/11</title>
+  </programme>
+  <programme start="20200925041900 +0000" stop="20200925042000 +0000" channel="cctv4k">
+    <title lang="zh">大禹治水-下集预告（4K）-11/11</title>
+  </programme>
+  <programme start="20200925042000 +0000" stop="20200925043000 +0000" channel="cctv4k">
+    <title lang="zh">米小圈（第二季）-11(4K)</title>
+  </programme>
+  <programme start="20200925042000 +0000" stop="20200925043000 +0000" channel="cctv4k">
+    <title lang="zh">米小圈（第二季）-11(4K)</title>
+  </programme>
+  <programme start="20200925042000 +0000" stop="20200925043000 +0000" channel="cctv4k">
+    <title lang="zh">米小圈（第二季）-11(4K)</title>
+  </programme>
+  <programme start="20200925043000 +0000" stop="20200925043100 +0000" channel="cctv4k">
+    <title lang="zh">4K标识演绎-2019-1</title>
+  </programme>
+  <programme start="20200925043000 +0000" stop="20200925043100 +0000" channel="cctv4k">
+    <title lang="zh">4K标识演绎-2019-1</title>
+  </programme>
+  <programme start="20200925043000 +0000" stop="20200925043100 +0000" channel="cctv4k">
+    <title lang="zh">4K标识演绎-2019-1</title>
+  </programme>
+  <programme start="20200925043100 +0000" stop="20200925043100 +0000" channel="cctv4k">
+    <title lang="zh">远方的家2019-8（4K频道版）</title>
+  </programme>
+  <programme start="20200925043100 +0000" stop="20200925043100 +0000" channel="cctv4k">
+    <title lang="zh">远方的家2019-8（4K频道版）</title>
+  </programme>
+  <programme start="20200925003900 +0000" stop="20200925012500 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--6/42</title>
+  </programme>
+  <programme start="20200925003900 +0000" stop="20200925012500 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--6/42</title>
+  </programme>
+  <programme start="20200925003900 +0000" stop="20200925012500 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--6/42</title>
+  </programme>
+  <programme start="20200925012500 +0000" stop="20200925022200 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--7/42</title>
+  </programme>
+  <programme start="20200925012500 +0000" stop="20200925022200 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--7/42</title>
+  </programme>
+  <programme start="20200925012500 +0000" stop="20200925022200 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--7/42</title>
+  </programme>
+  <programme start="20200925022200 +0000" stop="20200925030800 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--8/42</title>
+  </programme>
+  <programme start="20200925022200 +0000" stop="20200925030800 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--8/42</title>
+  </programme>
+  <programme start="20200925022200 +0000" stop="20200925030800 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--8/42</title>
+  </programme>
+  <programme start="20200925030800 +0000" stop="20200925040000 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--9/42</title>
+  </programme>
+  <programme start="20200925030800 +0000" stop="20200925040000 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--9/42</title>
+  </programme>
+  <programme start="20200925030800 +0000" stop="20200925040000 +0000" channel="diyijuchang">
+    <title lang="zh">如果我爱你--9/42</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925040000 +0000" channel="diyijuchang">
+    <title lang="zh">热门影院-黑色飞车</title>
+  </programme>
+  <programme start="20200925040000 +0000" stop="20200925040000 +0000" channel="diyijuchang">
+    <title lang="zh">热门影院-黑色飞车</title>
+  </programme>
+  <programme start="20200925004200 +0000" stop="20200925004400 +0000" channel="shijiedili">
+    <title lang="zh">世界地理30’-美丽中国坝上风光</title>
+  </programme>
+  <programme start="20200925004200 +0000" stop="20200925004400 +0000" channel="shijiedili">
+    <title lang="zh">世界地理30’-美丽中国坝上风光</title>
+  </programme>
+  <programme start="20200925004200 +0000" stop="20200925004400 +0000" channel="shijiedili">
+    <title lang="zh">世界地理30’-美丽中国坝上风光</title>
+  </programme>
+  <programme start="20200925004400 +0000" stop="20200925012500 +0000" channel="shijiedili">
+    <title lang="zh">探索·发现</title>
+  </programme>
+  <programme start="20200925004400 +0000" stop="20200925012500 +0000" channel="shijiedili">
+    <title lang="zh">探索·发现</title>
+  </programme>
+  <programme start="20200925004400 +0000" stop="20200925012500 +0000" channel="shijiedili">
+    <title lang="zh">探索·发现</title>
+  </programme>
+  <programme start="20200925012500 +0000" stop="20200925022200 +0000" channel="shijiedili">
+    <title lang="zh">世界地理50’-超级玩家的崛起</title>
+  </programme>
+  <programme start="20200925012500 +0000" stop="20200925022200 +0000" channel="shijiedili">
+    <title lang="zh">世界地理50’-超级玩家的崛起</title>
+  </programme>
+  <programme start="20200925012500 +0000" stop="20200925022200 +0000" channel="shijiedili">
+    <title lang="zh">世界地理50’-超级玩家的崛起</title>
+  </programme>
+  <programme start="20200925022200 +0000" stop="20200925022700 +0000" channel="shijiedili">
+    <title lang="zh">世界地理30’-美丽中国丝绸之旅</title>
+  </programme>
+  <programme start="20200925022200 +0000" stop="20200925022700 +0000" channel="shijiedili">
+    <title lang="zh">世界地理30’-美丽中国丝绸之旅</title>
+  </programme>
+  <programme start="20200925022200 +0000" stop="20200925022700 +0000" channel="shijiedili">
+    <title lang="zh">世界地理30’-美丽中国丝绸之旅</title>
+  </programme>
+  <programme start="20200925022700 +0000" stop="20200925031700 +0000" channel="shijiedili">
+    <title lang="zh">特别呈现</title>
+  </programme>
+  <programme start="20200925022700 +0000" stop="20200925031700 +0000" channel="shijiedili">
+    <title lang="zh">特别呈现</title>
+  </programme>
+  <programme start="20200925022700 +0000" stop="20200925031700 +0000" channel="shijiedili">
+    <title lang="zh">特别呈现</title>
+  </programme>
+  <programme start="20200925031700 +0000" stop="20200925032300 +0000" channel="shijiedili">
+    <title lang="zh">世界地理30’-美丽中国丝绸之旅</title>
+  </programme>
+  <programme start="20200925031700 +0000" stop="20200925032300 +0000" channel="shijiedili">
+    <title lang="zh">世界地理30’-美丽中国丝绸之旅</title>
+  </programme>
+  <programme start="20200925031700 +0000" stop="20200925032300 +0000" channel="shijiedili">
+    <title lang="zh">世界地理30’-美丽中国丝绸之旅</title>
+  </programme>
+  <programme start="20200925032300 +0000" stop="20200925034800 +0000" channel="shijiedili">
+    <title lang="zh">真相</title>
+  </programme>
+  <programme start="20200925032300 +0000" stop="20200925034800 +0000" channel="shijiedili">
+    <title lang="zh">真相</title>
+  </programme>
+  <programme start="20200925032300 +0000" stop="20200925034800 +0000" channel="shijiedili">
+    <title lang="zh">真相</title>
+  </programme>
+  <programme start="20200925034800 +0000" stop="20200925041400 +0000" channel="shijiedili">
+    <title lang="zh">真相</title>
+  </programme>
+  <programme start="20200925034800 +0000" stop="20200925041400 +0000" channel="shijiedili">
+    <title lang="zh">真相</title>
+  </programme>
+  <programme start="20200925034800 +0000" stop="20200925041400 +0000" channel="shijiedili">
+    <title lang="zh">真相</title>
+  </programme>
+  <programme start="20200925041400 +0000" stop="20200925045800 +0000" channel="shijiedili">
+    <title lang="zh">世界地理50’-地球的壮观的季节 第四集</title>
+  </programme>
+  <programme start="20200925041400 +0000" stop="20200925045800 +0000" channel="shijiedili">
+    <title lang="zh">世界地理50’-地球的壮观的季节 第四集</title>
   </programme>
 </tv>
