@@ -23,6 +23,9 @@ https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/guide.xml
 guide.xml will be refreshed at 3:00am every day.
 
 ----------
+
 08/29/2020: added CCTV-4K 
 
-# Thank ahau.edu a lot. 
+10/21/2020: AHAU doesn't work any more, added LZU.
+
+Thank lzu.edu.cn a lot. 
