@@ -15,15 +15,15 @@ because time in guide.xml is UTC-0. Otherwise, you can change EPG time shift num
 according to your time zone.
 
 Channel list:
-https://github.com/lylehust/Chinese-IPTV/blob/master/TV-EDU-AHAU.m3u
+https://github.com/lylehust/Chinese-IPTV/blob/master/TV-EDU-AHAU.m3u  
 Or, https://git.io/JYduP
 
 Or,
-https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-LZU.m3u
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-LZU.m3u  
 Or, https://git.io/JYdg6
 
 Guide file (EPG):
-https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/guide.xml
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/guide.xml  
 Or, https://git.io/JYdzx
 
 guide.xml will be refreshed at 3:00am every day.
