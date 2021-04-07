@@ -26,11 +26,9 @@ Guide file (EPG):
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/guide.xml  
 Or, https://git.io/JYdzx
 
-guide.xml will be refreshed at 3:00am every day.
+guide.xml will be refreshed at 3:00am (EST) every day.
 
 ----------
-
-08/29/2020: added CCTV-4K 
 
 10/21/2020: added LZU.
 
