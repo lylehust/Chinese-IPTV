@@ -60,6 +60,9 @@ http://hdtv.lzu6.edu.cn/hls/fyzqtv.m3u8
 #EXTINF:-1 tvg-id="fyyy" group-title="CCTV-HD",CCTV-风云音乐 HD
 http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
 
+#EXTINF:-1 tvg-id="fyjc" group-title="CCTV-HD",CCTV-风云剧场 HD
+http://hdtv.lzu6.edu.cn/hls/hls184a516.m3u8
+
 #EXTINF:-1 tvg-id="guofang" group-title="CCTV-HD",CCTV-国防军事 HD
 http://hdtv.lzu6.edu.cn/hls/gfjstv.m3u8
 
