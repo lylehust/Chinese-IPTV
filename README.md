@@ -32,4 +32,6 @@ guide.xml will be refreshed at 3:00am (EST) every day.
 
 10/21/2020: added LZU.
 
+06/02/2021: added full list of LZU (thanks Chiser, https://www.chiser.cc/2146.html)
+
 Thank ahau.edu.cn and lzu.edu.cn a lot. 
