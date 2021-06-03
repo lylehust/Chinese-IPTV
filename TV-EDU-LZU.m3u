@@ -54,7 +54,7 @@ http://hdtv.lzu6.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="diyijuchang" group-title="CCTV-HD",CCTV-第一剧场 HD
 http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8
 
-#EXTINF:-1 tvg-id="fyzq" group-title="CCTV-HD",CCTV-风云足球 HD
+#EXTINF:-1 tvg-id="cctvfyzq" group-title="CCTV-HD",CCTV-风云足球 HD
 http://hdtv.lzu6.edu.cn/hls/fyzqtv.m3u8
 
 #EXTINF:-1 tvg-id="fyyy" group-title="CCTV-HD",CCTV-风云音乐 HD
