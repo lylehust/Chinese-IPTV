@@ -22,6 +22,10 @@ Or,
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-LZU.m3u  
 Or, https://git.io/JYdg6
 
+Or,
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-LZU-FULL.m3u
+Or, https://git.io/JGoJk
+
 Guide file (EPG):
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/guide.xml  
 Or, https://git.io/JYdzx
@@ -32,6 +36,6 @@ guide.xml will be refreshed at 3:00am (EST) every day.
 
 10/21/2020: added LZU.
 
-06/02/2021: added full list of LZU (thanks Chiser, https://www.chiser.cc/2146.html)
+06/02/2021: added full list of LZU (thanks Chiser, https://www.chiser.cc/2146.html).
 
 Thank ahau.edu.cn and lzu.edu.cn a lot. 
