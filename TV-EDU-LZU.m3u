@@ -33,6 +33,9 @@ http://hdtv.lzu6.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="cctv10" group-title="CCTV-HD",CCTV-10 HD
 http://hdtv.lzu6.edu.cn/hls/cctv10hd.m3u8
 
+#EXTINF:-1 tvg-id="cctv11" group-title="CCTV-HD",CCTV-11 HD
+http://hdtv.lzu6.edu.cn/hls/jlu_cctv11hd.m3u8
+
 #EXTINF:-1 tvg-id="cctv12" group-title="CCTV-HD",CCTV-12 HD
 http://hdtv.lzu6.edu.cn/hls/cctv12hd.m3u8
 
@@ -42,7 +45,7 @@ http://hdtv.lzu6.edu.cn/hls/jlu_cctv13.m3u8
 #EXTINF:-1 tvg-id="cctvchild" group-title="CCTV-HD",CCTV-14 HD
 http://hdtv.lzu6.edu.cn/hls/cctv14hd.m3u8
 
-#EXTINF:-1,CCTV-15音乐高清
+#EXTINF:-1 tvg-id="cctv15" group-title="CCTV-HD",CCTV-15 HD
 http://hdtv.lzu6.edu.cn/hls/jlu_cctv15hd.m3u8
 
 #EXTINF:-1 tvg-id="cctv17" group-title="CCTV-HD",CCTV-17 HD
@@ -51,8 +54,11 @@ http://hdtv.lzu6.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1 tvg-id="diyijuchang" group-title="CCTV-HD",CCTV-第一剧场 HD
 http://hdtv.lzu6.edu.cn/hls/dyjctv.m3u8
 
-#EXTINF:-1 tvg-id="cctvfyzq" group-title="CCTV-HD",CCTV-风云足球 HD
+#EXTINF:-1 tvg-id="fyzq" group-title="CCTV-HD",CCTV-风云足球 HD
 http://hdtv.lzu6.edu.cn/hls/fyzqtv.m3u8
+
+#EXTINF:-1 tvg-id="fyyy" group-title="CCTV-HD",CCTV-风云音乐 HD
+http://hdtv.lzu6.edu.cn/hls/hls184a519.m3u8
 
 #EXTINF:-1 tvg-id="guofang" group-title="CCTV-HD",CCTV-国防军事 HD
 http://hdtv.lzu6.edu.cn/hls/gfjstv.m3u8
