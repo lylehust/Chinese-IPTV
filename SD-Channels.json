@@ -1,0 +1,398 @@
+[
+  {
+    "channelName": "CCTV-1综合",
+    "isHD": false,
+    "url": "./hls/cctv1.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-2财经",
+    "isHD": false,
+    "url": "./hls/cctv2.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-3综艺",
+    "isHD": false,
+    "url": "./hls/cctv3.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-4中文国际",
+    "isHD": false,
+    "url": "./hls/cctv4.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-5体育",
+    "isHD": false,
+    "url": "./hls/cctv5.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-6电影",
+    "isHD": false,
+    "url": "./hls/cctv6.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-7军事农业",
+    "isHD": false,
+    "url": "./hls/cctv7.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-8电视剧",
+    "isHD": false,
+    "url": "./hls/cctv8.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-9纪录",
+    "isHD": false,
+    "url": "./hls/cctv9.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-10科教",
+    "isHD": false,
+    "url": "./hls/cctv10.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-11戏曲",
+    "isHD": false,
+    "url": "./hls/cctv11.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-12社会与法",
+    "isHD": false,
+    "url": "./hls/cctv12.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-13新闻",
+    "isHD": false,
+    "url": "./hls/cctv13.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-14少儿",
+    "isHD": false,
+    "url": "./hls/cctv14.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-15音乐",
+    "isHD": false,
+    "url": "./hls/cctv15.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-NEWS",
+    "isHD": false,
+    "url": "./hls/cctv16.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-第一剧场",
+    "isHD": false,
+    "url": "./hls/dyjctv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-世界地理",
+    "isHD": false,
+    "url": "./hls/sjdltv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-风云剧场",
+    "isHD": false,
+    "url": "./hls/fyjctv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-风云足球",
+    "isHD": false,
+    "url": "./hls/fyzqtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-国防军事",
+    "isHD": false,
+    "url": "./hls/gfjstv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "CCTV-怀旧剧场",
+    "isHD": false,
+    "url": "./hls/hjjctv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "北京文艺",
+    "isHD": false,
+    "url": "./hls/btv2.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "北京科教",
+    "isHD": false,
+    "url": "./hls/btv3.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "北京影视",
+    "isHD": false,
+    "url": "./hls/btv4.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "北京体育",
+    "isHD": false,
+    "url": "./hls/btv6.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "北京卫视",
+    "isHD": false,
+    "url": "./hls/btv1.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "北京财经",
+    "isHD": false,
+    "url": "./hls/btv5.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "北京生活",
+    "isHD": false,
+    "url": "./hls/btv7.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "北京青年",
+    "isHD": false,
+    "url": "./hls/btv8.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "卡酷少儿",
+    "isHD": false,
+    "url": "./hls/btv10.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "北京新闻",
+    "isHD": false,
+    "url": "./hls/btv9.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "深圳卫视",
+    "isHD": false,
+    "url": "./hls/sztv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "安徽卫视",
+    "isHD": false,
+    "url": "./hls/ahtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "河南卫视",
+    "isHD": false,
+    "url": "./hls/hntv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "陕西卫视",
+    "isHD": false,
+    "url": "./hls/sxtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "广东卫视",
+    "isHD": false,
+    "url": "./hls/gdtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "山东卫视",
+    "isHD": false,
+    "url": "./hls/sdtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "湖北卫视",
+    "isHD": false,
+    "url": "./hls/hbtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "河北卫视",
+    "isHD": false,
+    "url": "./hls/hebtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "西藏卫视",
+    "isHD": false,
+    "url": "./hls/xztv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "内蒙古卫视",
+    "isHD": false,
+    "url": "./hls/nmtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "四川卫视",
+    "isHD": false,
+    "url": "./hls/sctv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "江苏卫视",
+    "isHD": false,
+    "url": "./hls/jstv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "天津卫视",
+    "isHD": false,
+    "url": "./hls/tjtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "辽宁卫视",
+    "isHD": false,
+    "url": "./hls/lntv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "厦门卫视",
+    "isHD": false,
+    "url": "./hls/xmtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "新疆卫视",
+    "isHD": false,
+    "url": "./hls/xjtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "黑龙江卫视",
+    "isHD": false,
+    "url": "./hls/hljtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "湖南卫视",
+    "isHD": false,
+    "url": "./hls/hunantv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "云南卫视",
+    "isHD": false,
+    "url": "./hls/yntv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "福建东南卫视",
+    "isHD": false,
+    "url": "./hls/dntv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "浙江卫视",
+    "isHD": false,
+    "url": "./hls/zjtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "贵州卫视",
+    "isHD": false,
+    "url": "./hls/gztv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "甘肃卫视",
+    "isHD": false,
+    "url": "./hls/gstv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "重庆卫视",
+    "isHD": false,
+    "url": "./hls/cqtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "吉林卫视",
+    "isHD": false,
+    "url": "./hls/jltv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "广西卫视",
+    "isHD": false,
+    "url": "./hls/gxtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "青海卫视",
+    "isHD": false,
+    "url": "./hls/qhtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "山西卫视",
+    "isHD": false,
+    "url": "./hls/sxrtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "东方卫视",
+    "isHD": false,
+    "url": "./hls/dftv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "江西卫视",
+    "isHD": false,
+    "url": "./hls/jxtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "宁夏卫视",
+    "isHD": false,
+    "url": "./hls/nxtv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "旅游卫视",
+    "isHD": false,
+    "url": "./hls/lytv.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "探索频道",
+    "isHD": false,
+    "url": "./hls/discovery.m3u8",
+    "group": "标清频道"
+  },
+  {
+    "channelName": "国家地理",
+    "isHD": false,
+    "url": "./hls/natlgeo.m3u8",
+    "group": "标清频道"
+  }
+]
