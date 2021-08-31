@@ -14,7 +14,7 @@ guide.xml. If your time zone is Eastern Time Zone (UTC-5), EPG time shift is -5
 because time in guide.xml is UTC-0. Otherwise, you can change EPG time shift number
 according to your time zone.
 
-Channel list:
+Channel list:  
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-HAUST.m3u  
 Or, https://git.io/JEHPX 
 
@@ -38,6 +38,6 @@ guide.xml will be refreshed at 3:00am (EST) every day.
 
 06/02/2021: added full list of LZU (thanks Chiser, https://www.chiser.cc/2146.html).
 
-08/31/2021: added HAUST, remove AHAU.
+08/31/2021: added HAUST and remove AHAU.
 
 Thank haust.edu.cn and lzu.edu.cn a lot. 
