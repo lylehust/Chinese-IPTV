@@ -37,8 +37,6 @@ guide.xml will be refreshed at 3:00am (EST) every day.
 
 10/21/2020: added LZU.
 
-06/02/2021: added full list of LZU (thanks Chiser, https://www.chiser.cc/2146.html).
-
 08/31/2021: added HAUST and remove AHAU.
 
 Thank haust.edu.cn and lzu.edu.cn a lot. 
