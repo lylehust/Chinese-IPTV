@@ -29,6 +29,9 @@ Or, https://git.io/JGoJk
 
 08/31/2021: added HAUST and remove AHAU.
 
-09/22/2021: WebGrab+Plus doesn't work anymore, and remove EPG file (guide.xml).
+09/22/2021: WebGrab+Plus doesn't work anymore, and remove the EPG file (guide.xml).
+
+09/22/2021：Changed TV-EDU-HAUST.m3u according to http://epg.51zmt.top:8000/ . 
+Recommand http://epg.51zmt.top:8000/e.xml as the EPG file.
 
 Thank haust.edu.cn and lzu.edu.cn a lot. 

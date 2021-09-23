@@ -1,383 +1,255 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="cctv1" group-title="CCTV-HD",CCTV-1 HD
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV-HD",CCTV-1 HD
 http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv2" group-title="CCTV-HD",CCTV-2 HD
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV-HD",CCTV-2 HD
 http://hdtv.haust.edu.cn/hls/cctv2hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv3" group-title="CCTV-HD",CCTV-3 HD
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV-HD",CCTV-3 HD
 http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv4" group-title="CCTV-HD",CCTV-4 HD
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV-HD",CCTV-4 HD
 http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv5" group-title="CCTV-HD",CCTV-5 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CCTV-HD",CCTV-5 HD
 http://hdtv.haust.edu.cn/hls/cctv5hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv5plus" group-title="CCTV-HD",CCTV-5+ HD
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV-HD",CCTV-5+ HD
 http://hdtv.haust.edu.cn/hls/cctv5phd.m3u8
-
-#EXTINF:-1 tvg-id="cctv6" group-title="CCTV-HD",CCTV-6 HD
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV-HD",CCTV-6 HD
 http://hdtv.haust.edu.cn/hls/cctv6hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv7" group-title="CCTV-HD",CCTV-7 HD
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV-HD",CCTV-7 HD
 http://hdtv.haust.edu.cn/hls/cctv7hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv8" group-title="CCTV-HD",CCTV-8 HD
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV-HD",CCTV-8 HD
 http://hdtv.haust.edu.cn/hls/cctv8hd.m3u8
-
-#EXTINF:-1 tvg-id="cctvjilu" group-title="CCTV-HD",CCTV-9 HD
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV-HD",CCTV-9 HD
 http://hdtv.haust.edu.cn/hls/cctv9hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv10" group-title="CCTV-HD",CCTV-10 HD
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV-HD",CCTV-10 HD
 http://hdtv.haust.edu.cn/hls/cctv10hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv12" group-title="CCTV-HD",CCTV-12 HD
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV-HD",CCTV-12 HD
 http://hdtv.haust.edu.cn/hls/cctv12hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv13" group-title="CCTV-HD",CCTV-13 HD
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV-HD",CCTV-13 HD
 http://hdtv.haust.edu.cn/hls/jlu_cctv13.m3u8
-
-#EXTINF:-1 tvg-id="cctvchild" group-title="CCTV-HD",CCTV-14 HD
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV-HD",CCTV-14 HD
 http://hdtv.haust.edu.cn/hls/cctv14hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv17" group-title="CCTV-HD",CCTV-17 HD
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV-HD",CCTV-17 HD
 http://hdtv.haust.edu.cn/hls/cctv17hd.m3u8
-
-#EXTINF:-1 tvg-id="diyijuchang" group-title="CCTV-HD",CCTV-第一剧场 HD
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="CCTV-HD",CCTV-第一剧场 HD
 http://hdtv.haust.edu.cn/hls/dyjctv.m3u8
-
-#EXTINF:-1 tvg-id="cctvfyzq" group-title="CCTV-HD",CCTV-风云足球 HD
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="CCTV-HD",CCTV-风云足球 HD
 http://hdtv.haust.edu.cn/hls/fyzqtv.m3u8
-
-#EXTINF:-1 tvg-id="fyyy" group-title="CCTV-HD",CCTV-风云音乐 HD
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="CCTV-HD",CCTV-风云音乐 HD
 http://hdtv.haust.edu.cn/hls/hls184a519.m3u8
-
-#EXTINF:-1 tvg-id="guofang" group-title="CCTV-HD",CCTV-国防军事 HD
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV-HD",CCTV-国防军事 HD
 http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
-
-#EXTINF:-1 group-title="CCTV-HD",CGTN高清 HD
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV-HD",CGTN高清 HD
 http://hdtv.haust.edu.cn/hls/hls67a43.m3u8
-
-#EXTINF:-1 group-title="CCTV-HD",CGTN 纪录 HD
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV-HD",CGTN 纪录 HD
 http://hdtv.haust.edu.cn/hls/hls67a44.m3u8
-
-#EXTINF:-1 tvg-id="cetv1" group-title="Local TV HD",CETV1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD",CETV1 HD
 http://hdtv.haust.edu.cn/hls/cetv1hd.m3u8
-
-#EXTINF:-1 tvg-id="btv1" group-title="Local TV HD",北京卫视 HD
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="LocalTVHD",北京卫视 HD
 http://hdtv.haust.edu.cn/hls/btv1hd.m3u8
-
-#EXTINF:-1 tvg-id="btv2" group-title="Local TV HD",北京文艺 HD
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="LocalTVHD",北京文艺 HD
 http://hdtv.haust.edu.cn/hls/btv2hd.m3u8
-
-#EXTINF:-1 tvg-id="btv3" group-title="Local TV HD",北京科教 HD
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="LocalTVHD",北京科教 HD
 http://hdtv.haust.edu.cn/hls/btv3hd.m3u8
-
-#EXTINF:-1 tvg-id="btv4" group-title="Local TV HD",北京影视 HD
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="LocalTVHD",北京影视 HD
 http://hdtv.haust.edu.cn/hls/btv4hd.m3u8
-
-#EXTINF:-1 tvg-id="btv5" group-title="Local TV HD",北京财经 HD
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="LocalTVHD",北京财经 HD
 http://hdtv.haust.edu.cn/hls/btv5hd.m3u8
-
-#EXTINF:-1 tvg-id="btv7" group-title="Local TV HD",北京生活 HD
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="LocalTVHD",北京生活 HD
 http://hdtv.haust.edu.cn/hls/btv7hd.m3u8
-
-#EXTINF:-1 tvg-id="btv8" group-title="Local TV HD",北京青年 HD
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="LocalTVHD",北京青年 HD
 http://hdtv.haust.edu.cn/hls/btv8hd.m3u8
-
-#EXTINF:-1 tvg-id="btv9" group-title="Local TV HD",北京新闻 HD
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="LocalTVHD",北京新闻 HD
 http://hdtv.haust.edu.cn/hls/btv9hd.m3u8
-
-#EXTINF:-1 tvg-id="btvjishi" group-title="Local TV HD",北京纪实 HD
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="LocalTVHD",北京纪实 HD
 http://hdtv.haust.edu.cn/hls/btv11hd.m3u8
-
-#EXTINF:-1 tvg-id="hunan" group-title="Local TV HD",湖南卫视 HD
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="LocalTVHD",湖南卫视 HD
 http://hdtv.haust.edu.cn/hls/hunanhd.m3u8
-
-#EXTINF:-1 tvg-id="jiangsu" group-title="Local TV HD",江苏卫视 HD
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="LocalTVHD",江苏卫视 HD
 http://hdtv.haust.edu.cn/hls/jshd.m3u8
-
-#EXTINF:-1 tvg-id="zhejiang" group-title="Local TV HD",浙江卫视 HD
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="LocalTVHD",浙江卫视 HD
 http://hdtv.haust.edu.cn/hls/zjhd.m3u8
-
-#EXTINF:-1 tvg-id="dongfang" group-title="Local TV HD",东方卫视 HD
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="LocalTVHD",东方卫视 HD
 http://hdtv.haust.edu.cn/hls/dfhd.m3u8
-
-#EXTINF:-1 tvg-id="anhui" group-title="Local TV HD",安徽卫视 HD
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="LocalTVHD",安徽卫视 HD
 http://hdtv.haust.edu.cn/hls/ahhd.m3u8
-
-#EXTINF:-1 tvg-id="heilongjiang" group-title="Local TV HD",黑龙江卫视 HD
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="LocalTVHD",黑龙江卫视 HD
 http://hdtv.haust.edu.cn/hls/hljhd.m3u8
-
-#EXTINF:-1 tvg-id="liaoning" group-title="Local TV HD",辽宁卫视 HD
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="LocalTVHD",辽宁卫视 HD
 http://hdtv.haust.edu.cn/hls/lnhd.m3u8
-
-#EXTINF:-1 tvg-id="shenzhen" group-title="Local TV HD",深圳卫视 HD
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="LocalTVHD",深圳卫视 HD
 http://hdtv.haust.edu.cn/hls/szhd.m3u8
-
-#EXTINF:-1 tvg-id="guangdong" group-title="Local TV HD",广东卫视 HD
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="LocalTVHD",广东卫视 HD
 http://hdtv.haust.edu.cn/hls/gdhd.m3u8
-
-#EXTINF:-1 tvg-id="tianjin" group-title="Local TV HD",天津卫视 HD
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="LocalTVHD",天津卫视 HD
 http://hdtv.haust.edu.cn/hls/tjhd.m3u8
-
-#EXTINF:-1 tvg-id="hubei" group-title="Local TV HD",湖北卫视 HD
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="LocalTVHD",湖北卫视 HD
 http://hdtv.haust.edu.cn/hls/hbhd.m3u8
-
-#EXTINF:-1 tvg-id="shandong" group-title="Local TV HD",山东卫视 HD
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="LocalTVHD",山东卫视 HD
 http://hdtv.haust.edu.cn/hls/sdhd.m3u8
-
-#EXTINF:-1 tvg-id="chongqing" group-title="Local TV HD",重庆卫视 HD
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="LocalTVHD",重庆卫视 HD
 http://hdtv.haust.edu.cn/hls/cqhd.m3u8
-
-#EXTINF:-1 tvg-id="hebei" group-title="Local TV HD",河北卫视 HD
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="LocalTVHD",河北卫视 HD
 http://hdtv.haust.edu.cn/hls/hebhd.m3u8
-
-#EXTINF:-1 tvg-id="sichuan" group-title="Local TV HD",四川卫视 HD
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="LocalTVHD",四川卫视 HD
 http://hdtv.haust.edu.cn/hls/schd.m3u8
-
-#EXTINF:-1 tvg-id="jiangxi" group-title="Local TV HD",江西卫视 HD
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="LocalTVHD",江西卫视 HD
 http://hdtv.haust.edu.cn/hls/jxhd.m3u8
-
-#EXTINF:-1 tvg-id="dongnan" group-title="Local TV HD",福建东南卫视 HD
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="LocalTVHD",福建东南卫视 HD
 http://hdtv.haust.edu.cn/hls/dnhd.m3u8
-
-#EXTINF:-1 tvg-id="hainan" group-title="Local TV HD", 海南卫视 HD
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="LocalTVHD", 海南卫视 HD
 http://hdtv.haust.edu.cn/hls/lyhd.m3u8
-
-#EXTINF:-1 group-title="Local TV HD",上海纪实 HD
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="LocalTVHD",上海纪实 HD
 http://hdtv.haust.edu.cn/hls/docuchina.m3u8
-
-#EXTINF:-1 group-title="Local TV HD",金鹰纪实 HD
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="LocalTVHD",金鹰纪实 HD
 http://hdtv.haust.edu.cn/hls/gedocu.m3u8
-
-#EXTINF:-1 group-title="Local TV HD",CHC高清 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD",CHC高清 HD
 http://hdtv.haust.edu.cn/hls/chchd.m3u8
-
-#EXTINF:-1 group-title="Local TV HD",足球 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD",足球 HD
 http://hdtv.haust.edu.cn/hls/zqhd.m3u8
-
-#EXTINF:-1 group-title="Local TV HD", 爱映画 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD", 爱映画 HD
 http://hdtv.haust.edu.cn/hls/hls78a46.m3u8
-
-#EXTINF:-1 group-title="Local TV HD", 晴天动画馆 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD", 晴天动画馆 HD
 http://hdtv.haust.edu.cn/hls/hls78a47.m3u8
-
-#EXTINF:-1 group-title="Local TV HD", 时光剧场 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD", 时光剧场 HD
 http://hdtv.haust.edu.cn/hls/hls78a48.m3u8
-
-
-#EXTINF:-1 tvg-id="cctv1" aspect-ratio="4:3" group-title="CCTV",CCTV-1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV",CCTV-1
 http://hdtv.haust.edu.cn/hls/cctv1.m3u8
-
-#EXTINF:-1 tvg-id="cctv2" aspect-ratio="4:3" group-title="CCTV",CCTV-2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV",CCTV-2
 http://hdtv.haust.edu.cn/hls/cctv2.m3u8
-
-#EXTINF:-1 tvg-id="cctv3" aspect-ratio="4:3" group-title="CCTV",CCTV-3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV",CCTV-3
 http://hdtv.haust.edu.cn/hls/cctv3.m3u8
-
-#EXTINF:-1 tvg-id="cctv4" aspect-ratio="4:3" group-title="CCTV",CCTV-4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV",CCTV-4
 http://hdtv.haust.edu.cn/hls/cctv4.m3u8
-
-#EXTINF:-1 tvg-id="cctv5" aspect-ratio="4:3" group-title="CCTV",CCTV-5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV",CCTV-5
 http://hdtv.haust.edu.cn/hls/cctv5.m3u8
-
-#EXTINF:-1 tvg-id="cctv6" aspect-ratio="4:3" group-title="CCTV",CCTV-6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV",CCTV-6
 http://hdtv.haust.edu.cn/hls/cctv6.m3u8
-
-#EXTINF:-1 tvg-id="cctv7" aspect-ratio="4:3" group-title="CCTV",CCTV-7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV",CCTV-7
 http://hdtv.haust.edu.cn/hls/cctv7.m3u8
-
-#EXTINF:-1 tvg-id="cctv8" aspect-ratio="4:3" group-title="CCTV",CCTV-8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV",CCTV-8
 http://hdtv.haust.edu.cn/hls/cctv8.m3u8
-
-#EXTINF:-1 tvg-id="cctvjilu" aspect-ratio="4:3" group-title="CCTV",CCTV-9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV",CCTV-9
 http://hdtv.haust.edu.cn/hls/cctv9.m3u8
-
-#EXTINF:-1 tvg-id="cctv10" aspect-ratio="4:3" group-title="CCTV",CCTV-10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV",CCTV-10
 http://hdtv.haust.edu.cn/hls/cctv10.m3u8
-
-#EXTINF:-1 tvg-id="cctv11" aspect-ratio="4:3" group-title="CCTV",CCTV-11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV",CCTV-11
 http://hdtv.haust.edu.cn/hls/cctv11.m3u8
-
-#EXTINF:-1 tvg-id="cctv12" aspect-ratio="4:3" group-title="CCTV",CCTV-12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV",CCTV-12
 http://hdtv.haust.edu.cn/hls/cctv12.m3u8
-
-#EXTINF:-1 tvg-id="cctv13" aspect-ratio="4:3" group-title="CCTV",CCTV-13 News
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV",CCTV-13 News
 http://hdtv.haust.edu.cn/hls/cctv13.m3u8
-
-#EXTINF:-1 tvg-id="cctvchild" aspect-ratio="4:3" group-title="CCTV",CCTV-14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV",CCTV-14
 http://hdtv.haust.edu.cn/hls/cctv14.m3u8
-
-#EXTINF:-1 tvg-id="cctv15" aspect-ratio="4:3" group-title="CCTV",CCTV-15 Music
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV",CCTV-15 Music
 http://hdtv.haust.edu.cn/hls/cctv15.m3u8
-
-#EXTINF:-1 tvg-id="btv1" group-title="Local TV",北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="LocalTV",北京卫视
 http://hdtv.haust.edu.cn/hls/btv1.m3u8
-
-#EXTINF:-1 tvg-id="btv2" group-title="Local TV",北京文艺
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="LocalTV",北京文艺
 http://hdtv.haust.edu.cn/hls/btv2.m3u8
-
-#EXTINF:-1 tvg-id="btv3" group-title="Local TV",北京科教
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="LocalTV",北京科教
 http://hdtv.haust.edu.cn/hls/btv3.m3u8
-
-#EXTINF:-1 tvg-id="btv4" group-title="Local TV",北京影视
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="LocalTV",北京影视
 http://hdtv.haust.edu.cn/hls/btv4.m3u8
-
-#EXTINF:-1 tvg-id="btv5" group-title="Local TV",北京财经
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="LocalTV",北京财经
 http://hdtv.haust.edu.cn/hls/btv5.m3u8
-
-#EXTINF:-1 tvg-id="btv7" group-title="Local TV",北京生活
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="LocalTV",北京生活
 http://hdtv.haust.edu.cn/hls/btv7.m3u8
-
-#EXTINF:-1 tvg-id="btv8" group-title="Local TV",北京青年
+#EXTINF:-1 tvg-id="1879" tvg-name="BTV青年" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png" group-title="LocalTV",北京青年
 http://hdtv.haust.edu.cn/hls/btv8.m3u8
-
-#EXTINF:-1 tvg-id="btv9" group-title="Local TV",北京新闻
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="LocalTV",北京新闻
 http://hdtv.haust.edu.cn/hls/btv9.m3u8
-
-#EXTINF:-1 tvg-id="btvchild" group-title="Local TV",卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="LocalTV",卡酷少儿
 http://hdtv.haust.edu.cn/hls/btv10.m3u8
-
-#EXTINF:-1 tvg-id="shenzhen" group-title="Local TV",深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="LocalTV",深圳卫视
 http://hdtv.haust.edu.cn/hls/sztv.m3u8
-
-#EXTINF:-1 tvg-id="anhui" group-title="Local TV",安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="LocalTV",安徽卫视
 http://hdtv.haust.edu.cn/hls/ahtv.m3u8
-
-#EXTINF:-1 tvg-id="henan" group-title="Local TV",河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="LocalTV",河南卫视
 http://hdtv.haust.edu.cn/hls/hntv.m3u8
-
-#EXTINF:-1 group-title="Local TV",陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="LocalTV",陕西卫视
 http://hdtv.haust.edu.cn/hls/sxtv.m3u8
-
-#EXTINF:-1 tvg-id="guangdong" group-title="Local TV",广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="LocalTV",广东卫视
 http://hdtv.haust.edu.cn/hls/gdtv.m3u8
-
-#EXTINF:-1 tvg-id="shandong" group-title="Local TV",山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="LocalTV",山东卫视
 http://hdtv.haust.edu.cn/hls/sdtv.m3u8
-
-#EXTINF:-1 tvg-id="hubei" group-title="Local TV",湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="LocalTV",湖北卫视
 http://hdtv.haust.edu.cn/hls/hbtv.m3u8
-
-#EXTINF:-1 tvg-id="hebei" group-title="Local TV",河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="LocalTV",河北卫视
 http://hdtv.haust.edu.cn/hls/hebtv.m3u8
-
-#EXTINF:-1 tvg-id="xizang" group-title="Local TV",西藏卫视
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="LocalTV",西藏卫视
 http://hdtv.haust.edu.cn/hls/xztv.m3u8
-
-#EXTINF:-1 tvg-id="neimenggu" group-title="Local TV",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="LocalTV",内蒙古卫视
 http://hdtv.haust.edu.cn/hls/nmtv.m3u8
-
-#EXTINF:-1 tvg-id="sichuan" group-title="Local TV",四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="LocalTV",四川卫视
 http://hdtv.haust.edu.cn/hls/sctv.m3u8
-
-#EXTINF:-1 tvg-id="jiangsu" group-title="Local TV",江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="LocalTV",江苏卫视
 http://hdtv.haust.edu.cn/hls/jstv.m3u8
-
-#EXTINF:-1 tvg-id="tianjin" group-title="Local TV",天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="LocalTV",天津卫视
 http://hdtv.haust.edu.cn/hls/tjtv.m3u8
-
-#EXTINF:-1 tvg-id="liaoning" group-title="Local TV",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="LocalTV",辽宁卫视
 http://hdtv.haust.edu.cn/hls/lntv.m3u8
-
-#EXTINF:-1 tvg-id="xiamen" group-title="Local TV",厦门卫视
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="LocalTV",厦门卫视
 http://hdtv.haust.edu.cn/hls/xmtv.m3u8
-
-#EXTINF:-1 tvg-id="xinjiang" group-title="Local TV",新疆卫视
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="LocalTV",新疆卫视
 http://hdtv.haust.edu.cn/hls/xjtv.m3u8
-
-#EXTINF:-1 tvg-id="heilongjiang" group-title="Local TV",黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="LocalTV",黑龙江卫视
 http://hdtv.haust.edu.cn/hls/hljtv.m3u8
-
-#EXTINF:-1 tvg-id="hunan" group-title="Local TV",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="LocalTV",湖南卫视
 http://hdtv.haust.edu.cn/hls/hunantv.m3u8
-
-#EXTINF:-1 tvg-id="yunnan" group-title="Local TV",云南卫视
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="LocalTV",云南卫视
 http://hdtv.haust.edu.cn/hls/yntv.m3u8
-
-#EXTINF:-1 tvg-id="dongnan" group-title="Local TV",福建东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="LocalTV",福建东南卫视
 http://hdtv.haust.edu.cn/hls/dntv.m3u8
-
-#EXTINF:-1 tvg-id="zhejiang" group-title="Local TV",浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="LocalTV",浙江卫视
 http://hdtv.haust.edu.cn/hls/zjtv.m3u8
-
-#EXTINF:-1 tvg-id="guizhou" group-title="Local TV",贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="LocalTV",贵州卫视
 http://hdtv.haust.edu.cn/hls/gztv.m3u8
-
-#EXTINF:-1 tvg-id="gansu" group-title="Local TV",甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="LocalTV",甘肃卫视
 http://hdtv.haust.edu.cn/hls/gstv.m3u8
-
-#EXTINF:-1 tvg-id="chongqing" group-title="Local TV",重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="LocalTV",重庆卫视
 http://hdtv.haust.edu.cn/hls/cqtv.m3u8
-
-#EXTINF:-1 tvg-id="jilin" group-title="Local TV",吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="LocalTV",吉林卫视
 http://hdtv.haust.edu.cn/hls/jltv.m3u8
-
-#EXTINF:-1 tvd-id="guangxi" group-title="Local TV",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="LocalTV",广西卫视
 http://hdtv.haust.edu.cn/hls/gxtv.m3u8
-
-#EXTINF:-1 tvg-id="qinghai" group-title="Local TV",青海卫视
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="LocalTV",青海卫视
 http://hdtv.haust.edu.cn/hls/qhtv.m3u8
-
-#EXTINF:-1 tvg-id="shan1xi" group-title="Local TV",山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="LocalTV",山西卫视
 http://hdtv.haust.edu.cn/hls/sxrtv.m3u8
-
-#EXTINF:-1 tvg-id="dongfang" group-title="Local TV",东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="LocalTV",东方卫视
 http://hdtv.haust.edu.cn/hls/dftv.m3u8
-
-#EXTINF:-1 tvg-id="jiangxi" group-title="Local TV",江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="LocalTV",江西卫视
 http://hdtv.haust.edu.cn/hls/jxtv.m3u8
-
-#EXTINF:-1 tvg-id="ningxia" group-title="Local TV",宁夏卫视
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="LocalTV",宁夏卫视
 http://hdtv.haust.edu.cn/hls/nxtv.m3u8
-
-#EXTINF:-1 tvg-id="bingtuan" group-title="Local TV",兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="LocalTV",兵团卫视
 http://hdtv.haust.edu.cn/hls/bttv.m3u8
-
-#EXTINF:-1 tvg-id="cetv1" group-title="Local TV",CETV1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",CETV1
 http://hdtv.haust.edu.cn/hls/cetv1.m3u8
-
-#EXTINF:-1 tvg-id="cetv3" group-title="Local TV",CETV3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",CETV3
 http://hdtv.haust.edu.cn/hls/cetv3.m3u8
-
-#EXTINF:-1 tvg-id="cetv4" group-title="Local TV",CETV4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",CETV4
 http://hdtv.haust.edu.cn/hls/cetv4.m3u8
-
-#EXTINF:-1 group-title="Local TV",山东教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",山东教育
 http://hdtv.haust.edu.cn/hls/sdetv.m3u8
-
-#EXTINF:-1 group-title="Local TV",CHC动作电影
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="LocalTV",CHC动作电影
 http://hdtv.haust.edu.cn/hls/chcatv.m3u8
-
-#EXTINF:-1 group-title="Local TV",CHC家庭影院
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="LocalTV",CHC家庭影院
 http://hdtv.haust.edu.cn/hls/chctv.m3u8
-
-#EXTINF:-1 group-title="Local TV",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="LocalTV",金鹰卡通
 http://hdtv.haust.edu.cn/hls/jykttv.m3u8
-
-#EXTINF:-1 group-title="Local TV",凤凰卫视中文台
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="LocalTV",凤凰卫视中文台
 http://hdtv.haust.edu.cn/hls/fhzw.m3u8
-
-#EXTINF:-1 group-title="Local TV",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="LocalTV",凤凰卫视资讯台
 http://hdtv.haust.edu.cn/hls/fhzx.m3u8
-
-#EXTINF:-1 group-title="Local TV",凤凰卫视台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",凤凰卫视台
 http://hdtv.haust.edu.cn/hls/fhdy.m3u8
-
-#EXTINF:-1 group-title="Local TV",探索频道
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="LocalTV",探索频道
 http://hdtv.haust.edu.cn/hls/discovery.m3u8
-
-#EXTINF:-1 group-title="Local TV",国家地理
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="LocalTV",国家地理
 http://hdtv.haust.edu.cn/hls/natlgeo.m3u8
-
-#EXTINF:-1 group-title="Local TV",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",星空卫视
 http://hdtv.haust.edu.cn/hls/startv.m3u8
-
-#EXTINF:-1 group-title="Local TV",Channel[V]
+#EXTINF:-1 tvg-id="527" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="LocalTV",Channel[V]
 http://hdtv.haust.edu.cn/hls/channelv.m3u8
-
-#EXTINF:-1 group-title="Local TV",星空卫视体育台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",星空卫视体育台
 http://hdtv.haust.edu.cn/hls/starsports.m3u8
