@@ -41,7 +41,7 @@ http://hdtv.haust.edu.cn/hls/gfjstv.m3u8
 http://hdtv.haust.edu.cn/hls/hls67a43.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV-HD",CGTN 纪录 HD
 http://hdtv.haust.edu.cn/hls/hls67a44.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD",CETV1 HD
+#EXTINF:-1 tvg-id="60" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="LocalTVHD",CETV1 HD
 http://hdtv.haust.edu.cn/hls/cetv1hd.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="LocalTVHD",北京卫视 HD
 http://hdtv.haust.edu.cn/hls/btv1hd.m3u8
@@ -101,7 +101,7 @@ http://hdtv.haust.edu.cn/hls/lyhd.m3u8
 http://hdtv.haust.edu.cn/hls/docuchina.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="LocalTVHD",金鹰纪实 HD
 http://hdtv.haust.edu.cn/hls/gedocu.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD",CHC高清 HD
+#EXTINF:-1 tvg-id="75" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="LocalTVHD",CHC高清 HD
 http://hdtv.haust.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD",足球 HD
 http://hdtv.haust.edu.cn/hls/zqhd.m3u8
@@ -223,11 +223,11 @@ http://hdtv.haust.edu.cn/hls/jxtv.m3u8
 http://hdtv.haust.edu.cn/hls/nxtv.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="LocalTV",兵团卫视
 http://hdtv.haust.edu.cn/hls/bttv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",CETV1
+#EXTINF:-1 tvg-id="60" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="LocalTV",CETV1
 http://hdtv.haust.edu.cn/hls/cetv1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",CETV3
+#EXTINF:-1 tvg-id="62" tvg-name="教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="LocalTV",CETV3
 http://hdtv.haust.edu.cn/hls/cetv3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",CETV4
+#EXTINF:-1 tvg-id="138" tvg-name="教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="LocalTV",CETV4
 http://hdtv.haust.edu.cn/hls/cetv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",山东教育
 http://hdtv.haust.edu.cn/hls/sdetv.m3u8
@@ -241,7 +241,7 @@ http://hdtv.haust.edu.cn/hls/jykttv.m3u8
 http://hdtv.haust.edu.cn/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="LocalTV",凤凰卫视资讯台
 http://hdtv.haust.edu.cn/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",凤凰卫视台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",凤凰卫视电影台
 http://hdtv.haust.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="LocalTV",探索频道
 http://hdtv.haust.edu.cn/hls/discovery.m3u8
