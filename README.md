@@ -29,6 +29,6 @@ Or, https://git.io/JGoJk
 
 08/31/2021: added HAUST and remove AHAU.
 
-09/22/2021: WebGrab+Plus doesn't work anymore, and remove EPG (guide.xml) file.
+09/22/2021: WebGrab+Plus doesn't work anymore, and remove EPG file (guide.xml).
 
 Thank haust.edu.cn and lzu.edu.cn a lot. 
