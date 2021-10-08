@@ -19,10 +19,6 @@ Or,
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-LZU.m3u  
 Or, https://git.io/JYdg6
 
-Or,
-https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-LZU-FULL.m3u  
-Or, https://git.io/JGoJk
-
 ----------
 
 10/21/2020: added LZU.
