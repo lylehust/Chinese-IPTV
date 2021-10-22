@@ -13,8 +13,8 @@ zone.
 
 Channel list:  
 
-https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-BJYD.m3u
-Or, https://git.io/JiqrY 
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-BJYD.m3u  
+Or, https://git.io/JiqrY  
 
 Or,  
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-HAUST.m3u  
