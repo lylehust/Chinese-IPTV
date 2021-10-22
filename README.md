@@ -12,12 +12,13 @@ UTC-0. Otherwise, you can change EPG time shift number according to your time
 zone.
 
 Channel list:  
+
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-BJYD.m3u
+Or, https://git.io/JiqrY 
+
+Or,  
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-HAUST.m3u  
 Or, https://git.io/JEHPX 
-
-Or,
-https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-LZU.m3u  
-Or, https://git.io/JYdg6
 
 ----------
 
@@ -30,6 +31,6 @@ Or, https://git.io/JYdg6
 09/22/2021: Changed TV-EDU-HAUST.m3u according to http://epg.51zmt.top:8000/ . 
 Recommand http://epg.51zmt.top:8000/e.xml as the EPG file.
 
-10/22/2021: added Beijing Mobile (IPV6 ?)
+10/22/2021: added Beijing Mobile (IPV6 ?) and remove LZU.
 
 Thank haust.edu.cn and lzu.edu.cn a lot. 
