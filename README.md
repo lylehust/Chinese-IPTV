@@ -31,6 +31,6 @@ Or, https://git.io/JEHPX
 09/22/2021: Changed TV-EDU-HAUST.m3u according to http://epg.51zmt.top:8000/ . 
 Recommand http://epg.51zmt.top:8000/e.xml as the EPG file.
 
-10/22/2021: added Beijing Mobile (IPV6 ?) and remove LZU.
+10/22/2021: added Beijing Mobile (https://github.com/SPX372928/MyIPTV, IPV6 ?) and remove LZU.
 
 Thank haust.edu.cn and lzu.edu.cn a lot. 
