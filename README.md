@@ -30,4 +30,6 @@ Or, https://git.io/JYdg6
 09/22/2021: Changed TV-EDU-HAUST.m3u according to http://epg.51zmt.top:8000/ . 
 Recommand http://epg.51zmt.top:8000/e.xml as the EPG file.
 
+10/22/2021: added Beijing Mobile (IPV6 ?)
+
 Thank haust.edu.cn and lzu.edu.cn a lot. 
