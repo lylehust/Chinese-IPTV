@@ -1,38 +1,71 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV-HD",CCTV-1 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV-HD",CCTV-1 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226416/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV-HD",CCTV-1 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV-HD",CCTV-1 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226431/1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV-HD",CCTV-2 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV-HD",CCTV-2 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226230/1.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV-HD",CCTV-2 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226472/1.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV-HD",CCTV-3 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226471/1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV-HD",CCTV-4 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV-HD",CCTV-4 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="cctv5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV-HD",CCTV-5 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV-HD",CCTV-5+ HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226458/1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV-HD",CCTV-5+ HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226225/1.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV-HD",CCTV-5+ HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226349/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV-HD",CCTV-6 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226468/1.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV-HD",CCTV-7 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226234/1.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV-HD",CCTV-7 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226467/1.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV-HD",CCTV-8 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226485/1.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV-HD",CCTV-9 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226236/1.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV-HD",CCTV-9 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226465/1.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV-HD",CCTV-10 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226464/1.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV-HD",CCTV-10 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226227/1.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV-HD",CCTV-11 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV-HD",CCTV-11 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226334/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV-HD",CCTV-12 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV-HD",CCTV-12 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226228/1.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV-HD",CCTV-13 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV-HD",CCTV-14 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226461/1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV-HD",CCTV-14 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226229/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV-HD",CCTV-15 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV-HD",CCTV-15 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226460/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV-HD",CCTV-17 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226459/1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV-HD",CCTV-17 HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226318/1.m3u8
 
 #EXTINF:-1 tvg-id="60" tvg-name="教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="LocalTVHD",CETV1 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226494/1.m3u8
@@ -87,6 +120,13 @@ http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226507/1.m3u8
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226243/1.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="LocalTVHD",福建东南卫视 HD
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226496/1.m3u8
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="LocalTVHD",凤凰卫视中文台
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="LocalTVHD",凤凰卫视中文台
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="LocalTV",凤凰卫视资讯台
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocaLTVHD",咪咕4K 31M2160HDR
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
