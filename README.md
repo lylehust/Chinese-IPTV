@@ -13,7 +13,7 @@ zone.
 
 Channel list:  
 
-https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-BJYD.m3u  
+https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-SXYD.m3u  
 Or, https://git.io/JiqrY  
 
 Or,  
@@ -32,5 +32,7 @@ Or, https://git.io/JEHPX
 Recommand http://epg.51zmt.top:8000/e.xml as the EPG file.
 
 10/22/2021: added Beijing Mobile (https://github.com/SPX372928/MyIPTV, IPV6 ?) and remove LZU.
+
+11/17/2021: added ShanXi Mobile (https://github.com/SPX372928/MyIPTV, IPV6 ?) and remove Beijing Mobile.
 
 Thank haust.edu.cn and lzu.edu.cn a lot. 
