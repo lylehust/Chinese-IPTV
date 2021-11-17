@@ -14,7 +14,7 @@ zone.
 Channel list:  
 
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-SXYD.m3u  
-Or, https://git.io/JiqrY  
+Or, https://git.io/J10Fd
 
 Or,  
 https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-HAUST.m3u  
