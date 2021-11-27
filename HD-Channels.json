@@ -1,0 +1,248 @@
+[
+  {
+    "channelName": "CCTV-1",
+    "isHD": true,
+    "url": "./hls/cctv1hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-2",
+    "isHD": true,
+    "url": "./hls/cctv2hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-3",
+    "isHD": true,
+    "url": "./hls/cctv3hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-4",
+    "isHD": true,
+    "url": "./hls/cctv4hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-5",
+    "isHD": true,
+    "url": "./hls/cctv5hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-5+",
+    "isHD": true,
+    "url": "./hls/cctv5phd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-6",
+    "isHD": true,
+    "url": "./hls/cctv6hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-7",
+    "isHD": true,
+    "url": "./hls/cctv7hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-8",
+    "isHD": true,
+    "url": "./hls/cctv8hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-9",
+    "isHD": true,
+    "url": "./hls/cctv9hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-10",
+    "isHD": true,
+    "url": "./hls/cctv10hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-12",
+    "isHD": true,
+    "url": "./hls/cctv12hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "CCTV-14",
+    "isHD": true,
+    "url": "./hls/cctv14hd.m3u8",
+    "group": "中央台高清频道"
+  },
+  {
+    "channelName": "北京卫视",
+    "isHD": true,
+    "url": "./hls/btv1hd.m3u8",
+    "group": "北京台高清频道"
+  },
+  {
+    "channelName": "北京文艺",
+    "isHD": true,
+    "url": "./hls/btv2hd.m3u8",
+    "group": "北京台高清频道"
+  },
+  {
+    "channelName": "北京体育",
+    "isHD": true,
+    "url": "./hls/btv6hd.m3u8",
+    "group": "北京台高清频道"
+  },
+  {
+    "channelName": "北京纪实",
+    "isHD": true,
+    "url": "./hls/btv11hd.m3u8",
+    "group": "北京台高清频道"
+  },
+  {
+    "channelName": "北京影视",
+    "isHD": true,
+    "url": "./hls/btv4hd.m3u8",
+    "group": "北京台高清频道"
+  },
+  {
+    "channelName": "北京新闻",
+    "isHD": true,
+    "url": "./hls/btv9hd.m3u8",
+    "group": "北京台高清频道"
+  },
+  {
+    "channelName": "湖南卫视",
+    "isHD": true,
+    "url": "./hls/hunanhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "江苏卫视",
+    "isHD": true,
+    "url": "./hls/jshd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "浙江卫视",
+    "isHD": true,
+    "url": "./hls/zjhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "东方卫视",
+    "isHD": true,
+    "url": "./hls/dfhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "安徽卫视",
+    "isHD": true,
+    "url": "./hls/ahhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "黑龙江卫视",
+    "isHD": true,
+    "url": "./hls/hljhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "辽宁卫视",
+    "isHD": true,
+    "url": "./hls/lnhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "深圳卫视",
+    "isHD": true,
+    "url": "./hls/szhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "广东卫视",
+    "isHD": true,
+    "url": "./hls/gdhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "天津卫视",
+    "isHD": true,
+    "url": "./hls/tjhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "湖北卫视",
+    "isHD": true,
+    "url": "./hls/hbhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "山东卫视",
+    "isHD": true,
+    "url": "./hls/sdhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "重庆卫视",
+    "isHD": true,
+    "url": "./hls/cqhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "河北卫视",
+    "isHD": true,
+    "url": "./hls/hebhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "四川卫视",
+    "isHD": true,
+    "url": "./hls/schd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "江西卫视",
+    "isHD": true,
+    "url": "./hls/jxhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "福建东南卫视",
+    "isHD": true,
+    "url": "./hls/dnhd.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "上海纪实",
+    "isHD": true,
+    "url": "./hls/docuchina.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "金鹰纪实",
+    "isHD": true,
+    "url": "./hls/gedocu.m3u8",
+    "group": "卫视高清频道"
+  },
+  {
+    "channelName": "CHC高清",
+    "isHD": true,
+    "url": "./hls/chchd.m3u8",
+    "group": "其他高清频道"
+  },
+  {
+    "channelName": "CGTN高清",
+    "isHD": true,
+    "url": "./hls/cgtnhd.m3u8",
+    "group": "其他高清频道"
+  },
+  {
+    "channelName": "全纪实",
+    "isHD": true,
+    "url": "./hls/documentaryhd.m3u8",
+    "group": "其他高清频道"
+  }
+]

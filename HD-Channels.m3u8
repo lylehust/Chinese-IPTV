@@ -1,0 +1,123 @@
+#EXTINF:-1 group-title="中央台高清频道",CCTV-1 HD
+http://ipv6.bjtu.edu.cn/hls/cctv1hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-2 HD
+http://ipv6.bjtu.edu.cn/hls/cctv2hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-3 HD
+http://ipv6.bjtu.edu.cn/hls/cctv3hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-4 HD
+http://ipv6.bjtu.edu.cn/hls/cctv4hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-5 HD
+http://ipv6.bjtu.edu.cn/hls/cctv5hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-5+ HD
+http://ipv6.bjtu.edu.cn/hls/cctv5phd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-6 HD
+http://ipv6.bjtu.edu.cn/hls/cctv6hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-7 HD
+http://ipv6.bjtu.edu.cn/hls/cctv7hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-8 HD
+http://ipv6.bjtu.edu.cn/hls/cctv8hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-9 HD
+http://ipv6.bjtu.edu.cn/hls/cctv9hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-10 HD
+http://ipv6.bjtu.edu.cn/hls/cctv10hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-12 HD
+http://ipv6.bjtu.edu.cn/hls/cctv12hd.m3u8 
+
+#EXTINF:-1 group-title="中央台高清频道",CCTV-14 HD
+http://ipv6.bjtu.edu.cn/hls/cctv14hd.m3u8 
+
+#EXTINF:-1 group-title="北京台高清频道",北京卫视 HD
+http://ipv6.bjtu.edu.cn/hls/btv1hd.m3u8 
+
+#EXTINF:-1 group-title="北京台高清频道",北京文艺 HD
+http://ipv6.bjtu.edu.cn/hls/btv2hd.m3u8 
+
+#EXTINF:-1 group-title="北京台高清频道",北京体育 HD
+http://ipv6.bjtu.edu.cn/hls/btv6hd.m3u8 
+
+#EXTINF:-1 group-title="北京台高清频道",北京纪实 HD
+http://ipv6.bjtu.edu.cn/hls/btv11hd.m3u8 
+
+#EXTINF:-1 group-title="北京台高清频道",北京影视 HD
+http://ipv6.bjtu.edu.cn/hls/btv4hd.m3u8 
+
+#EXTINF:-1 group-title="北京台高清频道",北京新闻 HD
+http://ipv6.bjtu.edu.cn/hls/btv9hd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",湖南卫视 HD
+http://ipv6.bjtu.edu.cn/hls/hunanhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",江苏卫视 HD
+http://ipv6.bjtu.edu.cn/hls/jshd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",浙江卫视 HD
+http://ipv6.bjtu.edu.cn/hls/zjhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",东方卫视 HD
+http://ipv6.bjtu.edu.cn/hls/dfhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",安徽卫视 HD
+http://ipv6.bjtu.edu.cn/hls/ahhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",黑龙江卫视 HD
+http://ipv6.bjtu.edu.cn/hls/hljhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",辽宁卫视 HD
+http://ipv6.bjtu.edu.cn/hls/lnhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",深圳卫视 HD
+http://ipv6.bjtu.edu.cn/hls/szhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",广东卫视 HD
+http://ipv6.bjtu.edu.cn/hls/gdhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",天津卫视 HD
+http://ipv6.bjtu.edu.cn/hls/tjhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",湖北卫视 HD
+http://ipv6.bjtu.edu.cn/hls/hbhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",山东卫视 HD
+http://ipv6.bjtu.edu.cn/hls/sdhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",重庆卫视 HD
+http://ipv6.bjtu.edu.cn/hls/cqhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",河北卫视 HD
+http://ipv6.bjtu.edu.cn/hls/hebhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",四川卫视 HD
+http://ipv6.bjtu.edu.cn/hls/schd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",江西卫视 HD
+http://ipv6.bjtu.edu.cn/hls/jxhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",福建东南卫视 HD
+http://ipv6.bjtu.edu.cn/hls/dnhd.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",上海纪实 HD
+http://ipv6.bjtu.edu.cn/hls/docuchina.m3u8 
+
+#EXTINF:-1 group-title="卫视高清频道",金鹰纪实 HD
+http://ipv6.bjtu.edu.cn/hls/gedocu.m3u8 
+
+#EXTINF:-1 group-title="其他高清频道",CHC高清 HD
+http://ipv6.bjtu.edu.cn/hls/chchd.m3u8 
+
+#EXTINF:-1 group-title="其他高清频道",CGTN高清 HD
+http://ipv6.bjtu.edu.cn/hls/cgtnhd.m3u8 
+
+#EXTINF:-1 group-title="其他高清频道",全纪实 HD
+http://ipv6.bjtu.edu.cn/hls/documentaryhd.m3u8 
+
